@@ -1,0 +1,2193 @@
+UNITID,INSTNM,CIPDESC,Avg_Student_Debt,Earnings_1Yr
+101116.0,South University-Montgomery,Information Science/Studies.,47362.0,39831.0
+101116.0,South University-Montgomery,Legal Support Services.,41831.0,33600.0
+101116.0,South University-Montgomery,"Psychology, General.",47750.0,26893.0
+101116.0,South University-Montgomery,Criminal Justice and Corrections.,48177.0,33655.0
+101116.0,South University-Montgomery,"Health Services/Allied Health/Health Sciences, General.",53011.0,31369.0
+101116.0,South University-Montgomery,Health and Medical Administrative Services.,48192.0,33436.0
+101116.0,South University-Montgomery,Public Health.,47839.0,29498.0
+101116.0,South University-Montgomery,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",39647.0,65499.0
+101116.0,South University-Montgomery,"Business Administration, Management and Operations.",47764.0,37748.0
+102845.0,Charter College,"Computer and Information Sciences, General.",,
+102845.0,Charter College,Legal Support Services.,,
+102845.0,Charter College,Criminal Justice and Corrections.,,
+102845.0,Charter College,Air Transportation.,,
+102845.0,Charter College,Health and Medical Administrative Services.,44265.0,35530.0
+102845.0,Charter College,"Business Administration, Management and Operations.",40016.0,45669.0
+102845.0,Charter College,Accounting and Related Services.,,
+102845.0,Charter College,Management Information Systems and Services.,,
+104090.0,Brookline College-Phoenix,Criminal Justice and Corrections.,,29361.0
+104090.0,Brookline College-Phoenix,Security Science and Technology.,,
+104090.0,Brookline College-Phoenix,Health and Medical Administrative Services.,,
+104090.0,Brookline College-Phoenix,Clinical/Medical Laboratory Science/Research and Allied Professions.,,
+104090.0,Brookline College-Phoenix,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",40944.0,68395.0
+104090.0,Brookline College-Phoenix,"Business Administration, Management and Operations.",29942.0,
+104717.0,Grand Canyon University,Natural Resources Conservation and Research.,,
+104717.0,Grand Canyon University,Communication and Media Studies.,28994.0,32141.0
+104717.0,Grand Canyon University,"Public Relations, Advertising, and Applied Communication.",,
+104717.0,Grand Canyon University,"Computer and Information Sciences, General.",31230.0,
+104717.0,Grand Canyon University,Computer Programming.,24669.0,
+104717.0,Grand Canyon University,Computer Science.,,
+104717.0,Grand Canyon University,Special Education and Teaching.,44549.0,35016.0
+104717.0,Grand Canyon University,"Teacher Education and Professional Development, Specific Levels and Methods.",37064.0,34808.0
+104717.0,Grand Canyon University,"Teacher Education and Professional Development, Specific Subject Areas.",,32529.0
+104717.0,Grand Canyon University,"Engineering, General.",,
+104717.0,Grand Canyon University,Biomedical/Medical Engineering.,,
+104717.0,Grand Canyon University,"Electrical, Electronics and Communications Engineering.",,
+104717.0,Grand Canyon University,Mechanical Engineering.,,
+104717.0,Grand Canyon University,Electrical Engineering Technologies/Technicians.,,
+104717.0,Grand Canyon University,Mechanical Engineering Related Technologies/Technicians.,,
+104717.0,Grand Canyon University,"Romance Languages, Literatures, and Linguistics.",,
+104717.0,Grand Canyon University,"Foods, Nutrition, and Related Services.",,
+104717.0,Grand Canyon University,"English Language and Literature, General.",,
+104717.0,Grand Canyon University,Rhetoric and Composition/Writing Studies.,28418.0,
+104717.0,Grand Canyon University,Literature.,36334.0,21664.0
+104717.0,Grand Canyon University,"Biology, General.",25418.0,27166.0
+104717.0,Grand Canyon University,"Biochemistry, Biophysics and Molecular Biology.",,
+104717.0,Grand Canyon University,"Multi/Interdisciplinary Studies, Other.",,
+104717.0,Grand Canyon University,Health and Physical Education/Fitness.,27251.0,32661.0
+104717.0,Grand Canyon University,Religion/Religious Studies.,,
+104717.0,Grand Canyon University,Religious Education.,36007.0,31317.0
+104717.0,Grand Canyon University,Chemistry.,,
+104717.0,Grand Canyon University,"Psychology, General.",,
+104717.0,Grand Canyon University,Criminal Justice and Corrections.,29963.0,35660.0
+104717.0,Grand Canyon University,Homeland Security.,29300.0,63625.0
+104717.0,Grand Canyon University,Security Science and Technology.,,
+104717.0,Grand Canyon University,"Human Services, General.",32932.0,32131.0
+104717.0,Grand Canyon University,Community Organization and Advocacy.,45215.0,31651.0
+104717.0,Grand Canyon University,Social Work.,37164.0,35775.0
+104717.0,Grand Canyon University,Political Science and Government.,28783.0,37086.0
+104717.0,Grand Canyon University,Sociology.,,
+104717.0,Grand Canyon University,"Visual and Performing Arts, General.",,28672.0
+104717.0,Grand Canyon University,Dance.,,
+104717.0,Grand Canyon University,Design and Applied Arts.,29271.0,
+104717.0,Grand Canyon University,Drama/Theatre Arts and Stagecraft.,,17151.0
+104717.0,Grand Canyon University,Film/Video and Photographic Arts.,31074.0,26438.0
+104717.0,Grand Canyon University,Music.,,
+104717.0,Grand Canyon University,"Arts, Entertainment,and Media Management.",,23893.0
+104717.0,Grand Canyon University,Health and Medical Administrative Services.,37817.0,39965.0
+104717.0,Grand Canyon University,"Allied Health Diagnostic, Intervention, and Treatment Professions.",24163.0,29792.0
+104717.0,Grand Canyon University,Clinical/Medical Laboratory Science/Research and Allied Professions.,37317.0,57101.0
+104717.0,Grand Canyon University,Mental and Social Health Services and Allied Professions.,37695.0,34191.0
+104717.0,Grand Canyon University,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",28873.0,78940.0
+104717.0,Grand Canyon University,"Health Professions and Related Clinical Sciences, Other.",,
+104717.0,Grand Canyon University,"Business/Commerce, General.",,
+104717.0,Grand Canyon University,"Business Administration, Management and Operations.",31884.0,47402.0
+104717.0,Grand Canyon University,Accounting and Related Services.,31675.0,45144.0
+104717.0,Grand Canyon University,Entrepreneurial and Small Business Operations.,30684.0,34651.0
+104717.0,Grand Canyon University,Finance and Financial Management Services.,28414.0,45302.0
+104717.0,Grand Canyon University,Hospitality Administration/Management.,,
+104717.0,Grand Canyon University,Management Sciences and Quantitative Methods.,27146.0,
+104717.0,Grand Canyon University,Marketing.,25253.0,39798.0
+104717.0,Grand Canyon University,History.,32516.0,30722.0
+105534.0,Pima Medical Institute-Tucson,Health and Medical Administrative Services.,42339.0,44210.0
+105534.0,Pima Medical Institute-Tucson,Allied Health and Medical Assisting Services.,32473.0,56165.0
+105534.0,Pima Medical Institute-Tucson,"Allied Health Diagnostic, Intervention, and Treatment Professions.",33882.0,72901.0
+105534.0,Pima Medical Institute-Tucson,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",,
+108232.0,Academy of Art University,Architecture.,,
+108232.0,Academy of Art University,Landscape Architecture.,,
+108232.0,Academy of Art University,Communication and Media Studies.,,
+108232.0,Academy of Art University,Journalism.,,
+108232.0,Academy of Art University,"Radio, Television, and Digital Communication.",25668.0,28192.0
+108232.0,Academy of Art University,"Public Relations, Advertising, and Applied Communication.",,
+108232.0,Academy of Art University,Audiovisual Communications Technologies/Technicians.,,
+108232.0,Academy of Art University,Graphic Communications.,38908.0,27837.0
+108232.0,Academy of Art University,Computer Programming.,,
+108232.0,Academy of Art University,Computer Software and Media Applications.,37362.0,42476.0
+108232.0,Academy of Art University,Educational/Instructional Media Design.,,
+108232.0,Academy of Art University,"Teacher Education and Professional Development, Specific Subject Areas.",,
+108232.0,Academy of Art University,Drafting/Design Engineering Technologies/Technicians.,41020.0,44238.0
+108232.0,Academy of Art University,Family and Consumer Sciences/Human Sciences Business Services.,,
+108232.0,Academy of Art University,Apparel and Textiles.,35265.0,32156.0
+108232.0,Academy of Art University,"Visual and Performing Arts, General.",34432.0,29153.0
+108232.0,Academy of Art University,Design and Applied Arts.,35867.0,28222.0
+108232.0,Academy of Art University,Drama/Theatre Arts and Stagecraft.,,18335.0
+108232.0,Academy of Art University,Film/Video and Photographic Arts.,38855.0,31710.0
+108232.0,Academy of Art University,Fine and Studio Arts.,,29422.0
+108232.0,Academy of Art University,Music.,,35022.0
+108232.0,Academy of Art University,"Specialized Sales, Merchandising and  Marketing Operations.",36792.0,44653.0
+110219.0,Bryan University,Legal Support Services.,,
+110219.0,Bryan University,Health and Medical Administrative Services.,,
+110219.0,Bryan University,"Allied Health Diagnostic, Intervention, and Treatment Professions.",37589.0,28017.0
+110219.0,Bryan University,"Business Administration, Management and Operations.",,
+110468.0,Alliant International University-San Diego,"Human Development, Family Studies, and Related Services.",,
+110468.0,Alliant International University-San Diego,"Psychology, General.",,
+110468.0,Alliant International University-San Diego,Criminal Justice and Corrections.,,
+110468.0,Alliant International University-San Diego,International Relations and National Security Studies.,,
+110468.0,Alliant International University-San Diego,Political Science and Government.,,
+110468.0,Alliant International University-San Diego,"Business Administration, Management and Operations.",,
+110468.0,Alliant International University-San Diego,International Business.,,
+110778.0,Sofia University,"Liberal Arts and Sciences, General Studies and Humanities.",,
+110778.0,Sofia University,"Psychology, Other.",,
+112394.0,University of Silicon Valley,Graphic Communications.,,27541.0
+112394.0,University of Silicon Valley,Computer Programming.,,
+112394.0,University of Silicon Valley,Computer Software and Media Applications.,,
+112394.0,University of Silicon Valley,"Engineering, Other.",,
+112394.0,University of Silicon Valley,Computer Engineering Technologies/Technicians.,,
+112394.0,University of Silicon Valley,Design and Applied Arts.,31793.0,
+112394.0,University of Silicon Valley,Music.,,33643.0
+112394.0,University of Silicon Valley,"Business Administration, Management and Operations.",,
+112394.0,University of Silicon Valley,Entrepreneurial and Small Business Operations.,,
+113582.0,Design Institute of San Diego,Design and Applied Arts.,44149.0,35661.0
+114354.0,FIDM-Fashion Institute of Design & Merchandising,Apparel and Textiles.,,34078.0
+114354.0,FIDM-Fashion Institute of Design & Merchandising,"Multi-/Interdisciplinary Studies, General.",,
+114354.0,FIDM-Fashion Institute of Design & Merchandising,Design and Applied Arts.,,30424.0
+114354.0,FIDM-Fashion Institute of Design & Merchandising,Drama/Theatre Arts and Stagecraft.,,
+114354.0,FIDM-Fashion Institute of Design & Merchandising,Film/Video and Photographic Arts.,,
+114354.0,FIDM-Fashion Institute of Design & Merchandising,Marketing.,,47288.0
+114354.0,FIDM-Fashion Institute of Design & Merchandising,"Business, Management, Marketing, and Related Support Services, Other.",29034.0,40481.0
+114390.0,FIDM-Fashion Institute of Design & Merchandising-San Francisco,Design and Applied Arts.,,30424.0
+114390.0,FIDM-Fashion Institute of Design & Merchandising-San Francisco,"Business, Management, Marketing, and Related Support Services, Other.",29034.0,40481.0
+116226.0,Interior Designers Institute,Design and Applied Arts.,29684.0,42627.0
+119270.0,Musicians Institute,Music.,,
+119775.0,Newschool of Architecture and Design,Architecture.,,51755.0
+119775.0,Newschool of Architecture and Design,Architectural Sciences and Technology.,,
+119775.0,Newschool of Architecture and Design,Graphic Communications.,,
+119775.0,Newschool of Architecture and Design,"Visual and Performing Arts, General.",,
+119775.0,Newschool of Architecture and Design,Design and Applied Arts.,33886.0,
+119775.0,Newschool of Architecture and Design,Construction Management.,22431.0,
+121275.0,Platt College-San Diego,Fine and Studio Arts.,31000.0,34252.0
+122685.0,San Joaquin Valley College-Visalia,"Allied Health Diagnostic, Intervention, and Treatment Professions.",28480.0,
+122834.0,Santa Barbara Business College-Bakersfield,Criminal Justice and Corrections.,37629.0,
+122834.0,Santa Barbara Business College-Bakersfield,Health and Medical Administrative Services.,,
+122834.0,Santa Barbara Business College-Bakersfield,"Business Administration, Management and Operations.",,
+122852.0,Santa Barbara Business College-Santa Maria,Criminal Justice and Corrections.,,
+122852.0,Santa Barbara Business College-Santa Maria,Health and Medical Administrative Services.,,
+122852.0,Santa Barbara Business College-Santa Maria,"Business Administration, Management and Operations.",,
+123642.0,South Coast College,Legal Support Services.,,
+125231.0,Walden University,Communication and Media Studies.,42540.0,
+125231.0,Walden University,"Computer and Information Sciences, General.",46921.0,54093.0
+125231.0,Walden University,"Education, General.",,
+125231.0,Walden University,Curriculum and Instruction.,,67666.0
+125231.0,Walden University,"Teacher Education and Professional Development, Specific Levels and Methods.",43448.0,
+125231.0,Walden University,"Human Development, Family Studies, and Related Services.",,30980.0
+125231.0,Walden University,"Multi-/Interdisciplinary Studies, General.",,
+125231.0,Walden University,"Psychology, General.",46608.0,34217.0
+125231.0,Walden University,"Clinical, Counseling and Applied Psychology.",47466.0,32422.0
+125231.0,Walden University,Criminal Justice and Corrections.,44963.0,46339.0
+125231.0,Walden University,"Human Services, General.",47816.0,36465.0
+125231.0,Walden University,Public Administration.,,
+125231.0,Walden University,Social Work.,,
+125231.0,Walden University,"Health Services/Allied Health/Health Sciences, General.",47001.0,47503.0
+125231.0,Walden University,Health and Medical Administrative Services.,47225.0,52093.0
+125231.0,Walden University,Public Health.,44511.0,47197.0
+125231.0,Walden University,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",33525.0,76141.0
+125231.0,Walden University,"Business Administration, Management and Operations.",44126.0,47287.0
+125231.0,Walden University,Accounting and Related Services.,51537.0,53529.0
+125231.0,Walden University,Business/Corporate Communications.,44798.0,53308.0
+126827.0,Colorado Technical University-Colorado Springs,"Computer and Information Sciences, General.",41748.0,55374.0
+126827.0,Colorado Technical University-Colorado Springs,Computer Science.,38201.0,63665.0
+126827.0,Colorado Technical University-Colorado Springs,Computer Software and Media Applications.,,
+126827.0,Colorado Technical University-Colorado Springs,Computer/Information Technology Administration and Management.,36837.0,55277.0
+126827.0,Colorado Technical University-Colorado Springs,Computer Engineering.,,
+126827.0,Colorado Technical University-Colorado Springs,"Electrical, Electronics and Communications Engineering.",37223.0,
+126827.0,Colorado Technical University-Colorado Springs,Criminal Justice and Corrections.,45350.0,34434.0
+126827.0,Colorado Technical University-Colorado Springs,Security Science and Technology.,,
+126827.0,Colorado Technical University-Colorado Springs,Health and Medical Administrative Services.,43629.0,36450.0
+126827.0,Colorado Technical University-Colorado Springs,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",31965.0,73957.0
+126827.0,Colorado Technical University-Colorado Springs,"Business/Commerce, General.",45288.0,25140.0
+126827.0,Colorado Technical University-Colorado Springs,"Business Administration, Management and Operations.",38798.0,47880.0
+126827.0,Colorado Technical University-Colorado Springs,Accounting and Related Services.,42013.0,37084.0
+126827.0,Colorado Technical University-Colorado Springs,Finance and Financial Management Services.,,
+126827.0,Colorado Technical University-Colorado Springs,Management Information Systems and Services.,35771.0,
+127945.0,Rocky Mountain College of Art and Design,Graphic Communications.,36830.0,29457.0
+127945.0,Rocky Mountain College of Art and Design,Computer Software and Media Applications.,42012.0,40227.0
+127945.0,Rocky Mountain College of Art and Design,"Teacher Education and Professional Development, Specific Subject Areas.",,
+127945.0,Rocky Mountain College of Art and Design,Design and Applied Arts.,42820.0,27370.0
+127945.0,Rocky Mountain College of Art and Design,Fine and Studio Arts.,,
+128179.0,Intellitec College-Colorado Springs,Allied Health and Medical Assisting Services.,,
+130110.0,Paier College,Interior Architecture.,,
+130110.0,Paier College,Design and Applied Arts.,,
+130110.0,Paier College,Film/Video and Photographic Arts.,,
+130110.0,Paier College,Fine and Studio Arts.,,
+130183.0,Post University,Agricultural and Domestic Animal Services.,,
+130183.0,Post University,Natural Resources Conservation and Research.,,
+130183.0,Post University,Communication and Media Studies.,36008.0,
+130183.0,Post University,"Human Development, Family Studies, and Related Services.",44816.0,31938.0
+130183.0,Post University,Non-Professional General Legal Studies (Undergraduate).,44184.0,45235.0
+130183.0,Post University,"Biology, General.",,
+130183.0,Post University,Health and Physical Education/Fitness.,35001.0,29790.0
+130183.0,Post University,"Psychology, General.",40820.0,33882.0
+130183.0,Post University,Criminal Justice and Corrections.,34323.0,46200.0
+130183.0,Post University,Homeland Security.,28345.0,
+130183.0,Post University,"Human Services, General.",,37239.0
+130183.0,Post University,Sociology.,,
+130183.0,Post University,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",42433.0,
+130183.0,Post University,"Business Administration, Management and Operations.",31117.0,54265.0
+130183.0,Post University,Accounting and Related Services.,37054.0,52687.0
+130183.0,Post University,Finance and Financial Management Services.,34321.0,44063.0
+130183.0,Post University,Human Resources Management and Services.,,
+130183.0,Post University,International Business.,,
+130183.0,Post University,Management Information Systems and Services.,31284.0,60907.0
+130183.0,Post University,Marketing.,32589.0,36914.0
+131803.0,Strayer University-District of Columbia,"Computer and Information Sciences, General.",41760.0,59686.0
+131803.0,Strayer University-District of Columbia,Information Science/Studies.,42699.0,66456.0
+131803.0,Strayer University-District of Columbia,Computer/Information Technology Administration and Management.,,
+131803.0,Strayer University-District of Columbia,Criminal Justice and Corrections.,48001.0,38520.0
+131803.0,Strayer University-District of Columbia,Economics.,,
+131803.0,Strayer University-District of Columbia,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",35864.0,
+131803.0,Strayer University-District of Columbia,"Business/Commerce, General.",47169.0,47245.0
+131803.0,Strayer University-District of Columbia,"Business Administration, Management and Operations.",,
+131803.0,Strayer University-District of Columbia,Accounting and Related Services.,47164.0,47363.0
+131803.0,Strayer University-District of Columbia,International Business.,,
+133465.0,South University-West Palm Beach,Legal Support Services.,41831.0,33600.0
+133465.0,South University-West Palm Beach,"Psychology, General.",47750.0,26893.0
+133465.0,South University-West Palm Beach,Criminal Justice and Corrections.,48177.0,33655.0
+133465.0,South University-West Palm Beach,Health and Medical Administrative Services.,48192.0,33436.0
+133465.0,South University-West Palm Beach,Public Health.,47839.0,29498.0
+133465.0,South University-West Palm Beach,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",39647.0,65499.0
+133465.0,South University-West Palm Beach,"Business Administration, Management and Operations.",47764.0,37748.0
+133997.0,Florida Career College-Miami,Health and Medical Administrative Services.,,
+134237.0,Full Sail University,Communication and Media Studies.,36538.0,29410.0
+134237.0,Full Sail University,"Public Relations, Advertising, and Applied Communication.",34596.0,31029.0
+134237.0,Full Sail University,Communications Technology/Technician.,24585.0,19001.0
+134237.0,Full Sail University,Audiovisual Communications Technologies/Technicians.,40905.0,23850.0
+134237.0,Full Sail University,Graphic Communications.,,22247.0
+134237.0,Full Sail University,"Computer and Information Sciences, General.",25558.0,53833.0
+134237.0,Full Sail University,Computer Programming.,37317.0,49514.0
+134237.0,Full Sail University,Computer Science.,24387.0,48227.0
+134237.0,Full Sail University,Computer Software and Media Applications.,,30956.0
+134237.0,Full Sail University,Computer/Information Technology Administration and Management.,40486.0,53068.0
+134237.0,Full Sail University,Computer Engineering.,23963.0,55124.0
+134237.0,Full Sail University,Computer Engineering Technologies/Technicians.,25704.0,43253.0
+134237.0,Full Sail University,Rhetoric and Composition/Writing Studies.,37317.0,19859.0
+134237.0,Full Sail University,Human Computer Interaction.,34214.0,25032.0
+134237.0,Full Sail University,"Visual and Performing Arts, General.",31251.0,18264.0
+134237.0,Full Sail University,Design and Applied Arts.,37472.0,28143.0
+134237.0,Full Sail University,Drama/Theatre Arts and Stagecraft.,24880.0,28565.0
+134237.0,Full Sail University,Film/Video and Photographic Arts.,30283.0,18806.0
+134237.0,Full Sail University,Fine and Studio Arts.,31976.0,19389.0
+134237.0,Full Sail University,Music.,32399.0,24984.0
+134237.0,Full Sail University,"Arts, Entertainment,and Media Management.",37582.0,25790.0
+134237.0,Full Sail University,"Business Administration, Management and Operations.",,36993.0
+134237.0,Full Sail University,Marketing.,45710.0,33217.0
+134811.0,AI Miami International University of Art and Design,Audiovisual Communications Technologies/Technicians.,,25953.0
+134811.0,AI Miami International University of Art and Design,Graphic Communications.,37078.0,
+134811.0,AI Miami International University of Art and Design,Computer Software and Media Applications.,39307.0,35712.0
+134811.0,AI Miami International University of Art and Design,Culinary Arts and Related Services.,34834.0,29862.0
+134811.0,AI Miami International University of Art and Design,Design and Applied Arts.,37642.0,28700.0
+134811.0,AI Miami International University of Art and Design,Film/Video and Photographic Arts.,35170.0,22344.0
+134811.0,AI Miami International University of Art and Design,Fine and Studio Arts.,,19378.0
+134811.0,AI Miami International University of Art and Design,"Specialized Sales, Merchandising and  Marketing Operations.",39668.0,31531.0
+138309.0,Rasmussen University-Florida,Information Science/Studies.,26167.0,
+138309.0,Rasmussen University-Florida,Computer Systems Analysis.,,66682.0
+138309.0,Rasmussen University-Florida,Computer Science.,38542.0,56886.0
+138309.0,Rasmussen University-Florida,Computer/Information Technology Administration and Management.,42213.0,52103.0
+138309.0,Rasmussen University-Florida,Educational Administration and Supervision.,36433.0,32516.0
+138309.0,Rasmussen University-Florida,Criminal Justice and Corrections.,42183.0,39439.0
+138309.0,Rasmussen University-Florida,"Human Services, General.",43310.0,
+138309.0,Rasmussen University-Florida,"Visual and Performing Arts, General.",,
+138309.0,Rasmussen University-Florida,Design and Applied Arts.,38812.0,
+138309.0,Rasmussen University-Florida,Health and Medical Administrative Services.,40435.0,42125.0
+138309.0,Rasmussen University-Florida,Public Health.,38612.0,31854.0
+138309.0,Rasmussen University-Florida,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",38967.0,66327.0
+138309.0,Rasmussen University-Florida,"Business Administration, Management and Operations.",36809.0,49340.0
+138309.0,Rasmussen University-Florida,Accounting and Related Services.,38495.0,47670.0
+138309.0,Rasmussen University-Florida,Finance and Financial Management Services.,32694.0,48056.0
+138309.0,Rasmussen University-Florida,Human Resources Management and Services.,38596.0,45188.0
+138309.0,Rasmussen University-Florida,Marketing.,37488.0,44306.0
+138813.0,The Art Institute of Atlanta,Audiovisual Communications Technologies/Technicians.,39708.0,26808.0
+138813.0,The Art Institute of Atlanta,Graphic Communications.,,
+138813.0,The Art Institute of Atlanta,Computer Software and Media Applications.,40533.0,28196.0
+138813.0,The Art Institute of Atlanta,Culinary Arts and Related Services.,39911.0,28105.0
+138813.0,The Art Institute of Atlanta,Design and Applied Arts.,39317.0,23649.0
+138813.0,The Art Institute of Atlanta,Film/Video and Photographic Arts.,38467.0,20041.0
+138813.0,The Art Institute of Atlanta,Fine and Studio Arts.,37644.0,20537.0
+138813.0,The Art Institute of Atlanta,"Specialized Sales, Merchandising and  Marketing Operations.",,24797.0
+139579.0,South University-Savannah,"Public Relations, Advertising, and Applied Communication.",,
+139579.0,South University-Savannah,Information Science/Studies.,47362.0,39831.0
+139579.0,South University-Savannah,Computer Software and Media Applications.,,
+139579.0,South University-Savannah,Computer/Information Technology Administration and Management.,,
+139579.0,South University-Savannah,Legal Support Services.,41831.0,33600.0
+139579.0,South University-Savannah,Behavioral Sciences.,,
+139579.0,South University-Savannah,"Psychology, General.",47750.0,26893.0
+139579.0,South University-Savannah,Criminal Justice and Corrections.,48177.0,33655.0
+139579.0,South University-Savannah,Design and Applied Arts.,,
+139579.0,South University-Savannah,Fine and Studio Arts.,,
+139579.0,South University-Savannah,"Health Services/Allied Health/Health Sciences, General.",53011.0,31369.0
+139579.0,South University-Savannah,Health and Medical Administrative Services.,48192.0,33436.0
+139579.0,South University-Savannah,Health/Medical Preparatory Programs.,,
+139579.0,South University-Savannah,Public Health.,47839.0,29498.0
+139579.0,South University-Savannah,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",39647.0,65499.0
+139579.0,South University-Savannah,"Business Administration, Management and Operations.",47764.0,37748.0
+139579.0,South University-Savannah,Accounting and Related Services.,,
+139579.0,South University-Savannah,"Specialized Sales, Merchandising and  Marketing Operations.",,
+142887.0,American Academy of Art College,Graphic Communications.,,
+142887.0,American Academy of Art College,Computer Software and Media Applications.,,
+142887.0,American Academy of Art College,Design and Applied Arts.,,22434.0
+142887.0,American Academy of Art College,Film/Video and Photographic Arts.,,
+142887.0,American Academy of Art College,Fine and Studio Arts.,,23217.0
+151467.0,International Business College-Indianapolis,Computer Programming.,,
+151467.0,International Business College-Indianapolis,Design and Applied Arts.,,
+151467.0,International Business College-Indianapolis,Allied Health and Medical Assisting Services.,,
+151467.0,International Business College-Indianapolis,Accounting and Related Services.,,
+151467.0,International Business College-Indianapolis,Business Operations Support and Assistant Services.,,
+151467.0,International Business College-Indianapolis,Hospitality Administration/Management.,,
+151467.0,International Business College-Indianapolis,"General Sales, Merchandising and Related Marketing Operations.",,
+153427.0,Orion Technical College,Electrical Engineering Technologies/Technicians.,,44435.0
+154022.0,Ashford University,Natural Resources Conservation and Research.,38463.0,43299.0
+154022.0,Ashford University,Communication and Media Studies.,33915.0,42847.0
+154022.0,Ashford University,Journalism.,40474.0,30487.0
+154022.0,Ashford University,"Computer and Information Sciences, General.",,
+154022.0,Ashford University,Computer Science.,,
+154022.0,Ashford University,Computer Software and Media Applications.,,
+154022.0,Ashford University,Computer/Information Technology Administration and Management.,,
+154022.0,Ashford University,"Education, General.",40654.0,30317.0
+154022.0,Ashford University,Educational/Instructional Media Design.,33357.0,59651.0
+154022.0,Ashford University,"Educational Assessment, Evaluation, and Research.",40486.0,22858.0
+154022.0,Ashford University,Social and Philosophical Foundations of Education.,,
+154022.0,Ashford University,Special Education and Teaching.,32593.0,
+154022.0,Ashford University,"Teacher Education and Professional Development, Specific Levels and Methods.",40131.0,28494.0
+154022.0,Ashford University,"Teacher Education and Professional Development, Specific Subject Areas.",,
+154022.0,Ashford University,Teaching English or French as a Second or Foreign Language.,34858.0,
+154022.0,Ashford University,"Education, Other.",,
+154022.0,Ashford University,Computer Engineering.,,
+154022.0,Ashford University,"Linguistic, Comparative, and Related Language Studies and Services.",42162.0,21627.0
+154022.0,Ashford University,Family and Consumer Economics and Related Studies.,41790.0,
+154022.0,Ashford University,"Human Development, Family Studies, and Related Services.",37112.0,28067.0
+154022.0,Ashford University,"English Language and Literature, General.",39521.0,27029.0
+154022.0,Ashford University,"English Language and Literature/Letters, Other.",,
+154022.0,Ashford University,"Liberal Arts and Sciences, General Studies and Humanities.",30198.0,43529.0
+154022.0,Ashford University,Library Science and Administration.,36498.0,26165.0
+154022.0,Ashford University,"Biology, General.",,
+154022.0,Ashford University,Military Applied Sciences.,,
+154022.0,Ashford University,Gerontology.,,34233.0
+154022.0,Ashford University,Behavioral Sciences.,45366.0,30127.0
+154022.0,Ashford University,Sustainability Studies.,,
+154022.0,Ashford University,Health and Physical Education/Fitness.,35310.0,37247.0
+154022.0,Ashford University,"Psychology, General.",40059.0,32482.0
+154022.0,Ashford University,Criminal Justice and Corrections.,34733.0,43251.0
+154022.0,Ashford University,Public Administration.,,43833.0
+154022.0,Ashford University,"Social Sciences, General.",39955.0,33212.0
+154022.0,Ashford University,Anthropology.,38280.0,25762.0
+154022.0,Ashford University,Political Science and Government.,30608.0,42042.0
+154022.0,Ashford University,Sociology.,36521.0,33394.0
+154022.0,Ashford University,"Visual and Performing Arts, General.",,
+154022.0,Ashford University,Design and Applied Arts.,,
+154022.0,Ashford University,"Health Services/Allied Health/Health Sciences, General.",40181.0,31113.0
+154022.0,Ashford University,Health and Medical Administrative Services.,41172.0,36421.0
+154022.0,Ashford University,Mental and Social Health Services and Allied Professions.,45144.0,29411.0
+154022.0,Ashford University,Alternative and Complementary Medicine and Medical Systems.,36906.0,28875.0
+154022.0,Ashford University,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",,
+154022.0,Ashford University,"Business Administration, Management and Operations.",33135.0,52247.0
+154022.0,Ashford University,Accounting and Related Services.,37669.0,41637.0
+154022.0,Ashford University,Business/Managerial Economics.,33571.0,55719.0
+154022.0,Ashford University,Entrepreneurial and Small Business Operations.,40272.0,31202.0
+154022.0,Ashford University,Finance and Financial Management Services.,31383.0,49321.0
+154022.0,Ashford University,Human Resources Management and Services.,37639.0,45572.0
+154022.0,Ashford University,International Business.,28229.0,49012.0
+154022.0,Ashford University,Management Information Systems and Services.,35134.0,56178.0
+154022.0,Ashford University,Marketing.,35929.0,45479.0
+154022.0,Ashford University,Real Estate.,38263.0,40566.0
+154022.0,Ashford University,History.,38419.0,38970.0
+154518.0,Waldorf University,Communication and Media Studies.,28086.0,30024.0
+154518.0,Waldorf University,"Teacher Education and Professional Development, Specific Levels and Methods.",26216.0,41470.0
+154518.0,Waldorf University,Teaching Assistants/Aides.,,
+154518.0,Waldorf University,Quality Control and Safety Technologies/Technicians.,25955.0,65975.0
+154518.0,Waldorf University,"Foods, Nutrition, and Related Services.",,
+154518.0,Waldorf University,"English Language and Literature, General.",,
+154518.0,Waldorf University,Rhetoric and Composition/Writing Studies.,,
+154518.0,Waldorf University,"Liberal Arts and Sciences, General Studies and Humanities.",,
+154518.0,Waldorf University,"Biology, General.",,
+154518.0,Waldorf University,Health and Physical Education/Fitness.,,
+154518.0,Waldorf University,"Psychology, General.",30043.0,31432.0
+154518.0,Waldorf University,Criminal Justice and Corrections.,26280.0,50817.0
+154518.0,Waldorf University,Fire Protection.,23050.0,74071.0
+154518.0,Waldorf University,Homeland Security.,25619.0,54510.0
+154518.0,Waldorf University,Drama/Theatre Arts and Stagecraft.,,
+154518.0,Waldorf University,Music.,,
+154518.0,Waldorf University,Health and Medical Administrative Services.,29745.0,52459.0
+154518.0,Waldorf University,"Business/Commerce, General.",27211.0,44915.0
+154518.0,Waldorf University,"Business Administration, Management and Operations.",,
+154518.0,Waldorf University,Human Resources Management and Services.,32038.0,58151.0
+154518.0,Waldorf University,International Business.,,
+154518.0,Waldorf University,History.,,
+155283.0,Concorde Career College-Kansas City,Health and Medical Administrative Services.,34448.0,
+156471.0,Galen College of Nursing-Louisville,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",42696.0,67568.0
+157021.0,American National University-Pikeville,Computer/Information Technology Administration and Management.,,
+157021.0,American National University-Pikeville,Health and Medical Administrative Services.,,
+157021.0,American National University-Pikeville,"Business Administration, Management and Operations.",,
+157021.0,American National University-Pikeville,Accounting and Related Services.,,
+157793.0,Sullivan University,"Computer and Information Sciences, General.",38232.0,56202.0
+157793.0,Sullivan University,Computer Systems Analysis.,,
+157793.0,Sullivan University,Computer Software and Media Applications.,,
+157793.0,Sullivan University,Computer/Information Technology Administration and Management.,31644.0,
+157793.0,Sullivan University,Industrial Production Technologies/Technicians.,,
+157793.0,Sullivan University,Legal Support Services.,,
+157793.0,Sullivan University,"Liberal Arts and Sciences, General Studies and Humanities.",,
+157793.0,Sullivan University,Criminal Justice and Corrections.,39828.0,
+157793.0,Sullivan University,Design and Applied Arts.,,
+157793.0,Sullivan University,"Allied Health Diagnostic, Intervention, and Treatment Professions.",,
+157793.0,Sullivan University,Clinical/Medical Laboratory Science/Research and Allied Professions.,,
+157793.0,Sullivan University,Public Health.,,
+157793.0,Sullivan University,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",,
+157793.0,Sullivan University,"Business/Commerce, General.",38818.0,37916.0
+157793.0,Sullivan University,"Business Administration, Management and Operations.",39571.0,48560.0
+157793.0,Sullivan University,Accounting and Related Services.,38349.0,42268.0
+157793.0,Sullivan University,Finance and Financial Management Services.,,
+157793.0,Sullivan University,Hospitality Administration/Management.,34276.0,
+157793.0,Sullivan University,Human Resources Management and Services.,33813.0,40101.0
+157793.0,Sullivan University,Marketing.,,
+164641.0,Bay State College,"Computer and Information Sciences, General.",,
+164641.0,Bay State College,Criminal Justice and Corrections.,42738.0,33492.0
+164641.0,Bay State College,"Arts, Entertainment,and Media Management.",33019.0,29271.0
+164641.0,Bay State College,Health and Medical Administrative Services.,,
+164641.0,Bay State College,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",28765.0,82430.0
+164641.0,Bay State College,"Business Administration, Management and Operations.",43481.0,47538.0
+164641.0,Bay State College,Hospitality Administration/Management.,,
+164641.0,Bay State College,"Specialized Sales, Merchandising and  Marketing Operations.",,38129.0
+172866.0,Academy College,"Computer and Information Sciences, General.",,
+172866.0,Academy College,Air Transportation.,,
+172866.0,Academy College,"Business Administration, Management and Operations.",,
+172866.0,Academy College,Accounting and Related Services.,,
+175014.0,Rasmussen University-Minnesota,Information Science/Studies.,26167.0,
+175014.0,Rasmussen University-Minnesota,Computer Systems Analysis.,,66682.0
+175014.0,Rasmussen University-Minnesota,Computer Science.,38542.0,56886.0
+175014.0,Rasmussen University-Minnesota,Computer/Information Technology Administration and Management.,42213.0,52103.0
+175014.0,Rasmussen University-Minnesota,Educational Administration and Supervision.,36433.0,32516.0
+175014.0,Rasmussen University-Minnesota,Criminal Justice and Corrections.,42183.0,39439.0
+175014.0,Rasmussen University-Minnesota,"Human Services, General.",43310.0,
+175014.0,Rasmussen University-Minnesota,Community Organization and Advocacy.,,32311.0
+175014.0,Rasmussen University-Minnesota,"Visual and Performing Arts, General.",,
+175014.0,Rasmussen University-Minnesota,Design and Applied Arts.,38812.0,
+175014.0,Rasmussen University-Minnesota,Health and Medical Administrative Services.,40435.0,42125.0
+175014.0,Rasmussen University-Minnesota,Public Health.,38612.0,31854.0
+175014.0,Rasmussen University-Minnesota,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",38967.0,66327.0
+175014.0,Rasmussen University-Minnesota,"Business Administration, Management and Operations.",36809.0,49340.0
+175014.0,Rasmussen University-Minnesota,Accounting and Related Services.,38495.0,47670.0
+175014.0,Rasmussen University-Minnesota,Entrepreneurial and Small Business Operations.,,
+175014.0,Rasmussen University-Minnesota,Finance and Financial Management Services.,32694.0,48056.0
+175014.0,Rasmussen University-Minnesota,Human Resources Management and Services.,38596.0,45188.0
+175014.0,Rasmussen University-Minnesota,International Business.,,
+175014.0,Rasmussen University-Minnesota,Management Information Systems and Services.,,
+175014.0,Rasmussen University-Minnesota,Marketing.,37488.0,44306.0
+178183.0,Midwest Institute,"Allied Health Diagnostic, Intervention, and Treatment Professions.",,
+178767.0,Stevens-The Institute of Business & Arts,Legal Support Services.,,
+178767.0,Stevens-The Institute of Business & Arts,Design and Applied Arts.,,33370.0
+178767.0,Stevens-The Institute of Business & Arts,"Business Administration, Management and Operations.",,
+178767.0,Stevens-The Institute of Business & Arts,"General Sales, Merchandising and Related Marketing Operations.",,
+178989.0,Research College of Nursing,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",26308.0,62225.0
+183789.0,Berkeley College-Woodland Park,Computer/Information Technology Administration and Management.,,41450.0
+183789.0,Berkeley College-Woodland Park,"Legal Professions and Studies, Other.",,37567.0
+183789.0,Berkeley College-Woodland Park,Criminal Justice and Corrections.,33452.0,33369.0
+183789.0,Berkeley College-Woodland Park,Design and Applied Arts.,,31117.0
+183789.0,Berkeley College-Woodland Park,Health and Medical Administrative Services.,42027.0,39389.0
+183789.0,Berkeley College-Woodland Park,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",44937.0,
+183789.0,Berkeley College-Woodland Park,"Business Administration, Management and Operations.",35993.0,39930.0
+183789.0,Berkeley College-Woodland Park,Accounting and Related Services.,37370.0,42639.0
+183789.0,Berkeley College-Woodland Park,Finance and Financial Management Services.,,
+183789.0,Berkeley College-Woodland Park,International Business.,,33759.0
+183789.0,Berkeley College-Woodland Park,Marketing.,,39475.0
+183789.0,Berkeley College-Woodland Park,"Specialized Sales, Merchandising and  Marketing Operations.",34306.0,33144.0
+184056.0,Lincoln Technical Institute-Iselin,Culinary Arts and Related Services.,,
+184056.0,Lincoln Technical Institute-Iselin,Vehicle Maintenance and Repair Technologies.,,
+184959.0,Eastwick College-Ramsey,"Allied Health Diagnostic, Intervention, and Treatment Professions.",,59661.0
+188517.0,Bryant & Stratton College-Albany,Public Health.,47185.0,34716.0
+189228.0,Berkeley College-New York,Computer/Information Technology Administration and Management.,34188.0,37008.0
+189228.0,Berkeley College-New York,"Legal Professions and Studies, Other.",41101.0,31617.0
+189228.0,Berkeley College-New York,Criminal Justice and Corrections.,38236.0,32561.0
+189228.0,Berkeley College-New York,Health and Medical Administrative Services.,44483.0,37113.0
+189228.0,Berkeley College-New York,"Business Administration, Management and Operations.",38401.0,37908.0
+189228.0,Berkeley College-New York,Accounting and Related Services.,38980.0,39591.0
+189228.0,Berkeley College-New York,Finance and Financial Management Services.,,48349.0
+189228.0,Berkeley College-New York,International Business.,38854.0,
+189228.0,Berkeley College-New York,Management Information Systems and Services.,,
+189228.0,Berkeley College-New York,Management Sciences and Quantitative Methods.,,
+189228.0,Berkeley College-New York,Marketing.,40089.0,34735.0
+189228.0,Berkeley College-New York,"Specialized Sales, Merchandising and  Marketing Operations.",38103.0,30943.0
+189565.0,Bryant & Stratton College-Syracuse North,Public Health.,47185.0,34716.0
+189583.0,Bryant & Stratton College-Buffalo,Criminal Justice and Corrections.,,32648.0
+189583.0,Bryant & Stratton College-Buffalo,Public Health.,47185.0,34716.0
+189583.0,Bryant & Stratton College-Buffalo,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",,61793.0
+189583.0,Bryant & Stratton College-Buffalo,"Business Administration, Management and Operations.",41322.0,34656.0
+189583.0,Bryant & Stratton College-Buffalo,Accounting and Related Services.,,
+189592.0,Bryant & Stratton College-Greece,Public Health.,47185.0,34716.0
+191205.0,Five Towns College,Communication and Media Studies.,,
+191205.0,Five Towns College,Computer Software and Media Applications.,,
+191205.0,Five Towns College,"Teacher Education and Professional Development, Specific Levels and Methods.",,
+191205.0,Five Towns College,"Teacher Education and Professional Development, Specific Subject Areas.",,
+191205.0,Five Towns College,"Liberal Arts and Sciences, General Studies and Humanities.",,
+191205.0,Five Towns College,Drama/Theatre Arts and Stagecraft.,22192.0,13422.0
+191205.0,Five Towns College,Film/Video and Photographic Arts.,,16639.0
+191205.0,Five Towns College,Music.,,21053.0
+191205.0,Five Towns College,"Business Administration, Management and Operations.",23601.0,24390.0
+192004.0,Jamestown Business College,"Business Administration, Management and Operations.",18302.0,27111.0
+192271.0,LIM College,"Liberal Arts and Sciences, General Studies and Humanities.",,
+192271.0,LIM College,Design and Applied Arts.,28095.0,36739.0
+192271.0,LIM College,"Business Administration, Management and Operations.",,44062.0
+192271.0,LIM College,International Business.,,
+192271.0,LIM College,Marketing.,24548.0,42248.0
+192271.0,LIM College,"Specialized Sales, Merchandising and  Marketing Operations.",25938.0,41027.0
+193308.0,Monroe College,"Computer and Information Sciences, General.",27879.0,37201.0
+193308.0,Monroe College,Computer/Information Technology Administration and Management.,26879.0,
+193308.0,Monroe College,"Teacher Education and Professional Development, Specific Levels and Methods.",21984.0,32138.0
+193308.0,Monroe College,Health and Physical Education/Fitness.,,
+193308.0,Monroe College,Criminal Justice and Corrections.,27656.0,33162.0
+193308.0,Monroe College,"Human Services, General.",30953.0,
+193308.0,Monroe College,Public Health.,31184.0,36237.0
+193308.0,Monroe College,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",,
+193308.0,Monroe College,"Business/Commerce, General.",,
+193308.0,Monroe College,"Business Administration, Management and Operations.",30576.0,32082.0
+193308.0,Monroe College,Accounting and Related Services.,28836.0,37763.0
+193308.0,Monroe College,Hospitality Administration/Management.,27302.0,30469.0
+194499.0,Plaza College,Health and Medical Administrative Services.,,38043.0
+194499.0,Plaza College,"Business Administration, Management and Operations.",,36048.0
+197151.0,School of Visual Arts,"Radio, Television, and Digital Communication.",,
+197151.0,School of Visual Arts,"Public Relations, Advertising, and Applied Communication.",,
+197151.0,School of Visual Arts,Graphic Communications.,26423.0,14518.0
+197151.0,School of Visual Arts,Computer Software and Media Applications.,27094.0,41114.0
+197151.0,School of Visual Arts,Design and Applied Arts.,26909.0,22489.0
+197151.0,School of Visual Arts,Film/Video and Photographic Arts.,25821.0,25481.0
+197151.0,School of Visual Arts,Fine and Studio Arts.,23886.0,19405.0
+197285.0,The College of Westchester,"Computer and Information Sciences, General.",,
+197285.0,The College of Westchester,"Visual and Performing Arts, General.",,
+197285.0,The College of Westchester,Design and Applied Arts.,,
+197285.0,The College of Westchester,Health and Medical Administrative Services.,,37693.0
+197285.0,The College of Westchester,"Business Administration, Management and Operations.",,32792.0
+197285.0,The College of Westchester,Accounting and Related Services.,,38045.0
+198978.0,Miller-Motte College-Wilmington,Criminal Justice and Corrections.,,30525.0
+198978.0,Miller-Motte College-Wilmington,Health and Medical Administrative Services.,52547.0,25482.0
+198978.0,Miller-Motte College-Wilmington,"Business Administration, Management and Operations.",47915.0,39434.0
+200013.0,Rasmussen University-North Dakota,Information Science/Studies.,26167.0,
+200013.0,Rasmussen University-North Dakota,Computer Systems Analysis.,,66682.0
+200013.0,Rasmussen University-North Dakota,Computer Science.,38542.0,56886.0
+200013.0,Rasmussen University-North Dakota,Computer/Information Technology Administration and Management.,42213.0,52103.0
+200013.0,Rasmussen University-North Dakota,Educational Administration and Supervision.,36433.0,32516.0
+200013.0,Rasmussen University-North Dakota,Criminal Justice and Corrections.,42183.0,39439.0
+200013.0,Rasmussen University-North Dakota,"Human Services, General.",43310.0,
+200013.0,Rasmussen University-North Dakota,"Visual and Performing Arts, General.",,
+200013.0,Rasmussen University-North Dakota,Design and Applied Arts.,38812.0,
+200013.0,Rasmussen University-North Dakota,Health and Medical Administrative Services.,40435.0,42125.0
+200013.0,Rasmussen University-North Dakota,Public Health.,38612.0,31854.0
+200013.0,Rasmussen University-North Dakota,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",38967.0,66327.0
+200013.0,Rasmussen University-North Dakota,"Business Administration, Management and Operations.",36809.0,49340.0
+200013.0,Rasmussen University-North Dakota,Accounting and Related Services.,38495.0,47670.0
+200013.0,Rasmussen University-North Dakota,Finance and Financial Management Services.,32694.0,48056.0
+200013.0,Rasmussen University-North Dakota,Human Resources Management and Services.,38596.0,45188.0
+200013.0,Rasmussen University-North Dakota,Marketing.,37488.0,44306.0
+201469.0,Bryant & Stratton College-Parma,Public Health.,47185.0,34716.0
+201469.0,Bryant & Stratton College-Parma,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",,61793.0
+201469.0,Bryant & Stratton College-Parma,"Business Administration, Management and Operations.",41322.0,34656.0
+201469.0,Bryant & Stratton College-Parma,Accounting and Related Services.,,
+203386.0,Hondros College of Nursing,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",42033.0,64324.0
+205179.0,Fortis College-Centerville,Nursing.,,
+205179.0,Fortis College-Centerville,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",,
+205391.0,The Modern College of Design,Design and Applied Arts.,,
+206394.0,The North Coast College,Design and Applied Arts.,,
+206394.0,The North Coast College,"General Sales, Merchandising and Related Marketing Operations.",,
+207254.0,Spartan College of Aeronautics and Technology,Mechanical Engineering Related Technologies/Technicians.,,58078.0
+207254.0,Spartan College of Aeronautics and Technology,"Business Administration, Management and Operations.",,
+209667.0,Phagans Beauty College,Cosmetology and Related Personal Grooming Services.,,
+209694.0,Phagans School of Beauty,Cosmetology and Related Personal Grooming Services.,,
+210076.0,Pioneer Pacific College,"Computer and Information Sciences, General.",,
+210076.0,Pioneer Pacific College,Legal Support Services.,,
+210076.0,Pioneer Pacific College,Criminal Justice and Corrections.,,
+210076.0,Pioneer Pacific College,Health and Medical Administrative Services.,,
+210076.0,Pioneer Pacific College,"Business Administration, Management and Operations.",,
+210076.0,Pioneer Pacific College,Human Resources Management and Services.,,
+211477.0,Central Penn College,Communication and Media Studies.,,
+211477.0,Central Penn College,Computer Science.,39377.0,46625.0
+211477.0,Central Penn College,"Legal Professions and Studies, Other.",,32472.0
+211477.0,Central Penn College,Criminal Justice and Corrections.,43958.0,33291.0
+211477.0,Central Penn College,"Health Services/Allied Health/Health Sciences, General.",,
+211477.0,Central Penn College,Health and Medical Administrative Services.,,
+211477.0,Central Penn College,"Allied Health Diagnostic, Intervention, and Treatment Professions.",,
+211477.0,Central Penn College,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",,
+211477.0,Central Penn College,"Business Administration, Management and Operations.",41096.0,41064.0
+211477.0,Central Penn College,Accounting and Related Services.,43430.0,38515.0
+211477.0,Central Penn College,Entrepreneurial and Small Business Operations.,,
+212993.0,Hussian College-Philadelphia,Criminal Justice and Corrections.,36336.0,33097.0
+212993.0,Hussian College-Philadelphia,"Visual and Performing Arts, General.",31891.0,
+212993.0,Hussian College-Philadelphia,Design and Applied Arts.,,
+212993.0,Hussian College-Philadelphia,Health and Medical Administrative Services.,,30483.0
+212993.0,Hussian College-Philadelphia,"Business Administration, Management and Operations.",30071.0,31168.0
+215637.0,Walnut Hill College,Culinary Arts and Related Services.,29001.0,34514.0
+215637.0,Walnut Hill College,Hospitality Administration/Management.,,34666.0
+219204.0,National American University-Rapid City,"Computer and Information Sciences, General.",44414.0,53242.0
+219204.0,National American University-Rapid City,Computer Software and Media Applications.,,
+219204.0,National American University-Rapid City,Computer Systems Networking and Telecommunications.,,
+219204.0,National American University-Rapid City,Computer/Information Technology Administration and Management.,33776.0,39835.0
+219204.0,National American University-Rapid City,Legal Support Services.,,
+219204.0,National American University-Rapid City,"Legal Professions and Studies, Other.",,
+219204.0,National American University-Rapid City,"Intelligence, Command Control and Information Operations.",,
+219204.0,National American University-Rapid City,Criminal Justice and Corrections.,46067.0,36958.0
+219204.0,National American University-Rapid City,Homeland Security.,10650.0,
+219204.0,National American University-Rapid City,Air Transportation.,35454.0,
+219204.0,National American University-Rapid City,Design and Applied Arts.,,
+219204.0,National American University-Rapid City,Health and Medical Administrative Services.,47702.0,37731.0
+219204.0,National American University-Rapid City,Allied Health and Medical Assisting Services.,,
+219204.0,National American University-Rapid City,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",48594.0,59104.0
+219204.0,National American University-Rapid City,"Business Administration, Management and Operations.",40958.0,42593.0
+219204.0,National American University-Rapid City,Accounting and Related Services.,41443.0,45951.0
+219204.0,National American University-Rapid City,Entrepreneurial and Small Business Operations.,,
+219204.0,National American University-Rapid City,Finance and Financial Management Services.,,
+219204.0,National American University-Rapid City,Hospitality Administration/Management.,,
+219204.0,National American University-Rapid City,Human Resources Management and Services.,35741.0,40851.0
+219204.0,National American University-Rapid City,International Business.,,
+219204.0,National American University-Rapid City,Marketing.,,
+220002.0,Hussian College-Daymar College Nashville,Criminal Justice and Corrections.,36336.0,33097.0
+220002.0,Hussian College-Daymar College Nashville,Health and Medical Administrative Services.,,30483.0
+220002.0,Hussian College-Daymar College Nashville,"Business Administration, Management and Operations.",30071.0,31168.0
+220552.0,South College,"Teacher Education and Professional Development, Specific Levels and Methods.",,
+220552.0,South College,Non-Professional General Legal Studies (Undergraduate).,,
+220552.0,South College,Criminal Justice and Corrections.,,
+220552.0,South College,"Health Services/Allied Health/Health Sciences, General.",,
+220552.0,South College,Health and Medical Administrative Services.,,
+220552.0,South College,Allied Health and Medical Assisting Services.,,
+220552.0,South College,"Allied Health Diagnostic, Intervention, and Treatment Professions.",,43940.0
+220552.0,South College,Clinical/Medical Laboratory Science/Research and Allied Professions.,,
+220552.0,South College,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",42072.0,48802.0
+220552.0,South College,"Business Administration, Management and Operations.",,
+220552.0,South College,Accounting and Related Services.,,
+220552.0,South College,Human Resources Management and Services.,,
+220552.0,South College,Marketing.,,
+222938.0,The Art Institute of Houston,"Public Relations, Advertising, and Applied Communication.",,
+222938.0,The Art Institute of Houston,Audiovisual Communications Technologies/Technicians.,41113.0,22404.0
+222938.0,The Art Institute of Houston,Graphic Communications.,,
+222938.0,The Art Institute of Houston,Computer Software and Media Applications.,39880.0,27193.0
+222938.0,The Art Institute of Houston,Culinary Arts and Related Services.,34406.0,27937.0
+222938.0,The Art Institute of Houston,Drafting/Design Engineering Technologies/Technicians.,,35146.0
+222938.0,The Art Institute of Houston,Design and Applied Arts.,39956.0,24094.0
+222938.0,The Art Institute of Houston,Film/Video and Photographic Arts.,40058.0,23642.0
+222938.0,The Art Institute of Houston,Fine and Studio Arts.,41313.0,20074.0
+222938.0,The Art Institute of Houston,"Specialized Sales, Merchandising and  Marketing Operations.",36105.0,31359.0
+223083.0,Baptist Health System School of Health Professions,Health and Medical Administrative Services.,34382.0,71916.0
+223083.0,Baptist Health System School of Health Professions,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",,76680.0
+224660.0,Western Technical College,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",,
+224660.0,Western Technical College,"Business Administration, Management and Operations.",,
+224679.0,Western Technical College,"Business Administration, Management and Operations.",,
+224776.0,Miami International University of Art & Design-Art Institute Dallas,Audiovisual Communications Technologies/Technicians.,,25953.0
+224776.0,Miami International University of Art & Design-Art Institute Dallas,Computer Software and Media Applications.,39307.0,35712.0
+224776.0,Miami International University of Art & Design-Art Institute Dallas,Culinary Arts and Related Services.,34834.0,29862.0
+224776.0,Miami International University of Art & Design-Art Institute Dallas,Design and Applied Arts.,37642.0,28700.0
+224776.0,Miami International University of Art & Design-Art Institute Dallas,Film/Video and Photographic Arts.,35170.0,22344.0
+224776.0,Miami International University of Art & Design-Art Institute Dallas,Fine and Studio Arts.,,19378.0
+224776.0,Miami International University of Art & Design-Art Institute Dallas,"Specialized Sales, Merchandising and  Marketing Operations.",39668.0,31531.0
+226879.0,Wade College,"Computer and Information Sciences, General.",,
+226879.0,Wade College,Design and Applied Arts.,,
+226879.0,Wade College,"General Sales, Merchandising and Related Marketing Operations.",,31920.0
+230056.0,Broadview College,"Computer and Information Sciences, General.",,
+230056.0,Broadview College,Legal Support Services.,,
+230056.0,Broadview College,Health and Physical Education/Fitness.,,
+230056.0,Broadview College,Criminal Justice and Corrections.,,36514.0
+230056.0,Broadview College,Design and Applied Arts.,41143.0,26796.0
+230056.0,Broadview College,Drama/Theatre Arts and Stagecraft.,,
+230056.0,Broadview College,Health and Medical Administrative Services.,,39478.0
+230056.0,Broadview College,"Business Administration, Management and Operations.",,44143.0
+230056.0,Broadview College,Accounting and Related Services.,,
+230366.0,Eagle Gate College-Murray,Legal Support Services.,,
+230366.0,Eagle Gate College-Murray,Criminal Justice and Corrections.,,
+230366.0,Eagle Gate College-Murray,Design and Applied Arts.,,
+230366.0,Eagle Gate College-Murray,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",51110.0,55617.0
+230366.0,Eagle Gate College-Murray,"Business Administration, Management and Operations.",,
+230977.0,New England Culinary Institute,Culinary Arts and Related Services.,,38517.0
+230977.0,New England Culinary Institute,Hospitality Administration/Management.,,44651.0
+231785.0,Bryant & Stratton College-Virginia Beach,"Human Services, General.",,
+231785.0,Bryant & Stratton College-Virginia Beach,Health and Medical Administrative Services.,,
+231785.0,Bryant & Stratton College-Virginia Beach,Public Health.,47185.0,34716.0
+231785.0,Bryant & Stratton College-Virginia Beach,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",,61793.0
+231785.0,Bryant & Stratton College-Virginia Beach,"Business Administration, Management and Operations.",41322.0,34656.0
+231785.0,Bryant & Stratton College-Virginia Beach,Accounting and Related Services.,,
+231785.0,Bryant & Stratton College-Virginia Beach,Human Resources Management and Services.,,
+231785.0,Bryant & Stratton College-Virginia Beach,Marketing.,,
+232016.0,Centura College-Virginia Beach,"Business Administration, Management and Operations.",33695.0,25202.0
+232016.0,Centura College-Virginia Beach,Accounting and Related Services.,,
+232797.0,American National University,"Computer and Information Sciences, General.",,
+232797.0,American National University,Computer/Information Technology Administration and Management.,,
+232797.0,American National University,Health and Medical Administrative Services.,41268.0,28799.0
+232797.0,American National University,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",,
+232797.0,American National University,"Business Administration, Management and Operations.",51391.0,
+232797.0,American National University,Accounting and Related Services.,,
+233684.0,Strayer University-Virginia,"Computer and Information Sciences, General.",41760.0,59686.0
+233684.0,Strayer University-Virginia,Information Science/Studies.,42699.0,66456.0
+233684.0,Strayer University-Virginia,Criminal Justice and Corrections.,48001.0,38520.0
+233684.0,Strayer University-Virginia,Economics.,,
+233684.0,Strayer University-Virginia,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",35864.0,
+233684.0,Strayer University-Virginia,"Business/Commerce, General.",47169.0,47245.0
+233684.0,Strayer University-Virginia,"Business Administration, Management and Operations.",,
+233684.0,Strayer University-Virginia,Accounting and Related Services.,47164.0,47363.0
+233684.0,Strayer University-Virginia,International Business.,,
+237783.0,Salem University,"Computer and Information Sciences, General.",29171.0,36294.0
+237783.0,Salem University,"Teacher Education and Professional Development, Specific Levels and Methods.",,
+237783.0,Salem University,"Liberal Arts and Sciences, General Studies and Humanities.",,
+237783.0,Salem University,"Biology, General.",,
+237783.0,Salem University,Criminal Justice and Corrections.,29850.0,28271.0
+237783.0,Salem University,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",,
+237783.0,Salem University,"Business Administration, Management and Operations.",32093.0,32737.0
+241304.0,Columbia Central University-Caguas,Computer/Information Technology Administration and Management.,,
+241304.0,Columbia Central University-Caguas,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",8015.0,23659.0
+241304.0,Columbia Central University-Caguas,"Business/Commerce, General.",,25149.0
+241517.0,CEM College-San Juan,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",9822.0,19193.0
+242112.0,Huertas College,"Allied Health Diagnostic, Intervention, and Treatment Professions.",,
+242112.0,Huertas College,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",8705.0,19073.0
+242112.0,Huertas College,Accounting and Related Services.,,
+242112.0,Huertas College,"General Sales, Merchandising and Related Marketing Operations.",,
+242972.0,NUC University,"Computer and Information Sciences, General.",38154.0,
+242972.0,NUC University,Computer Programming.,,
+242972.0,NUC University,Computer Systems Networking and Telecommunications.,23037.0,23154.0
+242972.0,NUC University,Computer/Information Technology Administration and Management.,,
+242972.0,NUC University,"Teacher Education and Professional Development, Specific Levels and Methods.",,
+242972.0,NUC University,Criminal Justice and Corrections.,27446.0,22661.0
+242972.0,NUC University,Health and Medical Administrative Services.,37796.0,26785.0
+242972.0,NUC University,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",19454.0,22396.0
+242972.0,NUC University,"Business Administration, Management and Operations.",31095.0,29684.0
+242972.0,NUC University,Accounting and Related Services.,24416.0,22715.0
+242972.0,NUC University,Business Operations Support and Assistant Services.,,
+242972.0,NUC University,Finance and Financial Management Services.,,
+242972.0,NUC University,Marketing.,,
+243081.0,Ponce Health Sciences University,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",,
+247065.0,Beckfield College-Florence,Legal Support Services.,,
+247065.0,Beckfield College-Florence,Criminal Justice and Corrections.,,
+247065.0,Beckfield College-Florence,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",44813.0,
+247065.0,Beckfield College-Florence,"Business Administration, Management and Operations.",,
+248934.0,ECPI University,"Computer and Information Sciences, General.",36562.0,37437.0
+248934.0,ECPI University,Computer Programming.,36883.0,43195.0
+248934.0,ECPI University,Computer Software and Media Applications.,,
+248934.0,ECPI University,Computer/Information Technology Administration and Management.,35173.0,46142.0
+248934.0,ECPI University,Electromechanical Instrumentation and Maintenance Technologies/Technicians.,36257.0,57855.0
+248934.0,ECPI University,Mechanical Engineering Related Technologies/Technicians.,,
+248934.0,ECPI University,Computer Engineering Technologies/Technicians.,35884.0,51089.0
+248934.0,ECPI University,Criminal Justice and Corrections.,30742.0,33404.0
+248934.0,ECPI University,Health and Medical Administrative Services.,43204.0,33793.0
+248934.0,ECPI University,"Allied Health Diagnostic, Intervention, and Treatment Professions.",30096.0,
+248934.0,ECPI University,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",31525.0,62355.0
+248934.0,ECPI University,"Business Administration, Management and Operations.",33692.0,38589.0
+248934.0,ECPI University,Accounting and Related Services.,37197.0,40281.0
+248934.0,ECPI University,Hospitality Administration/Management.,27490.0,26453.0
+248934.0,ECPI University,Management Information Systems and Services.,36015.0,51063.0
+251312.0,South University-Columbia,Information Science/Studies.,47362.0,39831.0
+251312.0,South University-Columbia,Legal Support Services.,41831.0,33600.0
+251312.0,South University-Columbia,"Psychology, General.",47750.0,26893.0
+251312.0,South University-Columbia,Criminal Justice and Corrections.,48177.0,33655.0
+251312.0,South University-Columbia,"Health Services/Allied Health/Health Sciences, General.",53011.0,31369.0
+251312.0,South University-Columbia,Health and Medical Administrative Services.,48192.0,33436.0
+251312.0,South University-Columbia,Public Health.,47839.0,29498.0
+251312.0,South University-Columbia,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",39647.0,65499.0
+251312.0,South University-Columbia,"Business Administration, Management and Operations.",47764.0,37748.0
+260789.0,Platt College-Los Angeles,"Radio, Television, and Digital Communication.",,
+260789.0,Platt College-Los Angeles,Legal Support Services.,,
+260789.0,Platt College-Los Angeles,Criminal Justice and Corrections.,,
+260789.0,Platt College-Los Angeles,Design and Applied Arts.,,
+260789.0,Platt College-Los Angeles,Health and Medical Administrative Services.,19735.0,34920.0
+260789.0,Platt College-Los Angeles,Allied Health and Medical Assisting Services.,,
+260789.0,Platt College-Los Angeles,"Allied Health Diagnostic, Intervention, and Treatment Professions.",25429.0,29840.0
+260789.0,Platt College-Los Angeles,"Business Administration, Management and Operations.",,
+260813.0,Platt College-Aurora,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",46912.0,60414.0
+260992.0,Northwestern College,Health and Medical Administrative Services.,,
+261676.0,Ross Medical Education Center-Brighton,Criminal Justice and Corrections.,,
+261676.0,Ross Medical Education Center-Brighton,"Business Administration, Management and Operations.",,
+363439.0,Hussian College-Daymar College Bowling Green,Criminal Justice and Corrections.,36336.0,33097.0
+363439.0,Hussian College-Daymar College Bowling Green,Health and Medical Administrative Services.,,30483.0
+363439.0,Hussian College-Daymar College Bowling Green,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",,
+363439.0,Hussian College-Daymar College Bowling Green,"Business Administration, Management and Operations.",30071.0,31168.0
+363934.0,University of Advancing Technology,Communications Technology/Technician.,,
+363934.0,University of Advancing Technology,Graphic Communications.,23239.0,
+363934.0,University of Advancing Technology,"Computer and Information Sciences, General.",,51123.0
+363934.0,University of Advancing Technology,Computer Programming.,30850.0,49239.0
+363934.0,University of Advancing Technology,Information Science/Studies.,,
+363934.0,University of Advancing Technology,Computer Software and Media Applications.,,23801.0
+363934.0,University of Advancing Technology,"Mechatronics, Robotics, and Automation Engineering.",,
+363934.0,University of Advancing Technology,"Intelligence, Command Control and Information Operations.",33418.0,
+363934.0,University of Advancing Technology,Human Computer Interaction.,,
+363934.0,University of Advancing Technology,"Visual and Performing Arts, General.",,25674.0
+363934.0,University of Advancing Technology,Design and Applied Arts.,,
+363934.0,University of Advancing Technology,Entrepreneurial and Small Business Operations.,,
+363934.0,University of Advancing Technology,Marketing.,,
+366553.0,Southern Technical College,"Computer and Information Sciences, General.",,
+366553.0,Southern Technical College,Data Processing.,,
+366553.0,Southern Technical College,"Teacher Education and Professional Development, Specific Levels and Methods.",,
+366553.0,Southern Technical College,Security Science and Technology.,,
+366553.0,Southern Technical College,Public Administration.,,
+366553.0,Southern Technical College,Design and Applied Arts.,,
+366553.0,Southern Technical College,Health and Medical Administrative Services.,,
+366553.0,Southern Technical College,"Business Administration, Management and Operations.",,
+366553.0,Southern Technical College,Accounting and Related Services.,,
+368443.0,Hussian College-Daymar College Clarksville,Criminal Justice and Corrections.,36336.0,33097.0
+368443.0,Hussian College-Daymar College Clarksville,Health and Medical Administrative Services.,,30483.0
+368443.0,Hussian College-Daymar College Clarksville,"Business Administration, Management and Operations.",30071.0,31168.0
+368452.0,Nossi College of Art,"Visual and Performing Arts, General.",,
+368452.0,Nossi College of Art,Design and Applied Arts.,43320.0,28478.0
+368452.0,Nossi College of Art,Film/Video and Photographic Arts.,,
+369516.0,Bryan University,Health and Medical Administrative Services.,,
+369516.0,Bryan University,"Business/Commerce, General.",34784.0,
+369516.0,Bryan University,"Business Administration, Management and Operations.",35593.0,31392.0
+372073.0,Fremont University,Health and Medical Administrative Services.,,
+372073.0,Fremont University,Public Health.,,30273.0
+372073.0,Fremont University,"Business Administration, Management and Operations.",,39918.0
+376224.0,CEM College-Humacao,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",9822.0,19193.0
+376321.0,EDIC College,"Health Services/Allied Health/Health Sciences, General.",,
+376321.0,EDIC College,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",8015.0,23659.0
+377342.0,Vista College-Online,Health and Medical Administrative Services.,43513.0,
+377342.0,Vista College-Online,"Business Administration, Management and Operations.",47157.0,
+377546.0,Northwest College of Art & Design,Design and Applied Arts.,,23385.0
+377661.0,Valley College-Martinsburg,Computer Systems Networking and Telecommunications.,,
+377661.0,Valley College-Martinsburg,Health and Medical Administrative Services.,,
+377661.0,Valley College-Martinsburg,Entrepreneurial and Small Business Operations.,,
+378576.0,Pacific College of Health and Science,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",,
+380438.0,Provo College,Legal Support Services.,,
+380438.0,Provo College,Criminal Justice and Corrections.,,
+380438.0,Provo College,Design and Applied Arts.,,
+380438.0,Provo College,Health and Medical Administrative Services.,,
+380438.0,Provo College,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",45936.0,54996.0
+380438.0,Provo College,"Business Administration, Management and Operations.",,
+380465.0,University of Phoenix-Utah,Behavioral Sciences.,45578.0,32579.0
+380465.0,University of Phoenix-Utah,"Human Services, General.",46965.0,32912.0
+380465.0,University of Phoenix-Utah,"Business Administration, Management and Operations.",38996.0,49674.0
+384412.0,University of the Potomac-Washington DC Campus,Computer/Information Technology Administration and Management.,,
+384412.0,University of the Potomac-Washington DC Campus,"Business Administration, Management and Operations.",44916.0,
+384412.0,University of the Potomac-Washington DC Campus,Accounting and Related Services.,,
+384412.0,University of the Potomac-Washington DC Campus,Hospitality Administration/Management.,,
+384412.0,University of the Potomac-Washington DC Campus,International Business.,,
+384412.0,University of the Potomac-Washington DC Campus,Management Information Systems and Services.,,
+384412.0,University of the Potomac-Washington DC Campus,"Business, Management, Marketing, and Related Support Services, Other.",,
+392257.0,The College of Health Care Professions-Northwest,Health and Medical Administrative Services.,36474.0,
+399869.0,Southern California Institute of Technology,Computer Science.,,
+399869.0,Southern California Institute of Technology,Biomedical/Medical Engineering.,38451.0,57237.0
+399869.0,Southern California Institute of Technology,"Electrical, Electronics and Communications Engineering.",35288.0,63708.0
+399869.0,Southern California Institute of Technology,Accounting and Related Services.,,
+402776.0,Southwest University of Visual Arts-Albuquerque,"Public Relations, Advertising, and Applied Communication.",,
+402776.0,Southwest University of Visual Arts-Albuquerque,Graphic Communications.,,
+402776.0,Southwest University of Visual Arts-Albuquerque,Design and Applied Arts.,,
+402776.0,Southwest University of Visual Arts-Albuquerque,Film/Video and Photographic Arts.,,
+402776.0,Southwest University of Visual Arts-Albuquerque,Fine and Studio Arts.,,
+404055.0,Brookline College-Tempe,Criminal Justice and Corrections.,,29361.0
+404338.0,Schiller International University,Economics.,,
+404338.0,Schiller International University,International Relations and National Security Studies.,,
+404338.0,Schiller International University,Hospitality Administration/Management.,,
+404338.0,Schiller International University,International Business.,,
+404806.0,Columbia Central University-Yauco,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",8015.0,23659.0
+404994.0,ASA College,"Psychology, General.",,
+404994.0,ASA College,Criminal Justice and Corrections.,,
+404994.0,ASA College,Health and Medical Administrative Services.,,
+404994.0,ASA College,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",,
+404994.0,ASA College,"Business Administration, Management and Operations.",,
+405997.0,University of Phoenix-New Mexico,Computer/Information Technology Administration and Management.,42697.0,51250.0
+405997.0,University of Phoenix-New Mexico,"Teacher Education and Professional Development, Specific Levels and Methods.",41573.0,35017.0
+405997.0,University of Phoenix-New Mexico,Criminal Justice and Corrections.,42209.0,39195.0
+405997.0,University of Phoenix-New Mexico,"Human Services, General.",46965.0,32912.0
+405997.0,University of Phoenix-New Mexico,Health and Medical Administrative Services.,47880.0,38040.0
+405997.0,University of Phoenix-New Mexico,"Business Administration, Management and Operations.",38996.0,49674.0
+405997.0,University of Phoenix-New Mexico,Human Resources Management and Services.,45799.0,46532.0
+405997.0,University of Phoenix-New Mexico,Marketing.,41075.0,47878.0
+406024.0,Galen College of Nursing-Tampa Bay,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",42696.0,67568.0
+406033.0,Galen College of Nursing-San Antonio,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",42696.0,67568.0
+408844.0,Florida National University-Main Campus,Non-Professional General Legal Studies (Undergraduate).,,
+408844.0,Florida National University-Main Campus,"English Language and Literature, General.",,
+408844.0,Florida National University-Main Campus,"Liberal Arts and Sciences, General Studies and Humanities.",,
+408844.0,Florida National University-Main Campus,"Psychology, General.",,
+408844.0,Florida National University-Main Campus,Criminal Justice and Corrections.,,
+408844.0,Florida National University-Main Campus,Allied Health and Medical Assisting Services.,,
+408844.0,Florida National University-Main Campus,"Allied Health Diagnostic, Intervention, and Treatment Professions.",,
+408844.0,Florida National University-Main Campus,Public Health.,46829.0,35429.0
+408844.0,Florida National University-Main Campus,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",44780.0,66458.0
+408844.0,Florida National University-Main Campus,"Business Administration, Management and Operations.",,40069.0
+408844.0,Florida National University-Main Campus,Accounting and Related Services.,40405.0,35675.0
+413413.0,Capella University,"Computer and Information Sciences, General.",36110.0,70464.0
+413413.0,Capella University,Computer Programming.,,
+413413.0,Capella University,Data Processing.,41491.0,
+413413.0,Capella University,Computer Software and Media Applications.,,
+413413.0,Capella University,Computer/Information Technology Administration and Management.,38270.0,78621.0
+413413.0,Capella University,"Computer and Information Sciences and Support Services, Other.",38662.0,52456.0
+413413.0,Capella University,"Psychology, General.",38893.0,35031.0
+413413.0,Capella University,Criminal Justice and Corrections.,38293.0,41437.0
+413413.0,Capella University,Homeland Security.,,52731.0
+413413.0,Capella University,Public Administration.,,
+413413.0,Capella University,Health and Medical Administrative Services.,39028.0,52610.0
+413413.0,Capella University,Medical Illustration and Informatics.,,54355.0
+413413.0,Capella University,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",29305.0,74251.0
+413413.0,Capella University,"Business Administration, Management and Operations.",34167.0,63636.0
+413413.0,Capella University,Accounting and Related Services.,32394.0,44919.0
+413413.0,Capella University,Finance and Financial Management Services.,,49025.0
+413413.0,Capella University,Human Resources Management and Services.,34924.0,53132.0
+413413.0,Capella University,Management Sciences and Quantitative Methods.,,
+413413.0,Capella University,Marketing.,44185.0,47600.0
+413413.0,Capella University,"General Sales, Merchandising and Related Marketing Operations.",,
+414595.0,Pacific College of Health and Science,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",,
+420024.0,Centura College-Chesapeake,"Business Administration, Management and Operations.",33695.0,25202.0
+420024.0,Centura College-Chesapeake,Accounting and Related Services.,,
+420042.0,University of Phoenix-Hawaii,"Computer and Information Sciences, General.",38719.0,51875.0
+420042.0,University of Phoenix-Hawaii,Computer Systems Analysis.,,59874.0
+420042.0,University of Phoenix-Hawaii,Computer/Information Technology Administration and Management.,42697.0,51250.0
+420042.0,University of Phoenix-Hawaii,Criminal Justice and Corrections.,42209.0,39195.0
+420042.0,University of Phoenix-Hawaii,"Human Services, General.",46965.0,32912.0
+420042.0,University of Phoenix-Hawaii,Health and Medical Administrative Services.,47880.0,38040.0
+420042.0,University of Phoenix-Hawaii,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",29737.0,86805.0
+420042.0,University of Phoenix-Hawaii,"Business Administration, Management and Operations.",38996.0,49674.0
+420042.0,University of Phoenix-Hawaii,Accounting and Related Services.,43957.0,44552.0
+420042.0,University of Phoenix-Hawaii,Human Resources Management and Services.,45799.0,46532.0
+421708.0,Arizona College of Nursing-Tempe,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",47950.0,60906.0
+421832.0,Living Arts College,Audiovisual Communications Technologies/Technicians.,,
+421832.0,Living Arts College,Graphic Communications.,,14399.0
+421832.0,Living Arts College,Computer Software and Media Applications.,,
+421832.0,Living Arts College,Design and Applied Arts.,,
+421832.0,Living Arts College,Film/Video and Photographic Arts.,,17927.0
+421878.0,Eastern International College-Jersey City,Health and Medical Administrative Services.,,
+421878.0,Eastern International College-Jersey City,"Allied Health Diagnostic, Intervention, and Treatment Professions.",33399.0,32553.0
+422695.0,Pacific College,Health and Medical Administrative Services.,,
+422695.0,Pacific College,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",,114248.0
+422695.0,Pacific College,"Practical Nursing, Vocational Nursing and Nursing Assistants.",,
+430184.0,Strayer University-Maryland,"Computer and Information Sciences, General.",41760.0,59686.0
+430184.0,Strayer University-Maryland,Information Science/Studies.,42699.0,66456.0
+430184.0,Strayer University-Maryland,Criminal Justice and Corrections.,48001.0,38520.0
+430184.0,Strayer University-Maryland,Economics.,,
+430184.0,Strayer University-Maryland,"Business/Commerce, General.",47169.0,47245.0
+430184.0,Strayer University-Maryland,Accounting and Related Services.,47164.0,47363.0
+430184.0,Strayer University-Maryland,International Business.,,
+430485.0,The Creative Center,Design and Applied Arts.,,17201.0
+430704.0,Texas Health and Science University,Alternative and Complementary Medicine and Medical Systems.,,
+432223.0,University of Phoenix-Washington,Behavioral Sciences.,45578.0,32579.0
+432223.0,University of Phoenix-Washington,"Business Administration, Management and Operations.",38996.0,49674.0
+432223.0,University of Phoenix-Washington,Accounting and Related Services.,43957.0,44552.0
+432384.0,Platt College-Ontario,Criminal Justice and Corrections.,,
+432384.0,Platt College-Ontario,Design and Applied Arts.,,
+432384.0,Platt College-Ontario,Health and Medical Administrative Services.,19735.0,34920.0
+432384.0,Platt College-Ontario,"Allied Health Diagnostic, Intervention, and Treatment Professions.",25429.0,29840.0
+432384.0,Platt College-Ontario,"Business Administration, Management and Operations.",,
+433004.0,American University of Health Sciences,"Pharmacy, Pharmaceutical Sciences, and Administration.",,
+433004.0,American University of Health Sciences,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",44260.0,83746.0
+433013.0,Career Networks Institute,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",,
+433420.0,California Aeronautical University,Criminal Justice and Corrections.,,36192.0
+433420.0,California Aeronautical University,Air Transportation.,,
+433420.0,California Aeronautical University,Health and Medical Administrative Services.,,
+433420.0,California Aeronautical University,"Business Administration, Management and Operations.",,
+436429.0,Los Angeles Film School,Graphic Communications.,38237.0,21111.0
+436429.0,Los Angeles Film School,Design and Applied Arts.,47702.0,21584.0
+436429.0,Los Angeles Film School,Film/Video and Photographic Arts.,39868.0,18984.0
+436429.0,Los Angeles Film School,Music.,,
+436429.0,Los Angeles Film School,"Arts, Entertainment,and Media Management.",39908.0,22159.0
+437097.0,University of Management and Technology,"Computer and Information Sciences, General.",,
+437097.0,University of Management and Technology,Computer Science.,,
+437097.0,University of Management and Technology,Engineering-Related Fields.,,
+437097.0,University of Management and Technology,"Liberal Arts and Sciences, General Studies and Humanities.",,
+437097.0,University of Management and Technology,Criminal Justice and Corrections.,,
+437097.0,University of Management and Technology,Homeland Security.,,
+437097.0,University of Management and Technology,Health and Medical Administrative Services.,,
+437097.0,University of Management and Technology,Public Health.,,
+437097.0,University of Management and Technology,"Business Administration, Management and Operations.",20071.0,60399.0
+438179.0,Brookline College-Tucson,Criminal Justice and Corrections.,,29361.0
+438179.0,Brookline College-Tucson,Health and Medical Administrative Services.,,
+438179.0,Brookline College-Tucson,"Business Administration, Management and Operations.",29942.0,
+438498.0,Stratford University,"Computer and Information Sciences, General.",43132.0,76268.0
+438498.0,Stratford University,Quality Control and Safety Technologies/Technicians.,,
+438498.0,Stratford University,"Health Services/Allied Health/Health Sciences, General.",46176.0,
+438498.0,Stratford University,Health and Medical Administrative Services.,52129.0,36899.0
+438498.0,Stratford University,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",45475.0,65680.0
+438498.0,Stratford University,"Business/Commerce, General.",,
+438498.0,Stratford University,"Business Administration, Management and Operations.",44594.0,35072.0
+438498.0,Stratford University,Accounting and Related Services.,,
+438498.0,Stratford University,Hospitality Administration/Management.,36758.0,37933.0
+438586.0,American InterContinental University-Atlanta,"Computer and Information Sciences, General.",42570.0,45331.0
+438586.0,American InterContinental University-Atlanta,Criminal Justice and Corrections.,44209.0,28733.0
+438586.0,American InterContinental University-Atlanta,Design and Applied Arts.,,19700.0
+438586.0,American InterContinental University-Atlanta,Film/Video and Photographic Arts.,,14267.0
+438586.0,American InterContinental University-Atlanta,Health and Medical Administrative Services.,48290.0,35095.0
+438586.0,American InterContinental University-Atlanta,"Business Administration, Management and Operations.",43932.0,41068.0
+438586.0,American InterContinental University-Atlanta,Accounting and Related Services.,48142.0,38436.0
+439871.0,PCI College,"Allied Health Diagnostic, Intervention, and Treatment Professions.",,
+439969.0,Acupuncture and Massage College,Alternative and Complementary Medicine and Medical Systems.,,
+440749.0,National American University-Ellsworth,"Computer and Information Sciences, General.",44414.0,53242.0
+440749.0,National American University-Ellsworth,Computer Software and Media Applications.,,
+440749.0,National American University-Ellsworth,Computer Systems Networking and Telecommunications.,,
+440749.0,National American University-Ellsworth,Computer/Information Technology Administration and Management.,33776.0,39835.0
+440749.0,National American University-Ellsworth,Criminal Justice and Corrections.,46067.0,36958.0
+440749.0,National American University-Ellsworth,Air Transportation.,35454.0,
+440749.0,National American University-Ellsworth,Health and Medical Administrative Services.,47702.0,37731.0
+440749.0,National American University-Ellsworth,"Business Administration, Management and Operations.",40958.0,42593.0
+440749.0,National American University-Ellsworth,Accounting and Related Services.,41443.0,45951.0
+440749.0,National American University-Ellsworth,Finance and Financial Management Services.,,
+440749.0,National American University-Ellsworth,Human Resources Management and Services.,35741.0,40851.0
+440749.0,National American University-Ellsworth,International Business.,,
+440749.0,National American University-Ellsworth,Marketing.,,
+440749.0,National American University-Ellsworth,Construction Management.,,
+441229.0,Smith Chason College,"Allied Health Diagnostic, Intervention, and Treatment Professions.",35083.0,
+442161.0,University of Phoenix-Illinois,Criminal Justice and Corrections.,42209.0,39195.0
+442161.0,University of Phoenix-Illinois,"Human Services, General.",46965.0,32912.0
+442161.0,University of Phoenix-Illinois,Health and Medical Administrative Services.,47880.0,38040.0
+442161.0,University of Phoenix-Illinois,"Business Administration, Management and Operations.",38996.0,49674.0
+442161.0,University of Phoenix-Illinois,Accounting and Related Services.,43957.0,44552.0
+442161.0,University of Phoenix-Illinois,Human Resources Management and Services.,45799.0,46532.0
+442161.0,University of Phoenix-Illinois,Marketing.,41075.0,47878.0
+442426.0,St Louis College of Health Careers-Fenton,Health and Medical Administrative Services.,39202.0,
+442426.0,St Louis College of Health Careers-Fenton,"Allied Health Diagnostic, Intervention, and Treatment Professions.",24320.0,58137.0
+442569.0,University of Arkansas Grantham,Information Science/Studies.,32097.0,
+442569.0,University of Arkansas Grantham,Computer Science.,40490.0,53538.0
+442569.0,University of Arkansas Grantham,Computer Systems Networking and Telecommunications.,,
+442569.0,University of Arkansas Grantham,Computer/Information Technology Administration and Management.,30200.0,
+442569.0,University of Arkansas Grantham,Electrical Engineering Technologies/Technicians.,33724.0,69988.0
+442569.0,University of Arkansas Grantham,Computer Engineering Technologies/Technicians.,,
+442569.0,University of Arkansas Grantham,Engineering-Related Fields.,45018.0,
+442569.0,University of Arkansas Grantham,"Liberal Arts and Sciences, General Studies and Humanities.",,
+442569.0,University of Arkansas Grantham,"Multi/Interdisciplinary Studies, Other.",15536.0,56582.0
+442569.0,University of Arkansas Grantham,Criminal Justice and Corrections.,34935.0,37972.0
+442569.0,University of Arkansas Grantham,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",30266.0,97404.0
+442569.0,University of Arkansas Grantham,"Business Administration, Management and Operations.",35090.0,42846.0
+442569.0,University of Arkansas Grantham,Accounting and Related Services.,38067.0,
+442569.0,University of Arkansas Grantham,Finance and Financial Management Services.,,
+442569.0,University of Arkansas Grantham,Human Resources Management and Services.,39347.0,
+442569.0,University of Arkansas Grantham,Management Information Systems and Services.,40075.0,
+442639.0,University of the Potomac-VA Campus,"Business Administration, Management and Operations.",44916.0,
+442639.0,University of the Potomac-VA Campus,Accounting and Related Services.,,
+442639.0,University of the Potomac-VA Campus,Hospitality Administration/Management.,,
+442639.0,University of the Potomac-VA Campus,International Business.,,
+442639.0,University of the Potomac-VA Campus,Management Information Systems and Services.,,
+442930.0,University of Antelope Valley,Communication and Media Studies.,,
+442930.0,University of Antelope Valley,Electrical Engineering Technologies/Technicians.,,
+442930.0,University of Antelope Valley,Health and Physical Education/Fitness.,23095.0,
+442930.0,University of Antelope Valley,Atmospheric Sciences and Meteorology.,,
+442930.0,University of Antelope Valley,"Psychology, General.",,
+442930.0,University of Antelope Valley,Criminal Justice and Corrections.,,25967.0
+442930.0,University of Antelope Valley,Health and Medical Administrative Services.,,
+442930.0,University of Antelope Valley,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",,
+442930.0,University of Antelope Valley,"Business Administration, Management and Operations.",,
+443331.0,West Coast University-Los Angeles,Dental Support Services and Allied Professions.,34028.0,72503.0
+443331.0,West Coast University-Los Angeles,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",38722.0,80831.0
+443410.0,DigiPen Institute of Technology,Graphic Communications.,,23819.0
+443410.0,DigiPen Institute of Technology,Computer Programming.,,80803.0
+443410.0,DigiPen Institute of Technology,Computer Software and Media Applications.,,
+443410.0,DigiPen Institute of Technology,Computer Engineering.,,
+443410.0,DigiPen Institute of Technology,Human Computer Interaction.,,34168.0
+443410.0,DigiPen Institute of Technology,Music.,,
+443599.0,American College of Healthcare Sciences,"Health Services/Allied Health/Health Sciences, General.",,
+443766.0,Strayer University-Tennessee,"Computer and Information Sciences, General.",41760.0,59686.0
+443766.0,Strayer University-Tennessee,Information Science/Studies.,42699.0,66456.0
+443766.0,Strayer University-Tennessee,Criminal Justice and Corrections.,48001.0,38520.0
+443766.0,Strayer University-Tennessee,Economics.,,
+443766.0,Strayer University-Tennessee,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",35864.0,
+443766.0,Strayer University-Tennessee,"Business/Commerce, General.",47169.0,47245.0
+443766.0,Strayer University-Tennessee,Accounting and Related Services.,47164.0,47363.0
+443766.0,Strayer University-Tennessee,International Business.,,
+443784.0,Strayer University-Pennsylvania,"Computer and Information Sciences, General.",41760.0,59686.0
+443784.0,Strayer University-Pennsylvania,Information Science/Studies.,42699.0,66456.0
+443784.0,Strayer University-Pennsylvania,Criminal Justice and Corrections.,48001.0,38520.0
+443784.0,Strayer University-Pennsylvania,Economics.,,
+443784.0,Strayer University-Pennsylvania,"Business/Commerce, General.",47169.0,47245.0
+443784.0,Strayer University-Pennsylvania,Accounting and Related Services.,47164.0,47363.0
+443784.0,Strayer University-Pennsylvania,International Business.,,
+444088.0,Brookline College-Albuquerque,Criminal Justice and Corrections.,,29361.0
+444088.0,Brookline College-Albuquerque,Health and Medical Administrative Services.,,
+444088.0,Brookline College-Albuquerque,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",40944.0,68395.0
+444088.0,Brookline College-Albuquerque,Accounting and Related Services.,,
+444255.0,Hussian College-Daymar College Murfreesboro,Health and Medical Administrative Services.,,30483.0
+444255.0,Hussian College-Daymar College Murfreesboro,"Business Administration, Management and Operations.",30071.0,31168.0
+444325.0,ATI College-Whittier,Health and Medical Administrative Services.,,
+444787.0,Nightingale College,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",38242.0,
+445027.0,American InterContinental University,Audiovisual Communications Technologies/Technicians.,,
+445027.0,American InterContinental University,"Computer and Information Sciences, General.",42570.0,45331.0
+445027.0,American InterContinental University,Criminal Justice and Corrections.,44209.0,28733.0
+445027.0,American InterContinental University,Design and Applied Arts.,,19700.0
+445027.0,American InterContinental University,Film/Video and Photographic Arts.,,14267.0
+445027.0,American InterContinental University,Health and Medical Administrative Services.,48290.0,35095.0
+445027.0,American InterContinental University,"Business Administration, Management and Operations.",43932.0,41068.0
+445027.0,American InterContinental University,Accounting and Related Services.,48142.0,38436.0
+445027.0,American InterContinental University,"Specialized Sales, Merchandising and  Marketing Operations.",,
+445133.0,American InterContinental University-Houston,"Computer and Information Sciences, General.",42570.0,45331.0
+445133.0,American InterContinental University-Houston,Criminal Justice and Corrections.,44209.0,28733.0
+445133.0,American InterContinental University-Houston,Health and Medical Administrative Services.,48290.0,35095.0
+445133.0,American InterContinental University-Houston,"Business Administration, Management and Operations.",43932.0,41068.0
+445133.0,American InterContinental University-Houston,Accounting and Related Services.,48142.0,38436.0
+445300.0,University of Phoenix-New Jersey,"Business Administration, Management and Operations.",38996.0,49674.0
+445300.0,University of Phoenix-New Jersey,Accounting and Related Services.,43957.0,44552.0
+445692.0,Neumont College of Computer Science,Computer Programming.,,70731.0
+445692.0,Neumont College of Computer Science,Computer Software and Media Applications.,,74119.0
+445692.0,Neumont College of Computer Science,Computer/Information Technology Administration and Management.,,60015.0
+446385.0,Los Angeles College of Music,Music.,36153.0,
+446385.0,Los Angeles College of Music,"Arts, Entertainment,and Media Management.",,
+446525.0,SAE Institute of Technology-Nashville,Audiovisual Communications Technologies/Technicians.,33391.0,
+446561.0,Stanbridge University,Computer/Information Technology Administration and Management.,,
+446561.0,Stanbridge University,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",36176.0,
+447014.0,Daytona College,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",,
+447050.0,United States University,"Health Services/Allied Health/Health Sciences, General.",,
+447050.0,United States University,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",30394.0,
+447050.0,United States University,"Business Administration, Management and Operations.",,
+447263.0,Joyce University of Nursing and Health Sciences,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",35067.0,65048.0
+447421.0,Eagle Gate College-Layton,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",51110.0,55617.0
+447458.0,SAE Expression College,Audiovisual Communications Technologies/Technicians.,39602.0,27865.0
+447458.0,SAE Expression College,Graphic Communications.,,27398.0
+447458.0,SAE Expression College,Computer Software and Media Applications.,,
+447458.0,SAE Expression College,Design and Applied Arts.,,24366.0
+447458.0,SAE Expression College,Film/Video and Photographic Arts.,,
+447935.0,ATA College,"Practical Nursing, Vocational Nursing and Nursing Assistants.",,
+448239.0,Careers Unlimited,Dental Support Services and Allied Professions.,28143.0,44078.0
+448354.0,Eastern International College-Belleville,"Allied Health Diagnostic, Intervention, and Treatment Professions.",33399.0,32553.0
+448673.0,Rasmussen University-Illinois,Information Science/Studies.,26167.0,
+448673.0,Rasmussen University-Illinois,Computer Systems Analysis.,,66682.0
+448673.0,Rasmussen University-Illinois,Computer Science.,38542.0,56886.0
+448673.0,Rasmussen University-Illinois,Computer/Information Technology Administration and Management.,42213.0,52103.0
+448673.0,Rasmussen University-Illinois,Educational Administration and Supervision.,36433.0,32516.0
+448673.0,Rasmussen University-Illinois,Criminal Justice and Corrections.,42183.0,39439.0
+448673.0,Rasmussen University-Illinois,"Human Services, General.",43310.0,
+448673.0,Rasmussen University-Illinois,"Visual and Performing Arts, General.",,
+448673.0,Rasmussen University-Illinois,Design and Applied Arts.,38812.0,
+448673.0,Rasmussen University-Illinois,Health and Medical Administrative Services.,40435.0,42125.0
+448673.0,Rasmussen University-Illinois,Public Health.,38612.0,31854.0
+448673.0,Rasmussen University-Illinois,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",38967.0,66327.0
+448673.0,Rasmussen University-Illinois,"Business Administration, Management and Operations.",36809.0,49340.0
+448673.0,Rasmussen University-Illinois,Accounting and Related Services.,38495.0,47670.0
+448673.0,Rasmussen University-Illinois,Finance and Financial Management Services.,32694.0,48056.0
+448673.0,Rasmussen University-Illinois,Human Resources Management and Services.,38596.0,45188.0
+448673.0,Rasmussen University-Illinois,Marketing.,37488.0,44306.0
+449038.0,Strayer University-Florida,"Computer and Information Sciences, General.",41760.0,59686.0
+449038.0,Strayer University-Florida,Information Science/Studies.,42699.0,66456.0
+449038.0,Strayer University-Florida,Criminal Justice and Corrections.,48001.0,38520.0
+449038.0,Strayer University-Florida,Economics.,,
+449038.0,Strayer University-Florida,"Business/Commerce, General.",47169.0,47245.0
+449038.0,Strayer University-Florida,Accounting and Related Services.,47164.0,47363.0
+449038.0,Strayer University-Florida,International Business.,,
+449083.0,CBT Technology Institute-Main Campus,"Business Administration, Management and Operations.",,
+449339.0,American Public University System,Natural Resources Conservation and Research.,27414.0,45245.0
+449339.0,American Public University System,"Computer and Information Sciences, General.",26356.0,56355.0
+449339.0,American Public University System,Computer/Information Technology Administration and Management.,27906.0,63468.0
+449339.0,American Public University System,"Electrical, Electronics and Communications Engineering.",,
+449339.0,American Public University System,Mechanical Engineering Related Technologies/Technicians.,28118.0,51987.0
+449339.0,American Public University System,"Human Development, Family Studies, and Related Services.",34640.0,27657.0
+449339.0,American Public University System,Non-Professional General Legal Studies (Undergraduate).,35967.0,41598.0
+449339.0,American Public University System,"English Language and Literature, General.",34003.0,34898.0
+449339.0,American Public University System,"Liberal Arts and Sciences, General Studies and Humanities.",11938.0,64720.0
+449339.0,American Public University System,Applied Mathematics.,29881.0,
+449339.0,American Public University System,Military Science and Operational Studies.,23213.0,69340.0
+449339.0,American Public University System,"Military Technologies and Applied Sciences, Other.",,
+449339.0,American Public University System,Natural Sciences.,35368.0,
+449339.0,American Public University System,International/Global Studies.,19636.0,56758.0
+449339.0,American Public University System,Cultural Studies/Critical Theory and Analysis.,16214.0,
+449339.0,American Public University System,Health and Physical Education/Fitness.,24781.0,47616.0
+449339.0,American Public University System,Philosophy.,25579.0,
+449339.0,American Public University System,Religion/Religious Studies.,26094.0,
+449339.0,American Public University System,"Psychology, General.",32359.0,37948.0
+449339.0,American Public University System,Criminal Justice and Corrections.,22950.0,49354.0
+449339.0,American Public University System,Fire Protection.,25293.0,61979.0
+449339.0,American Public University System,Homeland Security.,24286.0,51985.0
+449339.0,American Public University System,Security Science and Technology.,31710.0,
+449339.0,American Public University System,International Relations and National Security Studies.,19490.0,53980.0
+449339.0,American Public University System,Political Science and Government.,24329.0,46663.0
+449339.0,American Public University System,Sociology.,30841.0,39082.0
+449339.0,American Public University System,Air Transportation.,,
+449339.0,American Public University System,Health and Medical Administrative Services.,36122.0,
+449339.0,American Public University System,Public Health.,29468.0,39321.0
+449339.0,American Public University System,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",28216.0,74655.0
+449339.0,American Public University System,"Health Professions and Related Clinical Sciences, Other.",18034.0,
+449339.0,American Public University System,"Business Administration, Management and Operations.",24988.0,54183.0
+449339.0,American Public University System,Accounting and Related Services.,34614.0,42754.0
+449339.0,American Public University System,Entrepreneurial and Small Business Operations.,33000.0,47334.0
+449339.0,American Public University System,Hospitality Administration/Management.,35400.0,40039.0
+449339.0,American Public University System,Management Sciences and Quantitative Methods.,29984.0,
+449339.0,American Public University System,Marketing.,30129.0,42993.0
+449339.0,American Public University System,"General Sales, Merchandising and Related Marketing Operations.",39301.0,37227.0
+449339.0,American Public University System,History.,29092.0,48988.0
+449384.0,Gnomon,Graphic Communications.,,
+449612.0,Louisiana Culinary Institute,Culinary Arts and Related Services.,,
+449889.0,American College of Education,Health and Medical Administrative Services.,,
+449889.0,American College of Education,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",,
+449898.0,South University-Tampa,Information Science/Studies.,47362.0,39831.0
+449898.0,South University-Tampa,"Psychology, General.",47750.0,26893.0
+449898.0,South University-Tampa,Criminal Justice and Corrections.,48177.0,33655.0
+449898.0,South University-Tampa,Health and Medical Administrative Services.,48192.0,33436.0
+449898.0,South University-Tampa,Public Health.,47839.0,29498.0
+449898.0,South University-Tampa,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",39647.0,65499.0
+449898.0,South University-Tampa,"Business Administration, Management and Operations.",47764.0,37748.0
+450298.0,Strayer University-Delaware,"Computer and Information Sciences, General.",41760.0,59686.0
+450298.0,Strayer University-Delaware,Information Science/Studies.,42699.0,66456.0
+450298.0,Strayer University-Delaware,Criminal Justice and Corrections.,48001.0,38520.0
+450298.0,Strayer University-Delaware,Economics.,,
+450298.0,Strayer University-Delaware,"Business/Commerce, General.",47169.0,47245.0
+450298.0,Strayer University-Delaware,Accounting and Related Services.,47164.0,47363.0
+450298.0,Strayer University-Delaware,International Business.,,
+450377.0,Strayer University-Alabama,"Computer and Information Sciences, General.",41760.0,59686.0
+450377.0,Strayer University-Alabama,Information Science/Studies.,42699.0,66456.0
+450377.0,Strayer University-Alabama,Criminal Justice and Corrections.,48001.0,38520.0
+450377.0,Strayer University-Alabama,Economics.,,
+450377.0,Strayer University-Alabama,"Business/Commerce, General.",47169.0,47245.0
+450377.0,Strayer University-Alabama,Accounting and Related Services.,47164.0,47363.0
+450377.0,Strayer University-Alabama,International Business.,,
+450571.0,Rasmussen University-Wisconsin,Information Science/Studies.,26167.0,
+450571.0,Rasmussen University-Wisconsin,Computer Systems Analysis.,,66682.0
+450571.0,Rasmussen University-Wisconsin,Computer Science.,38542.0,56886.0
+450571.0,Rasmussen University-Wisconsin,Computer/Information Technology Administration and Management.,42213.0,52103.0
+450571.0,Rasmussen University-Wisconsin,Educational Administration and Supervision.,36433.0,32516.0
+450571.0,Rasmussen University-Wisconsin,Criminal Justice and Corrections.,42183.0,39439.0
+450571.0,Rasmussen University-Wisconsin,"Human Services, General.",43310.0,
+450571.0,Rasmussen University-Wisconsin,"Visual and Performing Arts, General.",,
+450571.0,Rasmussen University-Wisconsin,Design and Applied Arts.,38812.0,
+450571.0,Rasmussen University-Wisconsin,Health and Medical Administrative Services.,40435.0,42125.0
+450571.0,Rasmussen University-Wisconsin,Public Health.,38612.0,31854.0
+450571.0,Rasmussen University-Wisconsin,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",38967.0,66327.0
+450571.0,Rasmussen University-Wisconsin,"Business Administration, Management and Operations.",36809.0,49340.0
+450571.0,Rasmussen University-Wisconsin,Accounting and Related Services.,38495.0,47670.0
+450571.0,Rasmussen University-Wisconsin,Finance and Financial Management Services.,32694.0,48056.0
+450571.0,Rasmussen University-Wisconsin,Human Resources Management and Services.,38596.0,45188.0
+450571.0,Rasmussen University-Wisconsin,Marketing.,37488.0,44306.0
+450933.0,Columbia Southern University,Natural Resources Conservation and Research.,29888.0,60105.0
+450933.0,Columbia Southern University,"Computer and Information Sciences, General.",29652.0,47097.0
+450933.0,Columbia Southern University,Computer/Information Technology Administration and Management.,34092.0,
+450933.0,Columbia Southern University,Quality Control and Safety Technologies/Technicians.,29020.0,68385.0
+450933.0,Columbia Southern University,Behavioral Sciences.,,
+450933.0,Columbia Southern University,Criminal Justice and Corrections.,30151.0,52800.0
+450933.0,Columbia Southern University,Fire Protection.,23512.0,70128.0
+450933.0,Columbia Southern University,Homeland Security.,29480.0,
+450933.0,Columbia Southern University,Health and Medical Administrative Services.,34981.0,46392.0
+450933.0,Columbia Southern University,"Allied Health Diagnostic, Intervention, and Treatment Professions.",26721.0,
+450933.0,Columbia Southern University,Mental and Social Health Services and Allied Professions.,33010.0,36507.0
+450933.0,Columbia Southern University,"Business Administration, Management and Operations.",31730.0,50330.0
+450933.0,Columbia Southern University,Human Resources Management and Services.,30481.0,48176.0
+450979.0,Trident University International,"Computer and Information Sciences, General.",12491.0,55248.0
+450979.0,Trident University International,Computer Science.,22477.0,53941.0
+450979.0,Trident University International,Homeland Security.,23101.0,
+450979.0,Trident University International,"Health Services/Allied Health/Health Sciences, General.",30203.0,48519.0
+450979.0,Trident University International,Health and Medical Administrative Services.,,
+450979.0,Trident University International,"Business Administration, Management and Operations.",22208.0,51749.0
+450979.0,Trident University International,Human Resources Management and Services.,31652.0,
+451103.0,Miami Regional University,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",33281.0,72202.0
+451556.0,Southwest University at El Paso,Health and Medical Administrative Services.,,
+451556.0,Southwest University at El Paso,"Allied Health Diagnostic, Intervention, and Treatment Professions.",30547.0,
+451556.0,Southwest University at El Paso,Public Health.,48742.0,25356.0
+451556.0,Southwest University at El Paso,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",,
+451556.0,Southwest University at El Paso,"Business Administration, Management and Operations.",,
+451556.0,Southwest University at El Paso,"Business, Management, Marketing, and Related Support Services, Other.",45893.0,23296.0
+451741.0,CEM College-Bayamon,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",9822.0,19193.0
+451750.0,Bryant & Stratton College-Wauwatosa,"Human Services, General.",,
+451750.0,Bryant & Stratton College-Wauwatosa,Health and Medical Administrative Services.,,
+451750.0,Bryant & Stratton College-Wauwatosa,Public Health.,47185.0,34716.0
+451750.0,Bryant & Stratton College-Wauwatosa,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",,61793.0
+451750.0,Bryant & Stratton College-Wauwatosa,"Business Administration, Management and Operations.",41322.0,34656.0
+451750.0,Bryant & Stratton College-Wauwatosa,Accounting and Related Services.,,
+451750.0,Bryant & Stratton College-Wauwatosa,Human Resources Management and Services.,,
+451750.0,Bryant & Stratton College-Wauwatosa,Marketing.,,
+451820.0,The Art Institute of Austin,Audiovisual Communications Technologies/Technicians.,41113.0,22404.0
+451820.0,The Art Institute of Austin,Graphic Communications.,,
+451820.0,The Art Institute of Austin,Computer Software and Media Applications.,39880.0,27193.0
+451820.0,The Art Institute of Austin,Culinary Arts and Related Services.,34406.0,27937.0
+451820.0,The Art Institute of Austin,Drafting/Design Engineering Technologies/Technicians.,,35146.0
+451820.0,The Art Institute of Austin,Design and Applied Arts.,39956.0,24094.0
+451820.0,The Art Institute of Austin,Film/Video and Photographic Arts.,40058.0,23642.0
+451820.0,The Art Institute of Austin,Fine and Studio Arts.,41313.0,20074.0
+451820.0,The Art Institute of Austin,"Specialized Sales, Merchandising and  Marketing Operations.",36105.0,31359.0
+452948.0,Galen College of Nursing-Cincinnati,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",42696.0,67568.0
+453163.0,Strayer University-North Carolina,"Computer and Information Sciences, General.",41760.0,59686.0
+453163.0,Strayer University-North Carolina,Information Science/Studies.,42699.0,66456.0
+453163.0,Strayer University-North Carolina,Criminal Justice and Corrections.,48001.0,38520.0
+453163.0,Strayer University-North Carolina,Economics.,,
+453163.0,Strayer University-North Carolina,"Business/Commerce, General.",47169.0,47245.0
+453163.0,Strayer University-North Carolina,Accounting and Related Services.,47164.0,47363.0
+453163.0,Strayer University-North Carolina,International Business.,,
+453215.0,Strayer University-New Jersey,"Computer and Information Sciences, General.",41760.0,59686.0
+453215.0,Strayer University-New Jersey,Information Science/Studies.,42699.0,66456.0
+453215.0,Strayer University-New Jersey,Criminal Justice and Corrections.,48001.0,38520.0
+453215.0,Strayer University-New Jersey,Economics.,,
+453215.0,Strayer University-New Jersey,"Business/Commerce, General.",47169.0,47245.0
+453215.0,Strayer University-New Jersey,Accounting and Related Services.,47164.0,47363.0
+453215.0,Strayer University-New Jersey,International Business.,,
+454227.0,Chamberlain University-Illinois,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",37758.0,70883.0
+454236.0,Chamberlain University-Ohio,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",37758.0,70883.0
+454245.0,Chamberlain University-Arizona,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",37758.0,70883.0
+454616.0,Institute of Production and Recording,Graphic Communications.,26496.0,
+454689.0,Taft University System,"Business Administration, Management and Operations.",,
+454786.0,Laurus College,Graphic Communications.,,
+454786.0,Laurus College,Computer Software and Media Applications.,,
+454786.0,Laurus College,Computer/Information Technology Administration and Management.,,
+454786.0,Laurus College,"Business Administration, Management and Operations.",,
+454829.0,Aspen University,"Teacher Education and Professional Development, Specific Levels and Methods.",32592.0,
+454829.0,Aspen University,"Liberal Arts and Sciences, General Studies and Humanities.",,
+454829.0,Aspen University,"Clinical, Counseling and Applied Psychology.",42120.0,
+454829.0,Aspen University,Criminal Justice and Corrections.,35647.0,
+454829.0,Aspen University,Health and Medical Administrative Services.,,
+454829.0,Aspen University,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",35163.0,86104.0
+454829.0,Aspen University,"Business Administration, Management and Operations.",28288.0,
+454856.0,Denver College of Nursing,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",36604.0,61078.0
+455196.0,Jersey College,"Practical Nursing, Vocational Nursing and Nursing Assistants.",,
+456621.0,Strayer University-West Virginia,"Computer and Information Sciences, General.",41760.0,59686.0
+456621.0,Strayer University-West Virginia,Information Science/Studies.,42699.0,66456.0
+456621.0,Strayer University-West Virginia,Criminal Justice and Corrections.,48001.0,38520.0
+456621.0,Strayer University-West Virginia,Economics.,,
+456621.0,Strayer University-West Virginia,"Business/Commerce, General.",47169.0,47245.0
+456621.0,Strayer University-West Virginia,Accounting and Related Services.,47164.0,47363.0
+456621.0,Strayer University-West Virginia,International Business.,,
+457129.0,Chamberlain University-Florida,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",37758.0,70883.0
+457299.0,Angeles College,Health and Medical Administrative Services.,,
+457299.0,Angeles College,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",,
+457299.0,Angeles College,"Business Administration, Management and Operations.",,
+457527.0,Ambria College of Nursing,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",,
+457688.0,American Business and Technology University,Computer Systems Networking and Telecommunications.,,
+457688.0,American Business and Technology University,Computer/Information Technology Administration and Management.,,
+457688.0,American Business and Technology University,"Business Administration, Management and Operations.",,
+457688.0,American Business and Technology University,Marketing.,,
+458210.0,West Coast University-Orange County,Dental Support Services and Allied Professions.,34028.0,72503.0
+458210.0,West Coast University-Orange County,Health and Medical Administrative Services.,,
+458210.0,West Coast University-Orange County,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",38722.0,80831.0
+458229.0,West Coast University-Ontario,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",38722.0,80831.0
+458496.0,The Art Institute of Virginia Beach,Computer Software and Media Applications.,40533.0,28196.0
+458496.0,The Art Institute of Virginia Beach,Culinary Arts and Related Services.,39911.0,28105.0
+458496.0,The Art Institute of Virginia Beach,Design and Applied Arts.,39317.0,23649.0
+458496.0,The Art Institute of Virginia Beach,Fine and Studio Arts.,37644.0,20537.0
+458496.0,The Art Institute of Virginia Beach,"Specialized Sales, Merchandising and  Marketing Operations.",,24797.0
+458885.0,Strayer University-Arkansas,"Computer and Information Sciences, General.",41760.0,59686.0
+458885.0,Strayer University-Arkansas,Information Science/Studies.,42699.0,66456.0
+458885.0,Strayer University-Arkansas,Criminal Justice and Corrections.,48001.0,38520.0
+458885.0,Strayer University-Arkansas,Economics.,,
+458885.0,Strayer University-Arkansas,"Business/Commerce, General.",47169.0,47245.0
+458885.0,Strayer University-Arkansas,Accounting and Related Services.,47164.0,47363.0
+458885.0,Strayer University-Arkansas,International Business.,,
+458919.0,Strayer University-Georgia,"Computer and Information Sciences, General.",41760.0,59686.0
+458919.0,Strayer University-Georgia,Information Science/Studies.,42699.0,66456.0
+458919.0,Strayer University-Georgia,Criminal Justice and Corrections.,48001.0,38520.0
+458919.0,Strayer University-Georgia,Economics.,,
+458919.0,Strayer University-Georgia,"Business/Commerce, General.",47169.0,47245.0
+458919.0,Strayer University-Georgia,Accounting and Related Services.,47164.0,47363.0
+458919.0,Strayer University-Georgia,International Business.,,
+458955.0,Strayer University-Mississippi,"Computer and Information Sciences, General.",41760.0,59686.0
+458955.0,Strayer University-Mississippi,Information Science/Studies.,42699.0,66456.0
+458955.0,Strayer University-Mississippi,Criminal Justice and Corrections.,48001.0,38520.0
+458955.0,Strayer University-Mississippi,Economics.,,
+458955.0,Strayer University-Mississippi,"Business/Commerce, General.",47169.0,47245.0
+458955.0,Strayer University-Mississippi,Accounting and Related Services.,47164.0,47363.0
+458955.0,Strayer University-Mississippi,International Business.,,
+458964.0,Strayer University-South Carolina,"Computer and Information Sciences, General.",41760.0,59686.0
+458964.0,Strayer University-South Carolina,Information Science/Studies.,42699.0,66456.0
+458964.0,Strayer University-South Carolina,Criminal Justice and Corrections.,48001.0,38520.0
+458964.0,Strayer University-South Carolina,Economics.,,
+458964.0,Strayer University-South Carolina,"Business/Commerce, General.",47169.0,47245.0
+458964.0,Strayer University-South Carolina,Accounting and Related Services.,47164.0,47363.0
+458964.0,Strayer University-South Carolina,International Business.,,
+458973.0,Strayer University-Texas,"Computer and Information Sciences, General.",41760.0,59686.0
+458973.0,Strayer University-Texas,Information Science/Studies.,42699.0,66456.0
+458973.0,Strayer University-Texas,Criminal Justice and Corrections.,48001.0,38520.0
+458973.0,Strayer University-Texas,Economics.,,
+458973.0,Strayer University-Texas,"Business/Commerce, General.",47169.0,47245.0
+458973.0,Strayer University-Texas,Accounting and Related Services.,47164.0,47363.0
+458973.0,Strayer University-Texas,International Business.,,
+458982.0,The Art Institute of San Antonio,Graphic Communications.,,
+458982.0,The Art Institute of San Antonio,Computer Software and Media Applications.,39880.0,27193.0
+458982.0,The Art Institute of San Antonio,Culinary Arts and Related Services.,34406.0,27937.0
+458982.0,The Art Institute of San Antonio,Drafting/Design Engineering Technologies/Technicians.,,35146.0
+458982.0,The Art Institute of San Antonio,Design and Applied Arts.,39956.0,24094.0
+458982.0,The Art Institute of San Antonio,Film/Video and Photographic Arts.,40058.0,23642.0
+458982.0,The Art Institute of San Antonio,Fine and Studio Arts.,41313.0,20074.0
+458982.0,The Art Institute of San Antonio,"Specialized Sales, Merchandising and  Marketing Operations.",36105.0,31359.0
+459204.0,Unitek College,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",,
+459213.0,Gurnick Academy of Medical Arts,"Allied Health Diagnostic, Intervention, and Treatment Professions.",,
+459213.0,Gurnick Academy of Medical Arts,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",,
+459259.0,South University-Richmond,Information Science/Studies.,47362.0,39831.0
+459259.0,South University-Richmond,"Psychology, General.",47750.0,26893.0
+459259.0,South University-Richmond,Criminal Justice and Corrections.,48177.0,33655.0
+459259.0,South University-Richmond,"Health Services/Allied Health/Health Sciences, General.",53011.0,31369.0
+459259.0,South University-Richmond,Health and Medical Administrative Services.,48192.0,33436.0
+459259.0,South University-Richmond,Public Health.,47839.0,29498.0
+459259.0,South University-Richmond,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",39647.0,65499.0
+459259.0,South University-Richmond,"Business Administration, Management and Operations.",47764.0,37748.0
+459268.0,South University-Virginia Beach,Information Science/Studies.,47362.0,39831.0
+459268.0,South University-Virginia Beach,Legal Support Services.,41831.0,33600.0
+459268.0,South University-Virginia Beach,"Psychology, General.",47750.0,26893.0
+459268.0,South University-Virginia Beach,Criminal Justice and Corrections.,48177.0,33655.0
+459268.0,South University-Virginia Beach,"Health Services/Allied Health/Health Sciences, General.",53011.0,31369.0
+459268.0,South University-Virginia Beach,Health and Medical Administrative Services.,48192.0,33436.0
+459268.0,South University-Virginia Beach,Public Health.,47839.0,29498.0
+459268.0,South University-Virginia Beach,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",39647.0,65499.0
+459268.0,South University-Virginia Beach,"Business Administration, Management and Operations.",47764.0,37748.0
+459994.0,Strayer University-Global Region,"Computer and Information Sciences, General.",41760.0,59686.0
+459994.0,Strayer University-Global Region,Information Science/Studies.,42699.0,66456.0
+459994.0,Strayer University-Global Region,Criminal Justice and Corrections.,48001.0,38520.0
+459994.0,Strayer University-Global Region,Economics.,,
+459994.0,Strayer University-Global Region,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",35864.0,
+459994.0,Strayer University-Global Region,"Business/Commerce, General.",47169.0,47245.0
+459994.0,Strayer University-Global Region,Accounting and Related Services.,47164.0,47363.0
+459994.0,Strayer University-Global Region,International Business.,,
+460738.0,American Sentinel College of Nursing and Health Sciences,"Computer and Information Sciences, General.",,
+460738.0,American Sentinel College of Nursing and Health Sciences,Computer Science.,,
+460738.0,American Sentinel College of Nursing and Health Sciences,Computer Systems Networking and Telecommunications.,,
+460738.0,American Sentinel College of Nursing and Health Sciences,Computer/Information Technology Administration and Management.,,
+460738.0,American Sentinel College of Nursing and Health Sciences,Geography and Cartography.,,
+460738.0,American Sentinel College of Nursing and Health Sciences,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",25123.0,77305.0
+460738.0,American Sentinel College of Nursing and Health Sciences,"Business Administration, Management and Operations.",,
+460738.0,American Sentinel College of Nursing and Health Sciences,Human Resources Management and Services.,,
+460738.0,American Sentinel College of Nursing and Health Sciences,Management Information Systems and Services.,,
+460871.0,Chamberlain University-Virginia,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",37758.0,70883.0
+461005.0,American College for Medical Careers,"Allied Health Diagnostic, Intervention, and Treatment Professions.",,
+461023.0,National Paralegal College,Non-Professional General Legal Studies (Undergraduate).,47774.0,31967.0
+461023.0,National Paralegal College,Legal Research and Advanced Professional Studies.,,
+461023.0,National Paralegal College,Legal Support Services.,,
+461023.0,National Paralegal College,"Business Administration, Management and Operations.",,
+461148.0,New York Film Academy,Graphic Communications.,,
+461148.0,New York Film Academy,Design and Applied Arts.,,
+461148.0,New York Film Academy,Drama/Theatre Arts and Stagecraft.,31580.0,19744.0
+461148.0,New York Film Academy,Film/Video and Photographic Arts.,34123.0,12850.0
+461281.0,Jose Maria Vargas University,"Teacher Education and Professional Development, Specific Levels and Methods.",,
+461281.0,Jose Maria Vargas University,Design and Applied Arts.,,
+461281.0,Jose Maria Vargas University,Mental and Social Health Services and Allied Professions.,,
+461281.0,Jose Maria Vargas University,"Business Administration, Management and Operations.",,
+461883.0,Millennia Atlantic University,Legal Support Services.,,
+461883.0,Millennia Atlantic University,Health and Medical Administrative Services.,,
+461883.0,Millennia Atlantic University,"Business Administration, Management and Operations.",,
+461883.0,Millennia Atlantic University,Accounting and Related Services.,,
+461883.0,Millennia Atlantic University,Human Resources Management and Services.,,
+466921.0,Chamberlain University-Missouri,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",37758.0,70883.0
+466930.0,Chamberlain University-Texas,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",37758.0,70883.0
+475121.0,South University-Savannah Online,"Public Relations, Advertising, and Applied Communication.",,
+475121.0,South University-Savannah Online,Information Science/Studies.,47362.0,39831.0
+475121.0,South University-Savannah Online,Legal Support Services.,41831.0,33600.0
+475121.0,South University-Savannah Online,"Psychology, General.",47750.0,26893.0
+475121.0,South University-Savannah Online,Criminal Justice and Corrections.,48177.0,33655.0
+475121.0,South University-Savannah Online,"Health Services/Allied Health/Health Sciences, General.",53011.0,31369.0
+475121.0,South University-Savannah Online,Health and Medical Administrative Services.,48192.0,33436.0
+475121.0,South University-Savannah Online,Public Health.,47839.0,29498.0
+475121.0,South University-Savannah Online,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",39647.0,65499.0
+475121.0,South University-Savannah Online,"Business Administration, Management and Operations.",47764.0,37748.0
+475121.0,South University-Savannah Online,Accounting and Related Services.,,
+475635.0,Beverly Hills Design Institute,Apparel and Textiles.,,
+475635.0,Beverly Hills Design Institute,Design and Applied Arts.,,
+475732.0,Chamberlain University-Georgia,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",37758.0,70883.0
+475741.0,Chamberlain University-Indiana,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",37758.0,70883.0
+476595.0,Medical Allied Career Center,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",,
+477039.0,West Coast University-Dallas,Health and Medical Administrative Services.,,
+477039.0,West Coast University-Dallas,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",38722.0,80831.0
+480073.0,South University-Austin,Information Science/Studies.,47362.0,39831.0
+480073.0,South University-Austin,"Psychology, General.",47750.0,26893.0
+480073.0,South University-Austin,Criminal Justice and Corrections.,48177.0,33655.0
+480073.0,South University-Austin,"Health Services/Allied Health/Health Sciences, General.",53011.0,31369.0
+480073.0,South University-Austin,Health and Medical Administrative Services.,48192.0,33436.0
+480073.0,South University-Austin,Public Health.,47839.0,29498.0
+480073.0,South University-Austin,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",39647.0,65499.0
+480073.0,South University-Austin,"Business Administration, Management and Operations.",47764.0,37748.0
+480091.0,Bryant & Stratton College-Online,Health and Medical Administrative Services.,,
+480091.0,Bryant & Stratton College-Online,Public Health.,47185.0,34716.0
+480091.0,Bryant & Stratton College-Online,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",,61793.0
+480091.0,Bryant & Stratton College-Online,"Business Administration, Management and Operations.",41322.0,34656.0
+480091.0,Bryant & Stratton College-Online,Accounting and Related Services.,,
+480091.0,Bryant & Stratton College-Online,Human Resources Management and Services.,,
+480091.0,Bryant & Stratton College-Online,Marketing.,,
+480204.0,Platt College-Riverside,Criminal Justice and Corrections.,,
+480204.0,Platt College-Riverside,Health and Medical Administrative Services.,19735.0,34920.0
+480204.0,Platt College-Riverside,"Allied Health Diagnostic, Intervention, and Treatment Professions.",25429.0,29840.0
+480204.0,Platt College-Riverside,"Business Administration, Management and Operations.",,
+480657.0,Rasmussen University-Kansas,Information Science/Studies.,26167.0,
+480657.0,Rasmussen University-Kansas,Computer Systems Analysis.,,66682.0
+480657.0,Rasmussen University-Kansas,Computer Science.,38542.0,56886.0
+480657.0,Rasmussen University-Kansas,Computer/Information Technology Administration and Management.,42213.0,52103.0
+480657.0,Rasmussen University-Kansas,Educational Administration and Supervision.,36433.0,32516.0
+480657.0,Rasmussen University-Kansas,Criminal Justice and Corrections.,42183.0,39439.0
+480657.0,Rasmussen University-Kansas,"Human Services, General.",43310.0,
+480657.0,Rasmussen University-Kansas,"Visual and Performing Arts, General.",,
+480657.0,Rasmussen University-Kansas,Design and Applied Arts.,38812.0,
+480657.0,Rasmussen University-Kansas,Health and Medical Administrative Services.,40435.0,42125.0
+480657.0,Rasmussen University-Kansas,Public Health.,38612.0,31854.0
+480657.0,Rasmussen University-Kansas,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",38967.0,66327.0
+480657.0,Rasmussen University-Kansas,"Business Administration, Management and Operations.",36809.0,49340.0
+480657.0,Rasmussen University-Kansas,Accounting and Related Services.,38495.0,47670.0
+480657.0,Rasmussen University-Kansas,Finance and Financial Management Services.,32694.0,48056.0
+480657.0,Rasmussen University-Kansas,Human Resources Management and Services.,38596.0,45188.0
+480657.0,Rasmussen University-Kansas,Marketing.,37488.0,44306.0
+480781.0,California Miramar University,"Business Administration, Management and Operations.",26463.0,
+480912.0,Gemini School of Visual Arts & Communication,Design and Applied Arts.,,
+481386.0,California Career Institute,"Practical Nursing, Vocational Nursing and Nursing Assistants.",,
+481720.0,South University-High Point,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",39647.0,65499.0
+482325.0,National American University-Georgetown,"Computer and Information Sciences, General.",44414.0,53242.0
+482325.0,National American University-Georgetown,Computer/Information Technology Administration and Management.,33776.0,39835.0
+482325.0,National American University-Georgetown,Criminal Justice and Corrections.,46067.0,36958.0
+482325.0,National American University-Georgetown,Health and Medical Administrative Services.,47702.0,37731.0
+482325.0,National American University-Georgetown,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",48594.0,59104.0
+482325.0,National American University-Georgetown,"Business Administration, Management and Operations.",40958.0,42593.0
+482325.0,National American University-Georgetown,Accounting and Related Services.,41443.0,45951.0
+482325.0,National American University-Georgetown,Entrepreneurial and Small Business Operations.,,
+482325.0,National American University-Georgetown,Finance and Financial Management Services.,,
+482325.0,National American University-Georgetown,Human Resources Management and Services.,35741.0,40851.0
+482325.0,National American University-Georgetown,Marketing.,,
+482413.0,DeVry College of New York,Computer Systems Analysis.,41799.0,47609.0
+482413.0,DeVry College of New York,Computer Systems Networking and Telecommunications.,41956.0,50307.0
+482413.0,DeVry College of New York,Electrical Engineering Technologies/Technicians.,46031.0,60951.0
+482413.0,DeVry College of New York,Electromechanical Instrumentation and Maintenance Technologies/Technicians.,45129.0,52602.0
+482413.0,DeVry College of New York,Computer Engineering Technologies/Technicians.,45767.0,53564.0
+482413.0,DeVry College of New York,"Business Administration, Management and Operations.",41704.0,47138.0
+482422.0,DeVry University-Arizona,"Computer and Information Sciences, General.",,
+482422.0,DeVry University-Arizona,Computer Systems Analysis.,41799.0,47609.0
+482422.0,DeVry University-Arizona,Computer Software and Media Applications.,45162.0,29529.0
+482422.0,DeVry University-Arizona,Computer Systems Networking and Telecommunications.,41956.0,50307.0
+482422.0,DeVry University-Arizona,Computer Engineering.,,44748.0
+482422.0,DeVry University-Arizona,Electrical Engineering Technologies/Technicians.,46031.0,60951.0
+482422.0,DeVry University-Arizona,Electromechanical Instrumentation and Maintenance Technologies/Technicians.,45129.0,52602.0
+482422.0,DeVry University-Arizona,Computer Engineering Technologies/Technicians.,45767.0,53564.0
+482422.0,DeVry University-Arizona,Criminal Justice and Corrections.,47813.0,37292.0
+482422.0,DeVry University-Arizona,Clinical/Medical Laboratory Science/Research and Allied Professions.,47257.0,60308.0
+482422.0,DeVry University-Arizona,"Business/Commerce, General.",42587.0,48403.0
+482422.0,DeVry University-Arizona,"Business Administration, Management and Operations.",41704.0,47138.0
+482422.0,DeVry University-Arizona,Accounting and Related Services.,46708.0,43523.0
+482431.0,DeVry University-California,Communication and Media Studies.,44497.0,
+482431.0,DeVry University-California,"Computer and Information Sciences, General.",,
+482431.0,DeVry University-California,Computer Systems Analysis.,41799.0,47609.0
+482431.0,DeVry University-California,Computer Software and Media Applications.,45162.0,29529.0
+482431.0,DeVry University-California,Computer Systems Networking and Telecommunications.,41956.0,50307.0
+482431.0,DeVry University-California,Computer Engineering.,,44748.0
+482431.0,DeVry University-California,Electrical Engineering Technologies/Technicians.,46031.0,60951.0
+482431.0,DeVry University-California,Electromechanical Instrumentation and Maintenance Technologies/Technicians.,45129.0,52602.0
+482431.0,DeVry University-California,Computer Engineering Technologies/Technicians.,45767.0,53564.0
+482431.0,DeVry University-California,Criminal Justice and Corrections.,47813.0,37292.0
+482431.0,DeVry University-California,Health and Medical Administrative Services.,46684.0,36653.0
+482431.0,DeVry University-California,"Business/Commerce, General.",42587.0,48403.0
+482431.0,DeVry University-California,"Business Administration, Management and Operations.",41704.0,47138.0
+482431.0,DeVry University-California,Accounting and Related Services.,46708.0,43523.0
+482440.0,DeVry University-Colorado,Communication and Media Studies.,44497.0,
+482440.0,DeVry University-Colorado,Computer Systems Analysis.,41799.0,47609.0
+482440.0,DeVry University-Colorado,Computer Software and Media Applications.,45162.0,29529.0
+482440.0,DeVry University-Colorado,Computer Systems Networking and Telecommunications.,41956.0,50307.0
+482440.0,DeVry University-Colorado,Electrical Engineering Technologies/Technicians.,46031.0,60951.0
+482440.0,DeVry University-Colorado,Computer Engineering Technologies/Technicians.,45767.0,53564.0
+482440.0,DeVry University-Colorado,Health and Medical Administrative Services.,46684.0,36653.0
+482440.0,DeVry University-Colorado,"Business/Commerce, General.",42587.0,48403.0
+482440.0,DeVry University-Colorado,"Business Administration, Management and Operations.",41704.0,47138.0
+482440.0,DeVry University-Colorado,Accounting and Related Services.,46708.0,43523.0
+482459.0,DeVry University-Florida,Communication and Media Studies.,44497.0,
+482459.0,DeVry University-Florida,"Computer and Information Sciences, General.",,
+482459.0,DeVry University-Florida,Computer Systems Analysis.,41799.0,47609.0
+482459.0,DeVry University-Florida,Computer Software and Media Applications.,45162.0,29529.0
+482459.0,DeVry University-Florida,Computer Systems Networking and Telecommunications.,41956.0,50307.0
+482459.0,DeVry University-Florida,Computer Engineering.,,44748.0
+482459.0,DeVry University-Florida,Electrical Engineering Technologies/Technicians.,46031.0,60951.0
+482459.0,DeVry University-Florida,Electromechanical Instrumentation and Maintenance Technologies/Technicians.,45129.0,52602.0
+482459.0,DeVry University-Florida,Computer Engineering Technologies/Technicians.,45767.0,53564.0
+482459.0,DeVry University-Florida,Criminal Justice and Corrections.,47813.0,37292.0
+482459.0,DeVry University-Florida,Health and Medical Administrative Services.,46684.0,36653.0
+482459.0,DeVry University-Florida,"Business/Commerce, General.",42587.0,48403.0
+482459.0,DeVry University-Florida,"Business Administration, Management and Operations.",41704.0,47138.0
+482459.0,DeVry University-Florida,Accounting and Related Services.,46708.0,43523.0
+482468.0,DeVry University-Georgia,Communication and Media Studies.,44497.0,
+482468.0,DeVry University-Georgia,"Computer and Information Sciences, General.",,
+482468.0,DeVry University-Georgia,Computer Systems Analysis.,41799.0,47609.0
+482468.0,DeVry University-Georgia,Computer Software and Media Applications.,45162.0,29529.0
+482468.0,DeVry University-Georgia,Computer Systems Networking and Telecommunications.,41956.0,50307.0
+482468.0,DeVry University-Georgia,Computer Engineering.,,44748.0
+482468.0,DeVry University-Georgia,Electrical Engineering Technologies/Technicians.,46031.0,60951.0
+482468.0,DeVry University-Georgia,Electromechanical Instrumentation and Maintenance Technologies/Technicians.,45129.0,52602.0
+482468.0,DeVry University-Georgia,Computer Engineering Technologies/Technicians.,45767.0,53564.0
+482468.0,DeVry University-Georgia,Criminal Justice and Corrections.,47813.0,37292.0
+482468.0,DeVry University-Georgia,Health and Medical Administrative Services.,46684.0,36653.0
+482468.0,DeVry University-Georgia,"Business/Commerce, General.",42587.0,48403.0
+482468.0,DeVry University-Georgia,"Business Administration, Management and Operations.",41704.0,47138.0
+482468.0,DeVry University-Georgia,Accounting and Related Services.,46708.0,43523.0
+482477.0,DeVry University-Illinois,Communication and Media Studies.,44497.0,
+482477.0,DeVry University-Illinois,"Computer and Information Sciences, General.",,
+482477.0,DeVry University-Illinois,Computer Systems Analysis.,41799.0,47609.0
+482477.0,DeVry University-Illinois,Computer Software and Media Applications.,45162.0,29529.0
+482477.0,DeVry University-Illinois,Computer Systems Networking and Telecommunications.,41956.0,50307.0
+482477.0,DeVry University-Illinois,Computer Engineering.,,44748.0
+482477.0,DeVry University-Illinois,Electrical Engineering Technologies/Technicians.,46031.0,60951.0
+482477.0,DeVry University-Illinois,Electromechanical Instrumentation and Maintenance Technologies/Technicians.,45129.0,52602.0
+482477.0,DeVry University-Illinois,Computer Engineering Technologies/Technicians.,45767.0,53564.0
+482477.0,DeVry University-Illinois,Criminal Justice and Corrections.,47813.0,37292.0
+482477.0,DeVry University-Illinois,Health and Medical Administrative Services.,46684.0,36653.0
+482477.0,DeVry University-Illinois,Clinical/Medical Laboratory Science/Research and Allied Professions.,47257.0,60308.0
+482477.0,DeVry University-Illinois,"Business/Commerce, General.",42587.0,48403.0
+482477.0,DeVry University-Illinois,"Business Administration, Management and Operations.",41704.0,47138.0
+482477.0,DeVry University-Illinois,Accounting and Related Services.,46708.0,43523.0
+482486.0,DeVry University-Indiana,Computer Systems Analysis.,41799.0,47609.0
+482486.0,DeVry University-Indiana,Computer Software and Media Applications.,45162.0,29529.0
+482486.0,DeVry University-Indiana,Criminal Justice and Corrections.,47813.0,37292.0
+482486.0,DeVry University-Indiana,Health and Medical Administrative Services.,46684.0,36653.0
+482486.0,DeVry University-Indiana,"Business/Commerce, General.",42587.0,48403.0
+482486.0,DeVry University-Indiana,"Business Administration, Management and Operations.",41704.0,47138.0
+482538.0,DeVry University-Missouri,Communication and Media Studies.,44497.0,
+482538.0,DeVry University-Missouri,Computer Systems Analysis.,41799.0,47609.0
+482538.0,DeVry University-Missouri,Computer Software and Media Applications.,45162.0,29529.0
+482538.0,DeVry University-Missouri,Computer Systems Networking and Telecommunications.,41956.0,50307.0
+482538.0,DeVry University-Missouri,Electrical Engineering Technologies/Technicians.,46031.0,60951.0
+482538.0,DeVry University-Missouri,Electromechanical Instrumentation and Maintenance Technologies/Technicians.,45129.0,52602.0
+482538.0,DeVry University-Missouri,Computer Engineering Technologies/Technicians.,45767.0,53564.0
+482538.0,DeVry University-Missouri,Criminal Justice and Corrections.,47813.0,37292.0
+482538.0,DeVry University-Missouri,"Business/Commerce, General.",42587.0,48403.0
+482538.0,DeVry University-Missouri,"Business Administration, Management and Operations.",41704.0,47138.0
+482538.0,DeVry University-Missouri,Accounting and Related Services.,46708.0,43523.0
+482547.0,DeVry University-Nevada,Communication and Media Studies.,44497.0,
+482547.0,DeVry University-Nevada,Computer Systems Analysis.,41799.0,47609.0
+482547.0,DeVry University-Nevada,Computer Systems Networking and Telecommunications.,41956.0,50307.0
+482547.0,DeVry University-Nevada,Criminal Justice and Corrections.,47813.0,37292.0
+482547.0,DeVry University-Nevada,"Business/Commerce, General.",42587.0,48403.0
+482547.0,DeVry University-Nevada,"Business Administration, Management and Operations.",41704.0,47138.0
+482556.0,DeVry University-New Jersey,Computer Systems Analysis.,41799.0,47609.0
+482556.0,DeVry University-New Jersey,Computer Software and Media Applications.,45162.0,29529.0
+482556.0,DeVry University-New Jersey,Computer Systems Networking and Telecommunications.,41956.0,50307.0
+482556.0,DeVry University-New Jersey,Electrical Engineering Technologies/Technicians.,46031.0,60951.0
+482556.0,DeVry University-New Jersey,Electromechanical Instrumentation and Maintenance Technologies/Technicians.,45129.0,52602.0
+482556.0,DeVry University-New Jersey,"Business Administration, Management and Operations.",41704.0,47138.0
+482565.0,DeVry University-North Carolina,Computer Systems Analysis.,41799.0,47609.0
+482565.0,DeVry University-North Carolina,Computer Systems Networking and Telecommunications.,41956.0,50307.0
+482565.0,DeVry University-North Carolina,"Business/Commerce, General.",42587.0,48403.0
+482565.0,DeVry University-North Carolina,"Business Administration, Management and Operations.",41704.0,47138.0
+482574.0,DeVry University-Ohio,Computer Systems Analysis.,41799.0,47609.0
+482574.0,DeVry University-Ohio,Computer Software and Media Applications.,45162.0,29529.0
+482574.0,DeVry University-Ohio,Computer Systems Networking and Telecommunications.,41956.0,50307.0
+482574.0,DeVry University-Ohio,Computer Engineering.,,44748.0
+482574.0,DeVry University-Ohio,Electrical Engineering Technologies/Technicians.,46031.0,60951.0
+482574.0,DeVry University-Ohio,Electromechanical Instrumentation and Maintenance Technologies/Technicians.,45129.0,52602.0
+482574.0,DeVry University-Ohio,Computer Engineering Technologies/Technicians.,45767.0,53564.0
+482574.0,DeVry University-Ohio,"Business/Commerce, General.",42587.0,48403.0
+482574.0,DeVry University-Ohio,"Business Administration, Management and Operations.",41704.0,47138.0
+482608.0,DeVry University-Pennsylvania,Communication and Media Studies.,44497.0,
+482608.0,DeVry University-Pennsylvania,Computer Systems Analysis.,41799.0,47609.0
+482608.0,DeVry University-Pennsylvania,Computer Software and Media Applications.,45162.0,29529.0
+482608.0,DeVry University-Pennsylvania,Computer Systems Networking and Telecommunications.,41956.0,50307.0
+482608.0,DeVry University-Pennsylvania,Computer Engineering.,,44748.0
+482608.0,DeVry University-Pennsylvania,Electrical Engineering Technologies/Technicians.,46031.0,60951.0
+482608.0,DeVry University-Pennsylvania,Electromechanical Instrumentation and Maintenance Technologies/Technicians.,45129.0,52602.0
+482608.0,DeVry University-Pennsylvania,Computer Engineering Technologies/Technicians.,45767.0,53564.0
+482608.0,DeVry University-Pennsylvania,"Business/Commerce, General.",42587.0,48403.0
+482608.0,DeVry University-Pennsylvania,"Business Administration, Management and Operations.",41704.0,47138.0
+482617.0,DeVry University-Tennessee,Communication and Media Studies.,44497.0,
+482617.0,DeVry University-Tennessee,Computer Systems Analysis.,41799.0,47609.0
+482617.0,DeVry University-Tennessee,Computer Software and Media Applications.,45162.0,29529.0
+482617.0,DeVry University-Tennessee,Computer Systems Networking and Telecommunications.,41956.0,50307.0
+482617.0,DeVry University-Tennessee,Criminal Justice and Corrections.,47813.0,37292.0
+482617.0,DeVry University-Tennessee,Health and Medical Administrative Services.,46684.0,36653.0
+482617.0,DeVry University-Tennessee,"Business/Commerce, General.",42587.0,48403.0
+482617.0,DeVry University-Tennessee,"Business Administration, Management and Operations.",41704.0,47138.0
+482635.0,DeVry University-Texas,Communication and Media Studies.,44497.0,
+482635.0,DeVry University-Texas,"Computer and Information Sciences, General.",,
+482635.0,DeVry University-Texas,Computer Systems Analysis.,41799.0,47609.0
+482635.0,DeVry University-Texas,Computer Software and Media Applications.,45162.0,29529.0
+482635.0,DeVry University-Texas,Computer Systems Networking and Telecommunications.,41956.0,50307.0
+482635.0,DeVry University-Texas,Computer Engineering.,,44748.0
+482635.0,DeVry University-Texas,Electrical Engineering Technologies/Technicians.,46031.0,60951.0
+482635.0,DeVry University-Texas,Electromechanical Instrumentation and Maintenance Technologies/Technicians.,45129.0,52602.0
+482635.0,DeVry University-Texas,Computer Engineering Technologies/Technicians.,45767.0,53564.0
+482635.0,DeVry University-Texas,Criminal Justice and Corrections.,47813.0,37292.0
+482635.0,DeVry University-Texas,Health and Medical Administrative Services.,46684.0,36653.0
+482635.0,DeVry University-Texas,Clinical/Medical Laboratory Science/Research and Allied Professions.,47257.0,60308.0
+482635.0,DeVry University-Texas,"Business/Commerce, General.",42587.0,48403.0
+482635.0,DeVry University-Texas,"Business Administration, Management and Operations.",41704.0,47138.0
+482635.0,DeVry University-Texas,Accounting and Related Services.,46708.0,43523.0
+482653.0,DeVry University-Virginia,Communication and Media Studies.,44497.0,
+482653.0,DeVry University-Virginia,Computer Systems Analysis.,41799.0,47609.0
+482653.0,DeVry University-Virginia,Computer Software and Media Applications.,45162.0,29529.0
+482653.0,DeVry University-Virginia,Computer Systems Networking and Telecommunications.,41956.0,50307.0
+482653.0,DeVry University-Virginia,Computer Engineering.,,44748.0
+482653.0,DeVry University-Virginia,Electrical Engineering Technologies/Technicians.,46031.0,60951.0
+482653.0,DeVry University-Virginia,Computer Engineering Technologies/Technicians.,45767.0,53564.0
+482653.0,DeVry University-Virginia,Criminal Justice and Corrections.,47813.0,37292.0
+482653.0,DeVry University-Virginia,Health and Medical Administrative Services.,46684.0,36653.0
+482653.0,DeVry University-Virginia,"Business/Commerce, General.",42587.0,48403.0
+482653.0,DeVry University-Virginia,"Business Administration, Management and Operations.",41704.0,47138.0
+482653.0,DeVry University-Virginia,Accounting and Related Services.,46708.0,43523.0
+483780.0,IGlobal University,"Computer and Information Sciences, General.",,
+483780.0,IGlobal University,"Business Administration, Management and Operations.",,
+484048.0,Barber Institute of Texas,Cosmetology and Related Personal Grooming Services.,,
+484613.0,University of Phoenix-Arizona,Natural Resources Conservation and Research.,40957.0,40885.0
+484613.0,University of Phoenix-Arizona,Communication and Media Studies.,41573.0,41894.0
+484613.0,University of Phoenix-Arizona,"Computer and Information Sciences, General.",38719.0,51875.0
+484613.0,University of Phoenix-Arizona,Computer Programming.,43376.0,51361.0
+484613.0,University of Phoenix-Arizona,Computer Systems Analysis.,,59874.0
+484613.0,University of Phoenix-Arizona,Computer Software and Media Applications.,42314.0,53600.0
+484613.0,University of Phoenix-Arizona,Computer Systems Networking and Telecommunications.,35072.0,54894.0
+484613.0,University of Phoenix-Arizona,Computer/Information Technology Administration and Management.,42697.0,51250.0
+484613.0,University of Phoenix-Arizona,"Teacher Education and Professional Development, Specific Levels and Methods.",41573.0,35017.0
+484613.0,University of Phoenix-Arizona,"English Language and Literature, General.",42009.0,31030.0
+484613.0,University of Phoenix-Arizona,"Biology, General.",,
+484613.0,University of Phoenix-Arizona,Behavioral Sciences.,45578.0,32579.0
+484613.0,University of Phoenix-Arizona,"Clinical, Counseling and Applied Psychology.",38338.0,
+484613.0,University of Phoenix-Arizona,Criminal Justice and Corrections.,42209.0,39195.0
+484613.0,University of Phoenix-Arizona,Homeland Security.,,44554.0
+484613.0,University of Phoenix-Arizona,"Human Services, General.",46965.0,32912.0
+484613.0,University of Phoenix-Arizona,Community Organization and Advocacy.,46901.0,38488.0
+484613.0,University of Phoenix-Arizona,Public Administration.,41573.0,52336.0
+484613.0,University of Phoenix-Arizona,Health and Medical Administrative Services.,47880.0,38040.0
+484613.0,University of Phoenix-Arizona,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",29737.0,86805.0
+484613.0,University of Phoenix-Arizona,"Business Administration, Management and Operations.",38996.0,49674.0
+484613.0,University of Phoenix-Arizona,Accounting and Related Services.,43957.0,44552.0
+484613.0,University of Phoenix-Arizona,Entrepreneurial and Small Business Operations.,,
+484613.0,University of Phoenix-Arizona,Finance and Financial Management Services.,44524.0,55381.0
+484613.0,University of Phoenix-Arizona,Human Resources Management and Services.,45799.0,46532.0
+484613.0,University of Phoenix-Arizona,Marketing.,41075.0,47878.0
+484613.0,University of Phoenix-Arizona,History.,,
+484631.0,University of Phoenix-California,Natural Resources Conservation and Research.,40957.0,40885.0
+484631.0,University of Phoenix-California,Communication and Media Studies.,41573.0,41894.0
+484631.0,University of Phoenix-California,"Computer and Information Sciences, General.",38719.0,51875.0
+484631.0,University of Phoenix-California,Computer Programming.,43376.0,51361.0
+484631.0,University of Phoenix-California,Computer Systems Analysis.,,59874.0
+484631.0,University of Phoenix-California,Computer Software and Media Applications.,42314.0,53600.0
+484631.0,University of Phoenix-California,Computer/Information Technology Administration and Management.,42697.0,51250.0
+484631.0,University of Phoenix-California,"Teacher Education and Professional Development, Specific Levels and Methods.",41573.0,35017.0
+484631.0,University of Phoenix-California,Behavioral Sciences.,45578.0,32579.0
+484631.0,University of Phoenix-California,Criminal Justice and Corrections.,42209.0,39195.0
+484631.0,University of Phoenix-California,"Human Services, General.",46965.0,32912.0
+484631.0,University of Phoenix-California,Health and Medical Administrative Services.,47880.0,38040.0
+484631.0,University of Phoenix-California,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",29737.0,86805.0
+484631.0,University of Phoenix-California,"Business Administration, Management and Operations.",38996.0,49674.0
+484631.0,University of Phoenix-California,Accounting and Related Services.,43957.0,44552.0
+484631.0,University of Phoenix-California,Finance and Financial Management Services.,44524.0,55381.0
+484631.0,University of Phoenix-California,Human Resources Management and Services.,45799.0,46532.0
+484631.0,University of Phoenix-California,Marketing.,41075.0,47878.0
+484668.0,University of Phoenix-Florida,"Computer and Information Sciences, General.",38719.0,51875.0
+484668.0,University of Phoenix-Florida,Computer/Information Technology Administration and Management.,42697.0,51250.0
+484668.0,University of Phoenix-Florida,Criminal Justice and Corrections.,42209.0,39195.0
+484668.0,University of Phoenix-Florida,Health and Medical Administrative Services.,47880.0,38040.0
+484668.0,University of Phoenix-Florida,"Business Administration, Management and Operations.",38996.0,49674.0
+484668.0,University of Phoenix-Florida,Accounting and Related Services.,43957.0,44552.0
+484668.0,University of Phoenix-Florida,Human Resources Management and Services.,45799.0,46532.0
+484677.0,University of Phoenix-Georgia,Behavioral Sciences.,45578.0,32579.0
+484677.0,University of Phoenix-Georgia,Criminal Justice and Corrections.,42209.0,39195.0
+484677.0,University of Phoenix-Georgia,Health and Medical Administrative Services.,47880.0,38040.0
+484677.0,University of Phoenix-Georgia,"Business Administration, Management and Operations.",38996.0,49674.0
+484677.0,University of Phoenix-Georgia,Accounting and Related Services.,43957.0,44552.0
+484677.0,University of Phoenix-Georgia,Finance and Financial Management Services.,44524.0,55381.0
+484677.0,University of Phoenix-Georgia,Human Resources Management and Services.,45799.0,46532.0
+484710.0,University of Phoenix-Nevada,"Computer and Information Sciences, General.",38719.0,51875.0
+484710.0,University of Phoenix-Nevada,Computer Systems Networking and Telecommunications.,35072.0,54894.0
+484710.0,University of Phoenix-Nevada,Computer/Information Technology Administration and Management.,42697.0,51250.0
+484710.0,University of Phoenix-Nevada,Behavioral Sciences.,45578.0,32579.0
+484710.0,University of Phoenix-Nevada,Criminal Justice and Corrections.,42209.0,39195.0
+484710.0,University of Phoenix-Nevada,"Human Services, General.",46965.0,32912.0
+484710.0,University of Phoenix-Nevada,Health and Medical Administrative Services.,47880.0,38040.0
+484710.0,University of Phoenix-Nevada,"Business Administration, Management and Operations.",38996.0,49674.0
+484710.0,University of Phoenix-Nevada,Accounting and Related Services.,43957.0,44552.0
+484710.0,University of Phoenix-Nevada,Finance and Financial Management Services.,44524.0,55381.0
+484710.0,University of Phoenix-Nevada,Human Resources Management and Services.,45799.0,46532.0
+484710.0,University of Phoenix-Nevada,Marketing.,41075.0,47878.0
+484729.0,University of Phoenix-North Carolina,"Business Administration, Management and Operations.",38996.0,49674.0
+484756.0,University of Phoenix-Texas,Communication and Media Studies.,41573.0,41894.0
+484756.0,University of Phoenix-Texas,"Computer and Information Sciences, General.",38719.0,51875.0
+484756.0,University of Phoenix-Texas,Computer Programming.,43376.0,51361.0
+484756.0,University of Phoenix-Texas,Computer Software and Media Applications.,42314.0,53600.0
+484756.0,University of Phoenix-Texas,Computer/Information Technology Administration and Management.,42697.0,51250.0
+484756.0,University of Phoenix-Texas,Behavioral Sciences.,45578.0,32579.0
+484756.0,University of Phoenix-Texas,Criminal Justice and Corrections.,42209.0,39195.0
+484756.0,University of Phoenix-Texas,Health and Medical Administrative Services.,47880.0,38040.0
+484756.0,University of Phoenix-Texas,"Business Administration, Management and Operations.",38996.0,49674.0
+484756.0,University of Phoenix-Texas,Accounting and Related Services.,43957.0,44552.0
+484756.0,University of Phoenix-Texas,Finance and Financial Management Services.,44524.0,55381.0
+484756.0,University of Phoenix-Texas,Human Resources Management and Services.,45799.0,46532.0
+484756.0,University of Phoenix-Texas,Marketing.,41075.0,47878.0
+484783.0,University of Phoenix-Pennsylvania,Criminal Justice and Corrections.,42209.0,39195.0
+484783.0,University of Phoenix-Pennsylvania,Health and Medical Administrative Services.,47880.0,38040.0
+484783.0,University of Phoenix-Pennsylvania,"Business Administration, Management and Operations.",38996.0,49674.0
+484783.0,University of Phoenix-Pennsylvania,Marketing.,41075.0,47878.0
+484835.0,CEM College-Mayaguez,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",9822.0,19193.0
+484862.0,University of West Los Angeles,"Business Administration, Management and Operations.",,
+485272.0,West Coast University-Miami,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",38722.0,80831.0
+485546.0,California Intercontinental University,Computer/Information Technology Administration and Management.,,
+485546.0,California Intercontinental University,Health and Medical Administrative Services.,,
+485546.0,California Intercontinental University,"Business Administration, Management and Operations.",,
+485546.0,California Intercontinental University,Entrepreneurial and Small Business Operations.,,
+485768.0,Atlantis University,Computer Engineering.,,
+485768.0,Atlantis University,"Business Administration, Management and Operations.",,
+485768.0,Atlantis University,Management Information Systems and Services.,38318.0,
+486239.0,San Ignacio University,Culinary Arts and Related Services.,,
+486239.0,San Ignacio University,"Business/Commerce, General.",,
+486239.0,San Ignacio University,Hospitality Administration/Management.,,
+486239.0,San Ignacio University,International Business.,,
+486239.0,San Ignacio University,Marketing.,,
+486354.0,United International College,Communication and Media Studies.,,
+486354.0,United International College,"Business/Commerce, General.",,
+486354.0,United International College,"Business Administration, Management and Operations.",,
+486354.0,United International College,Hospitality Administration/Management.,,
+486938.0,Chamberlain University-Nevada,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",37758.0,70883.0
+486947.0,Chamberlain University-Michigan,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",37758.0,70883.0
+486956.0,Chamberlain University-New Jersey,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",37758.0,70883.0
+486965.0,Hussian College-Los Angeles,"Visual and Performing Arts, General.",31891.0,
+486965.0,Hussian College-Los Angeles,Entrepreneurial and Small Business Operations.,,
+487375.0,Arizona College of Nursing-Las Vegas,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",47950.0,60906.0
+488031.0,Abraham Lincoln University,"Liberal Arts and Sciences, General Studies and Humanities.",,
+488031.0,Abraham Lincoln University,Criminal Justice and Corrections.,,
+488031.0,Abraham Lincoln University,"Business Administration, Management and Operations.",,
+488068.0,Huntington University of Health Sciences,Nutrition Sciences.,,
+488448.0,Seattle Film Institute,Film/Video and Photographic Arts.,,
+488776.0,John Patrick University of Health and Applied Sciences,Health and Medical Administrative Services.,,
+488776.0,John Patrick University of Health and Applied Sciences,"Allied Health Diagnostic, Intervention, and Treatment Professions.",31499.0,
+489344.0,Chamberlain University-North Carolina,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",37758.0,70883.0
+489353.0,Chamberlain University-California,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",37758.0,70883.0
+490054.0,HCI College,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",,
+490063.0,Southern States University,"Business Administration, Management and Operations.",,
+490124.0,Los Angeles Academy of Figurative Art,"Visual and Performing Arts, General.",,
+490124.0,Los Angeles Academy of Figurative Art,Fine and Studio Arts.,,
+490133.0,Westcliff University,"Education, General.",,
+490133.0,Westcliff University,"Business Administration, Management and Operations.",31337.0,
+490878.0,Platt College-Anaheim,Criminal Justice and Corrections.,,
+490878.0,Platt College-Anaheim,Health and Medical Administrative Services.,19735.0,34920.0
+490878.0,Platt College-Anaheim,"Allied Health Diagnostic, Intervention, and Treatment Professions.",25429.0,29840.0
+490878.0,Platt College-Anaheim,"Business Administration, Management and Operations.",,
+492759.0,Chamberlain University-Louisiana,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",37758.0,70883.0
+493512.0,San Diego Global Knowledge University,"Business Administration, Management and Operations.",,
+494162.0,Arizona College of Nursing-Dallas,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",47950.0,60906.0
+494171.0,Arizona College of Nursing-Tempe,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",47950.0,60906.0
+494269.0,National American University-Kings Bay,Computer/Information Technology Administration and Management.,33776.0,39835.0
+494269.0,National American University-Kings Bay,Criminal Justice and Corrections.,46067.0,36958.0
+494269.0,National American University-Kings Bay,"Business Administration, Management and Operations.",40958.0,42593.0
+494807.0,Ponce Health Sciences University-East,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",,
+495420.0,Arizona College of Nursing-Tampa,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",47950.0,60906.0
+495439.0,Arizona College of Nursing-Fort Lauderdale,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",47950.0,60906.0
+495448.0,Arizona College of Nursing-Tucson,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",47950.0,60906.0
+495457.0,Arizona College of Nursing-Phoenix,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",47950.0,60906.0
+496283.0,Provo College-Idaho Falls Campus,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",45936.0,54996.0
+496326.0,Eagle Gate College-Boise Campus,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",51110.0,55617.0
+497116.0,Galen Health Institutes-Austin Campus,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",42696.0,67568.0
+497125.0,Galen Health Institutes-Nashville Campus,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",42696.0,67568.0
+497268.0,Arizona College of Nursing-Salt Lake City,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",47950.0,60906.0
+,Brooks Institute,Journalism.,,
+,Brooks Institute,Design and Applied Arts.,,
+,Brooks Institute,Film/Video and Photographic Arts.,,21576.0
+,Santa Fe University of Art and Design,Rhetoric and Composition/Writing Studies.,,12162.0
+,Santa Fe University of Art and Design,"Multi/Interdisciplinary Studies, Other.",,
+,Santa Fe University of Art and Design,"Visual and Performing Arts, General.",,
+,Santa Fe University of Art and Design,Design and Applied Arts.,,
+,Santa Fe University of Art and Design,Drama/Theatre Arts and Stagecraft.,,20541.0
+,Santa Fe University of Art and Design,Film/Video and Photographic Arts.,,20822.0
+,Santa Fe University of Art and Design,Fine and Studio Arts.,,16503.0
+,Santa Fe University of Art and Design,Music.,,
+,Santa Fe University of Art and Design,"Business Administration, Management and Operations.",,
+,Everest College,Criminal Justice and Corrections.,,
+,Everest College,"Business Administration, Management and Operations.",,
+,Midstate College,Information Science/Studies.,,
+,Midstate College,Non-Professional General Legal Studies (Undergraduate).,,
+,Midstate College,Legal Support Services.,,
+,Midstate College,Health and Medical Administrative Services.,,
+,Midstate College,"Business Administration, Management and Operations.",45098.0,54088.0
+,Midstate College,Accounting and Related Services.,,
+,Globe University,"Computer and Information Sciences, General.",,
+,Globe University,Computer Programming.,,
+,Globe University,Mechanical Engineering Related Technologies/Technicians.,,
+,Globe University,Legal Support Services.,,
+,Globe University,Health and Physical Education/Fitness.,,
+,Globe University,Criminal Justice and Corrections.,,
+,Globe University,Security Science and Technology.,,
+,Globe University,Health and Medical Administrative Services.,,
+,Globe University,"Business Administration, Management and Operations.",,
+,Globe University,Accounting and Related Services.,,
+,Minnesota School of Business,"Computer and Information Sciences, General.",,51912.0
+,Minnesota School of Business,Computer Programming.,,
+,Minnesota School of Business,Legal Support Services.,,
+,Minnesota School of Business,Health and Physical Education/Fitness.,,
+,Minnesota School of Business,Criminal Justice and Corrections.,,
+,Minnesota School of Business,Security Science and Technology.,,
+,Minnesota School of Business,Health and Medical Administrative Services.,,44430.0
+,Minnesota School of Business,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",,57857.0
+,Minnesota School of Business,"Business Administration, Management and Operations.",,52505.0
+,Minnesota School of Business,Accounting and Related Services.,,53023.0
+,Mount Washington College,"Radio, Television, and Digital Communication.",,
+,Mount Washington College,"Psychology, General.",,
+,Mount Washington College,"Clinical, Counseling and Applied Psychology.",,
+,Mount Washington College,Criminal Justice and Corrections.,,
+,Mount Washington College,Health and Medical Administrative Services.,,
+,Mount Washington College,"Business Administration, Management and Operations.",,
+,Mount Washington College,International Business.,,
+,Mount Washington College,Marketing.,,
+,Daniel Webster College,Computer Systems Analysis.,,
+,Daniel Webster College,Computer Science.,,
+,Daniel Webster College,Computer Software and Media Applications.,,
+,Daniel Webster College,"Aerospace, Aeronautical and Astronautical Engineering.",,
+,Daniel Webster College,Mechanical Engineering.,,
+,Daniel Webster College,Health and Physical Education/Fitness.,,
+,Daniel Webster College,"Psychology, General.",,
+,Daniel Webster College,Homeland Security.,,
+,Daniel Webster College,Air Transportation.,,
+,Daniel Webster College,Design and Applied Arts.,,
+,Daniel Webster College,"Business/Commerce, General.",,
+,Daniel Webster College,"Business Administration, Management and Operations.",,
+,Daniel Webster College,Management Information Systems and Services.,,
+,Daniel Webster College,Marketing.,,
+,Brown Mackie College (the -),Health and Medical Administrative Services.,,
+,Brown Mackie College (the -),"Business Administration, Management and Operations.",,
+,ITT Technical Institute,Graphic Communications.,,
+,ITT Technical Institute,Computer Programming.,,
+,ITT Technical Institute,Computer/Information Technology Administration and Management.,,44948.0
+,ITT Technical Institute,Electrical Engineering Technologies/Technicians.,,49117.0
+,ITT Technical Institute,Criminal Justice and Corrections.,,
+,ITT Technical Institute,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",,
+,ITT Technical Institute,"Business Administration, Management and Operations.",,40819.0
+,ITT Technical Institute,Accounting and Related Services.,,
+,ITT Technical Institute,Construction Management.,,
+,Sanford-Brown College,"Computer and Information Sciences, General.",,
+,Sanford-Brown College,Criminal Justice and Corrections.,,
+,Sanford-Brown College,Design and Applied Arts.,,
+,Sanford-Brown College,"Business Administration, Management and Operations.",,
+,Fountainhead College of Technology,Computer Programming.,,
+,Fountainhead College of Technology,Computer/Information Technology Administration and Management.,,40978.0
+,Art Institute of Pittsburgh (The),"Public Relations, Advertising, and Applied Communication.",,
+,Art Institute of Pittsburgh (The),Graphic Communications.,,
+,Art Institute of Pittsburgh (The),Computer Software and Media Applications.,45727.0,
+,Art Institute of Pittsburgh (The),Culinary Arts and Related Services.,,34921.0
+,Art Institute of Pittsburgh (The),Design and Applied Arts.,48252.0,31749.0
+,Art Institute of Pittsburgh (The),Film/Video and Photographic Arts.,,25711.0
+,Art Institute of Pittsburgh (The),Fine and Studio Arts.,43925.0,23894.0
+,Art Institute of Pittsburgh (The),"Specialized Sales, Merchandising and  Marketing Operations.",,26992.0
+,New England Institute of Art (The),Audiovisual Communications Technologies/Technicians.,,27232.0
+,New England Institute of Art (The),Computer Software and Media Applications.,,
+,New England Institute of Art (The),Design and Applied Arts.,,
+,New England Institute of Art (The),Film/Video and Photographic Arts.,,
+,New England Institute of Art (The),Fine and Studio Arts.,,20305.0
+,New England Institute of Art (The),"Specialized Sales, Merchandising and  Marketing Operations.",,
+,Westwood College - Denver North,Graphic Communications.,,
+,Westwood College - Denver North,Computer Software and Media Applications.,,
+,Westwood College - Denver North,Computer Systems Networking and Telecommunications.,,
+,Westwood College - Denver North,Computer/Information Technology Administration and Management.,,
+,Westwood College - Denver North,Criminal Justice and Corrections.,,
+,Westwood College - Denver North,Design and Applied Arts.,,
+,Westwood College - Denver North,Health and Medical Administrative Services.,,
+,Westwood College - Denver North,"Business Administration, Management and Operations.",,
+,Westwood College - Denver North,Accounting and Related Services.,,
+,Westwood College - Denver North,Marketing.,,
+,Westwood College - Denver North,Construction Management.,,
+,Art Institute of Portland (The),Graphic Communications.,,
+,Art Institute of Portland (The),Computer Software and Media Applications.,,27460.0
+,Art Institute of Portland (The),Culinary Arts and Related Services.,,
+,Art Institute of Portland (The),Design and Applied Arts.,,33458.0
+,Art Institute of Portland (The),Film/Video and Photographic Arts.,,
+,Art Institute of Portland (The),Fine and Studio Arts.,,28557.0
+,Art Institute of Portland (The),"Specialized Sales, Merchandising and  Marketing Operations.",,33647.0
+,Art Institute of Philadelphia (The) -,Audiovisual Communications Technologies/Technicians.,33487.0,26355.0
+,Art Institute of Philadelphia (The) -,Graphic Communications.,,
+,Art Institute of Philadelphia (The) -,Computer Software and Media Applications.,,
+,Art Institute of Philadelphia (The) -,Culinary Arts and Related Services.,,33452.0
+,Art Institute of Philadelphia (The) -,Design and Applied Arts.,,26714.0
+,Art Institute of Philadelphia (The) -,Film/Video and Photographic Arts.,,
+,Art Institute of Philadelphia (The) -,Fine and Studio Arts.,,18704.0
+,Art Institute of Philadelphia (The) -,"Specialized Sales, Merchandising and  Marketing Operations.",,26637.0
+,Daymar College,Health and Medical Administrative Services.,,
+,Anthem Institute,Computer Programming.,,
+,Anthem Institute,Computer Software and Media Applications.,,
+,Anthem Institute,Computer/Information Technology Administration and Management.,,
+,Daymar College,Criminal Justice and Corrections.,,
+,Daymar College,Health and Medical Administrative Services.,,
+,Daymar College,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",,
+,Daymar College,"Business Administration, Management and Operations.",,
+,Lincoln College of New England,Funeral Service and Mortuary Science.,,
+,Lincoln College of New England,Criminal Justice and Corrections.,,
+,Lincoln College of New England,Dental Support Services and Allied Professions.,,
+,Lincoln College of New England,Health and Medical Administrative Services.,,
+,Lincoln College of New England,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",,75007.0
+,Sanford-Brown College,Criminal Justice and Corrections.,,
+,Sanford-Brown College,"Business Administration, Management and Operations.",,
+,Missouri College,Health and Medical Administrative Services.,,
+,Duluth Business University,"Human Services, General.",,
+,Duluth Business University,Health and Medical Administrative Services.,,
+,Duluth Business University,"Business Administration, Management and Operations.",,
+,Art Institute of Fort Lauderdale (The),Graphic Communications.,,
+,Art Institute of Fort Lauderdale (The),Computer Software and Media Applications.,,
+,Art Institute of Fort Lauderdale (The),Culinary Arts and Related Services.,,
+,Art Institute of Fort Lauderdale (The),Design and Applied Arts.,,25682.0
+,Art Institute of Fort Lauderdale (The),Film/Video and Photographic Arts.,,
+,Art Institute of Fort Lauderdale (The),Fine and Studio Arts.,,14660.0
+,Art Institute of Fort Lauderdale (The),"Specialized Sales, Merchandising and  Marketing Operations.",,29959.0
+,Art Institutes International Minnesota (The),Audiovisual Communications Technologies/Technicians.,,
+,Art Institutes International Minnesota (The),Graphic Communications.,,
+,Art Institutes International Minnesota (The),Computer Software and Media Applications.,,27665.0
+,Art Institutes International Minnesota (The),Computer/Information Technology Administration and Management.,,
+,Art Institutes International Minnesota (The),Culinary Arts and Related Services.,,28831.0
+,Art Institutes International Minnesota (The),Legal Support Services.,,
+,Art Institutes International Minnesota (The),Criminal Justice and Corrections.,,30115.0
+,Art Institutes International Minnesota (The),Design and Applied Arts.,,29997.0
+,Art Institutes International Minnesota (The),Film/Video and Photographic Arts.,,23919.0
+,Art Institutes International Minnesota (The),Fine and Studio Arts.,,22666.0
+,Art Institutes International Minnesota (The),Health and Medical Administrative Services.,,33433.0
+,Art Institutes International Minnesota (The),"Business Administration, Management and Operations.",,34001.0
+,Art Institutes International Minnesota (The),"Specialized Sales, Merchandising and  Marketing Operations.",,29133.0
+,South College-Asheville,Criminal Justice and Corrections.,,
+,South College-Asheville,"Allied Health Diagnostic, Intervention, and Treatment Professions.",,
+,Hickey College,"Business Administration, Management and Operations.",,31574.0
+,Madison Media Institute,Film/Video and Photographic Arts.,,
+,Madison Media Institute,Music.,,
+,Bauder College,Criminal Justice and Corrections.,,
+,Bauder College,"Business Administration, Management and Operations.",,
+,Westwood College - South Bay,Computer/Information Technology Administration and Management.,,
+,Westwood College - South Bay,Criminal Justice and Corrections.,,
+,Westwood College - South Bay,Design and Applied Arts.,,
+,Westwood College - South Bay,Health and Medical Administrative Services.,,
+,Westwood College - South Bay,"Business Administration, Management and Operations.",,
+,Westwood College - South Bay,Marketing.,,
+,Westwood College - South Bay,Construction Management.,,
+,Illinois Institute of Art (The),Audiovisual Communications Technologies/Technicians.,,25171.0
+,Illinois Institute of Art (The),Graphic Communications.,,
+,Illinois Institute of Art (The),Computer Software and Media Applications.,,
+,Illinois Institute of Art (The),Culinary Arts and Related Services.,,30411.0
+,Illinois Institute of Art (The),Design and Applied Arts.,34054.0,28633.0
+,Illinois Institute of Art (The),Film/Video and Photographic Arts.,,22834.0
+,Illinois Institute of Art (The),Fine and Studio Arts.,,22779.0
+,Illinois Institute of Art (The),"Specialized Sales, Merchandising and  Marketing Operations.",,30357.0
+,Harrington College of Design,Design and Applied Arts.,,
+,Briarcliffe College,"Computer and Information Sciences, General.",,
+,Briarcliffe College,Legal Support Services.,,31918.0
+,Briarcliffe College,Criminal Justice and Corrections.,,34678.0
+,Briarcliffe College,Design and Applied Arts.,,24338.0
+,Briarcliffe College,Dental Support Services and Allied Professions.,,
+,Briarcliffe College,Health and Medical Administrative Services.,,41261.0
+,Briarcliffe College,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",,
+,Briarcliffe College,"Business Administration, Management and Operations.",,41124.0
+,Briarcliffe College,Accounting and Related Services.,,
+,Art Institute of Colorado (The),Audiovisual Communications Technologies/Technicians.,,29709.0
+,Art Institute of Colorado (The),Graphic Communications.,,
+,Art Institute of Colorado (The),Computer Software and Media Applications.,,38478.0
+,Art Institute of Colorado (The),Culinary Arts and Related Services.,,
+,Art Institute of Colorado (The),Drafting/Design Engineering Technologies/Technicians.,,
+,Art Institute of Colorado (The),Design and Applied Arts.,36270.0,26768.0
+,Art Institute of Colorado (The),Film/Video and Photographic Arts.,,
+,Art Institute of Colorado (The),Fine and Studio Arts.,,25577.0
+,Art Institute of Colorado (The),"Specialized Sales, Merchandising and  Marketing Operations.",,
+,Art Institute of Cincinnati (The),Design and Applied Arts.,,
+,Harrison College,"Computer and Information Sciences, General.",,
+,Harrison College,Criminal Justice and Corrections.,,
+,Harrison College,Health and Medical Administrative Services.,,37445.0
+,Harrison College,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",,
+,Harrison College,"Business/Commerce, General.",,
+,Harrison College,"Business Administration, Management and Operations.",,
+,Harrison College,Accounting and Related Services.,,
+,Harrison College,Hospitality Administration/Management.,,
+,Harrison College,Human Resources Management and Services.,,
+,Sanford-Brown College,Audiovisual Communications Technologies/Technicians.,,
+,Sanford-Brown College,Graphic Communications.,,
+,Sanford-Brown College,"Computer and Information Sciences, General.",,
+,Sanford-Brown College,Security Science and Technology.,,
+,Sanford-Brown College,"Visual and Performing Arts, General.",,
+,Sanford-Brown College,Design and Applied Arts.,,
+,Sanford-Brown College,Film/Video and Photographic Arts.,,
+,Sanford-Brown College,Marketing.,,
+,Sanford-Brown College,"General Sales, Merchandising and Related Marketing Operations.",,
+,Sanford-Brown College,"Specialized Sales, Merchandising and  Marketing Operations.",,
+,Western International University,Communication and Media Studies.,,
+,Western International University,"Computer and Information Sciences, General.",34549.0,
+,Western International University,Non-Professional General Legal Studies (Undergraduate).,,
+,Western International University,Behavioral Sciences.,40361.0,37391.0
+,Western International University,Criminology.,,
+,Western International University,"Business/Commerce, General.",,
+,Western International University,"Business Administration, Management and Operations.",32970.0,62924.0
+,Western International University,Accounting and Related Services.,30372.0,50396.0
+,Western International University,Human Resources Management and Services.,27401.0,62127.0
+,Argosy University,Audiovisual Communications Technologies/Technicians.,39742.0,22359.0
+,Argosy University,Graphic Communications.,,
+,Argosy University,"Computer and Information Sciences, General.",45844.0,48367.0
+,Argosy University,Computer Software and Media Applications.,40189.0,35588.0
+,Argosy University,Culinary Arts and Related Services.,35208.0,34229.0
+,Argosy University,"Liberal Arts and Sciences, General Studies and Humanities.",,30893.0
+,Argosy University,"Psychology, General.",51726.0,29746.0
+,Argosy University,Criminal Justice and Corrections.,47780.0,33781.0
+,Argosy University,Design and Applied Arts.,40240.0,28051.0
+,Argosy University,Film/Video and Photographic Arts.,39443.0,21086.0
+,Argosy University,Fine and Studio Arts.,41464.0,22947.0
+,Argosy University,Clinical/Medical Laboratory Science/Research and Allied Professions.,,
+,Argosy University,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",13119.0,81681.0
+,Argosy University,"Business/Commerce, General.",48801.0,38544.0
+,Argosy University,"Business Administration, Management and Operations.",,
+,Argosy University,"Specialized Sales, Merchandising and  Marketing Operations.",42543.0,27397.0
+,Sanford-Brown College,Criminal Justice and Corrections.,,
+,Sanford-Brown College,Health and Medical Administrative Services.,,
+,Sanford-Brown College,"Business Administration, Management and Operations.",,
+,Anthem College,"Business Administration, Management and Operations.",,
+,Art Institute of Seattle (The),Audiovisual Communications Technologies/Technicians.,31285.0,35676.0
+,Art Institute of Seattle (The),Graphic Communications.,,
+,Art Institute of Seattle (The),Computer Software and Media Applications.,32067.0,
+,Art Institute of Seattle (The),Culinary Arts and Related Services.,,
+,Art Institute of Seattle (The),Design and Applied Arts.,37140.0,38785.0
+,Art Institute of Seattle (The),Film/Video and Photographic Arts.,,
+,Art Institute of Seattle (The),Fine and Studio Arts.,,28319.0
+,Art Institute of Seattle (The),"Specialized Sales, Merchandising and  Marketing Operations.",,
+,Everest College Phoenix,Criminal Justice and Corrections.,,
+,Everest College Phoenix,"Business Administration, Management and Operations.",,
+,Everest College,"Computer and Information Sciences, General.",,
+,Everest College,Criminal Justice and Corrections.,,
+,Everest College,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",,
+,Westwood College - O'Hare Airport,Graphic Communications.,,
+,Westwood College - O'Hare Airport,Computer Software and Media Applications.,,
+,Westwood College - O'Hare Airport,Computer/Information Technology Administration and Management.,,
+,Westwood College - O'Hare Airport,Criminal Justice and Corrections.,,
+,Westwood College - O'Hare Airport,Design and Applied Arts.,,
+,Westwood College - O'Hare Airport,Health and Medical Administrative Services.,,
+,Westwood College - O'Hare Airport,"Business Administration, Management and Operations.",,
+,Westwood College - O'Hare Airport,Marketing.,,
+,Westwood College - O'Hare Airport,Construction Management.,,
+,National Hispanic University (The),"Human Development, Family Studies, and Related Services.",,
+,National Hispanic University (The),"Psychology, General.",,
+,National Hispanic University (The),"Business Administration, Management and Operations.",,
+,Globe Institute of Technology,Computer Programming.,,
+,Globe Institute of Technology,Information Science/Studies.,,
+,Globe Institute of Technology,"Business Administration, Management and Operations.",,
+,Globe Institute of Technology,Accounting and Related Services.,,
+,Art Institute of York (The) - Pennsylvania,Computer Software and Media Applications.,,
+,Art Institute of York (The) - Pennsylvania,Design and Applied Arts.,,26691.0
+,Art Institute of York (The) - Pennsylvania,Fine and Studio Arts.,,20755.0
+,Art Institute of York (The) - Pennsylvania,"Specialized Sales, Merchandising and  Marketing Operations.",,
+,Vatterott College,Computer/Information Technology Administration and Management.,,
+,Le Cordon Bleu College of Culinary Arts,Culinary Arts and Related Services.,,33409.0
+,Le Cordon Bleu College of Culinary Arts,"General Sales, Merchandising and Related Marketing Operations.",,
+,McNally Smith College of Music,Music.,,22340.0
+,McNally Smith College of Music,"Arts, Entertainment,and Media Management.",,
+,Virginia College,Natural Resources Conservation and Research.,,
+,Virginia College,Graphic Communications.,,21477.0
+,Virginia College,Computer Systems Networking and Telecommunications.,,
+,Virginia College,Computer/Information Technology Administration and Management.,,
+,Virginia College,Cosmetology and Related Personal Grooming Services.,,
+,Virginia College,Culinary Arts and Related Services.,,
+,Virginia College,Electrical Engineering Technologies/Technicians.,,
+,Virginia College,Environmental Control Technologies/Technicians.,,
+,Virginia College,Legal Support Services.,,
+,Virginia College,"Parks, Recreation and Leisure Facilities Management.",,
+,Virginia College,Criminal Justice and Corrections.,,
+,Virginia College,Design and Applied Arts.,,
+,Virginia College,Health and Medical Administrative Services.,,27809.0
+,Virginia College,Allied Health and Medical Assisting Services.,,
+,Virginia College,"Allied Health Diagnostic, Intervention, and Treatment Professions.",,
+,Virginia College,Rehabilitation and Therapeutic Professions.,,
+,Virginia College,Somatic Bodywork and Related Therapeutic Services.,,
+,Virginia College,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",,
+,Virginia College,"Business Administration, Management and Operations.",,33326.0
+,Virginia College,Accounting and Related Services.,,
+,Virginia College,Business Operations Support and Assistant Services.,,
+,Virginia College,Human Resources Management and Services.,,
+,Virginia College,Management Information Systems and Services.,,
+,Virginia College,"General Sales, Merchandising and Related Marketing Operations.",,
+,Sanford-Brown College,"Public Relations, Advertising, and Applied Communication.",,
+,Sanford-Brown College,Audiovisual Communications Technologies/Technicians.,,14531.0
+,Sanford-Brown College,Graphic Communications.,,29075.0
+,Sanford-Brown College,"Computer and Information Sciences, General.",,37911.0
+,Sanford-Brown College,Computer Software and Media Applications.,,
+,Sanford-Brown College,"Visual and Performing Arts, General.",,23258.0
+,Sanford-Brown College,Design and Applied Arts.,,24716.0
+,Sanford-Brown College,Film/Video and Photographic Arts.,,
+,Sanford-Brown College,Marketing.,,
+,Sanford-Brown College,"General Sales, Merchandising and Related Marketing Operations.",,
+,Sanford-Brown College,"Specialized Sales, Merchandising and  Marketing Operations.",,17574.0
+,ITT Technical Institute,Computer/Information Technology Administration and Management.,,39359.0
+,ITT Technical Institute,Electrical Engineering Technologies/Technicians.,,
+,ITT Technical Institute,Criminal Justice and Corrections.,,
+,ITT Technical Institute,"Business Administration, Management and Operations.",,
+,Westwood College - Los Angeles,Graphic Communications.,,
+,Westwood College - Los Angeles,Computer Software and Media Applications.,,
+,Westwood College - Los Angeles,Computer/Information Technology Administration and Management.,,
+,Westwood College - Los Angeles,Criminal Justice and Corrections.,,
+,Westwood College - Los Angeles,Design and Applied Arts.,,
+,Westwood College - Los Angeles,Health and Medical Administrative Services.,,
+,Westwood College - Los Angeles,"Business Administration, Management and Operations.",,
+,Westwood College - Los Angeles,Accounting and Related Services.,,
+,Westwood College - Los Angeles,Human Resources Management and Services.,,
+,Westwood College - Los Angeles,Marketing.,,
+,Westwood College - Los Angeles,"Specialized Sales, Merchandising and  Marketing Operations.",,
+,Westwood College - Los Angeles,Construction Management.,,
+,Westwood College - DuPage,Graphic Communications.,,
+,Westwood College - DuPage,Computer/Information Technology Administration and Management.,,
+,Westwood College - DuPage,Criminal Justice and Corrections.,,
+,Westwood College - DuPage,Design and Applied Arts.,,
+,Westwood College - DuPage,Health and Medical Administrative Services.,,
+,Westwood College - DuPage,"Business Administration, Management and Operations.",,
+,Westwood College - DuPage,Accounting and Related Services.,,
+,Westwood College - DuPage,Marketing.,,
+,Westwood College - DuPage,Construction Management.,,
+,Mt. Sierra College,Graphic Communications.,,
+,Mt. Sierra College,Computer Systems Networking and Telecommunications.,,
+,Mt. Sierra College,Computer/Information Technology Administration and Management.,,
+,Mt. Sierra College,"Computer and Information Sciences and Support Services, Other.",,
+,Mt. Sierra College,Design and Applied Arts.,,
+,Mt. Sierra College,"Business Administration, Management and Operations.",,
+,Mt. Sierra College,Entrepreneurial and Small Business Operations.,,
+,Mattia College,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",,
+,Jones International University,"Business Administration, Management and Operations.",,
+,Jones International University,Business/Corporate Communications.,,
+,New England College of Business and Finance,"Business Administration, Management and Operations.",29765.0,60093.0
+,New England College of Business and Finance,International Business.,,
+,New England College of Business and Finance,Marketing.,,
+,Art Institute of Las Vegas (The),Audiovisual Communications Technologies/Technicians.,,28482.0
+,Art Institute of Las Vegas (The),Graphic Communications.,,
+,Art Institute of Las Vegas (The),Computer Software and Media Applications.,38054.0,28907.0
+,Art Institute of Las Vegas (The),Culinary Arts and Related Services.,,30387.0
+,Art Institute of Las Vegas (The),Rhetoric and Composition/Writing Studies.,,
+,Art Institute of Las Vegas (The),Criminal Justice and Corrections.,,
+,Art Institute of Las Vegas (The),Design and Applied Arts.,,29020.0
+,Art Institute of Las Vegas (The),Film/Video and Photographic Arts.,,29048.0
+,Art Institute of Las Vegas (The),Fine and Studio Arts.,,23219.0
+,Art Institute of Las Vegas (The),Health and Medical Administrative Services.,,
+,Art Institute of Las Vegas (The),"Business Administration, Management and Operations.",,
+,Art Institute of Las Vegas (The),"Specialized Sales, Merchandising and  Marketing Operations.",34627.0,34213.0
+,Digital Media Arts College,Graphic Communications.,,
+,Digital Media Arts College,Design and Applied Arts.,,
+,Allied American University,"Computer and Information Sciences, General.",,
+,Allied American University,"Liberal Arts and Sciences, General Studies and Humanities.",,
+,Allied American University,Criminal Justice and Corrections.,,
+,Allied American University,"Business Administration, Management and Operations.",,
