@@ -1,0 +1,991 @@
+UNITID,INSTNM,Institution_Type,Major_Code,CIPDESC,CREDLEV,CREDDESC,Avg_Student_Debt,Earnings_1Yr,Earnings_2Yr,Earnings_3Yr,EARN_MDN_1YR,Earnings_4Yr,Earnings_5Yr
+101116.0,South University-Montgomery,"Private, for-profit",1104,Information Science/Studies.,5,Master's Degree,,59218,60839,62890,58864,88546,88529
+101116.0,South University-Montgomery,"Private, for-profit",4301,Criminal Justice and Corrections.,5,Master's Degree,,39115,37478,33965,41898,37597,42437
+101116.0,South University-Montgomery,"Private, for-profit",4404,Public Administration.,5,Master's Degree,,41016,41007,43418,45666,48623,46093
+101116.0,South University-Montgomery,"Private, for-profit",5107,Health and Medical Administrative Services.,5,Master's Degree,,43629,45207,44849,47710,54350,63788
+101116.0,South University-Montgomery,"Private, for-profit",5138,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",5,Master's Degree,,90832,91613,98023,102397,106747,118330
+101116.0,South University-Montgomery,"Private, for-profit",5202,"Business Administration, Management and Operations.",5,Master's Degree,,46002,42799,48444,59169,55109,60102
+102845.0,Charter College,"Private, for-profit",5202,"Business Administration, Management and Operations.",5,Master's Degree,,,,,,,
+104090.0,Brookline College-Phoenix,"Private, for-profit",4400,"Human Services, General.",5,Master's Degree,,,,,,,
+104090.0,Brookline College-Phoenix,"Private, for-profit",5132,Bioethics/Medical Ethics.,5,Master's Degree,,,70009,,,69824,89504
+104090.0,Brookline College-Phoenix,"Private, for-profit",5202,"Business Administration, Management and Operations.",5,Master's Degree,,,,,,,
+104717.0,Grand Canyon University,"Private, for-profit",901,Communication and Media Studies.,5,Master's Degree,,,,,48139,,
+104717.0,Grand Canyon University,"Private, for-profit",1101,"Computer and Information Sciences, General.",5,Master's Degree,,86965,87641,91610,97286,98231,111328
+104717.0,Grand Canyon University,"Private, for-profit",1110,Computer/Information Technology Administration and Management.,5,Master's Degree,,,,,85677,,
+104717.0,Grand Canyon University,"Private, for-profit",1301,"Education, General.",5,Master's Degree,,59308,59621,62793,72460,68887,77342
+104717.0,Grand Canyon University,"Private, for-profit",1303,Curriculum and Instruction.,5,Master's Degree,,50846,50483,52796,,56984,63327
+104717.0,Grand Canyon University,"Private, for-profit",1304,Educational Administration and Supervision.,5,Master's Degree,,56083,55605,59588,64777,64335,70614
+104717.0,Grand Canyon University,"Private, for-profit",1305,Educational/Instructional Media Design.,5,Master's Degree,,62516,,,66830,,
+104717.0,Grand Canyon University,"Private, for-profit",1310,Special Education and Teaching.,5,Master's Degree,,45704,44902,46759,54232,51615,57016
+104717.0,Grand Canyon University,"Private, for-profit",1311,Student Counseling and Personnel Services.,5,Master's Degree,,,,,,,
+104717.0,Grand Canyon University,"Private, for-profit",1312,"Teacher Education and Professional Development, Specific Levels and Methods.",5,Master's Degree,,40997,40728,43082,48788,47517,52990
+104717.0,Grand Canyon University,"Private, for-profit",1313,"Teacher Education and Professional Development, Specific Subject Areas.",5,Master's Degree,,51330,50300,54355,58173,57181,64519
+104717.0,Grand Canyon University,"Private, for-profit",1314,Teaching English or French as a Second or Foreign Language.,5,Master's Degree,,56028,56544,57188,63972,64872,68341
+104717.0,Grand Canyon University,"Private, for-profit",3802,Religion/Religious Studies.,5,Master's Degree,,,34348,32580,,35340,18739
+104717.0,Grand Canyon University,"Private, for-profit",3902,Bible/Biblical Studies.,5,Master's Degree,,,,,,,
+104717.0,Grand Canyon University,"Private, for-profit",3904,Religious Education.,5,Master's Degree,,42008,42682,32300,43605,47104,50390
+104717.0,Grand Canyon University,"Private, for-profit",3906,Theological and Ministerial Studies.,5,Master's Degree,,,,,,,
+104717.0,Grand Canyon University,"Private, for-profit",4228,"Clinical, Counseling and Applied Psychology.",5,Master's Degree,,,40140,40263,,47825,49532
+104717.0,Grand Canyon University,"Private, for-profit",4299,"Psychology, Other.",5,Master's Degree,,43695,42411,43447,51812,51068,57232
+104717.0,Grand Canyon University,"Private, for-profit",4301,Criminal Justice and Corrections.,5,Master's Degree,,45908,41937,39858,50294,45738,52250
+104717.0,Grand Canyon University,"Private, for-profit",4302,Fire Protection.,5,Master's Degree,,,,,,,
+104717.0,Grand Canyon University,"Private, for-profit",4404,Public Administration.,5,Master's Degree,,51638,56014,55067,63014,62193,71360
+104717.0,Grand Canyon University,"Private, for-profit",5107,Health and Medical Administrative Services.,5,Master's Degree,,59268,54401,56321,61360,68439,77763
+104717.0,Grand Canyon University,"Private, for-profit",5115,Mental and Social Health Services and Allied Professions.,5,Master's Degree,,42189,40420,42415,48673,48448,52533
+104717.0,Grand Canyon University,"Private, for-profit",5122,Public Health.,5,Master's Degree,,44120,49410,50992,53104,60869,70527
+104717.0,Grand Canyon University,"Private, for-profit",5138,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",5,Master's Degree,,97451,96705,100941,111869,109021,118164
+104717.0,Grand Canyon University,"Private, for-profit",5202,"Business Administration, Management and Operations.",5,Master's Degree,,65248,64265,66703,72536,76457,86286
+104717.0,Grand Canyon University,"Private, for-profit",5203,Accounting and Related Services.,5,Master's Degree,,58382,57047,64355,70495,72639,80687
+104717.0,Grand Canyon University,"Private, for-profit",5214,Marketing.,5,Master's Degree,,55864,,,49936,,
+108232.0,Academy of Art University,"Private, for-profit",402,Architecture.,5,Master's Degree,,,57318,61681,,72519,76223
+108232.0,Academy of Art University,"Private, for-profit",406,Landscape Architecture.,5,Master's Degree,,,,,,,
+108232.0,Academy of Art University,"Private, for-profit",409,Architectural Sciences and Technology.,5,Master's Degree,,,,,,,
+108232.0,Academy of Art University,"Private, for-profit",901,Communication and Media Studies.,5,Master's Degree,,,44971,,,,
+108232.0,Academy of Art University,"Private, for-profit",904,Journalism.,5,Master's Degree,,39016,,,,,
+108232.0,Academy of Art University,"Private, for-profit",907,"Radio, Television, and Digital Communication.",5,Master's Degree,,,,,,,
+108232.0,Academy of Art University,"Private, for-profit",909,"Public Relations, Advertising, and Applied Communication.",5,Master's Degree,,,66077,63589,,67687,86405
+108232.0,Academy of Art University,"Private, for-profit",1002,Audiovisual Communications Technologies/Technicians.,5,Master's Degree,,,,,,,
+108232.0,Academy of Art University,"Private, for-profit",1003,Graphic Communications.,5,Master's Degree,,,34420,42284,,50072,67772
+108232.0,Academy of Art University,"Private, for-profit",1108,Computer Software and Media Applications.,5,Master's Degree,,55653,88417,69026,55139,83281,115316
+108232.0,Academy of Art University,"Private, for-profit",1305,Educational/Instructional Media Design.,5,Master's Degree,,,,,,,
+108232.0,Academy of Art University,"Private, for-profit",1313,"Teacher Education and Professional Development, Specific Subject Areas.",5,Master's Degree,,,,,,,
+108232.0,Academy of Art University,"Private, for-profit",1513,Drafting/Design Engineering Technologies/Technicians.,5,Master's Degree,,58262,,,44643,,
+108232.0,Academy of Art University,"Private, for-profit",1909,Apparel and Textiles.,5,Master's Degree,,,,,,,
+108232.0,Academy of Art University,"Private, for-profit",5001,"Visual and Performing Arts, General.",5,Master's Degree,,29959,38289,,,,
+108232.0,Academy of Art University,"Private, for-profit",5004,Design and Applied Arts.,5,Master's Degree,,43701,45340,47730,38358,49968,58596
+108232.0,Academy of Art University,"Private, for-profit",5005,Drama/Theatre Arts and Stagecraft.,5,Master's Degree,,,,,36635,,
+108232.0,Academy of Art University,"Private, for-profit",5006,Film/Video and Photographic Arts.,5,Master's Degree,,41783,35823,31391,41911,49593,53584
+108232.0,Academy of Art University,"Private, for-profit",5007,Fine and Studio Arts.,5,Master's Degree,,32379,21234,23322,50953,37322,40069
+108232.0,Academy of Art University,"Private, for-profit",5009,Music.,5,Master's Degree,,,44942,35817,,43847,62287
+108232.0,Academy of Art University,"Private, for-profit",5219,"Specialized Sales, Merchandising and  Marketing Operations.",5,Master's Degree,,,,,37909,,
+110219.0,Bryan University,"Private, for-profit",5107,Health and Medical Administrative Services.,5,Master's Degree,,,,,,,
+110219.0,Bryan University,"Private, for-profit",5122,Public Health.,5,Master's Degree,,,,,,,
+110468.0,Alliant International University-San Diego,"Private, for-profit",1310,Special Education and Teaching.,5,Master's Degree,,54156,,,63647,,
+110468.0,Alliant International University-San Diego,"Private, for-profit",1311,Student Counseling and Personnel Services.,5,Master's Degree,,,,,62285,,
+110468.0,Alliant International University-San Diego,"Private, for-profit",1312,"Teacher Education and Professional Development, Specific Levels and Methods.",5,Master's Degree,,53382,52941,,59992,,
+110468.0,Alliant International University-San Diego,"Private, for-profit",1314,Teaching English or French as a Second or Foreign Language.,5,Master's Degree,,43968,,,,,
+110468.0,Alliant International University-San Diego,"Private, for-profit",4227,Research and Experimental Psychology.,5,Master's Degree,,104061,102600,104147,123985,118741,122786
+110468.0,Alliant International University-San Diego,"Private, for-profit",4228,"Clinical, Counseling and Applied Psychology.",5,Master's Degree,,67278,61516,59819,77101,77023,105285
+110468.0,Alliant International University-San Diego,"Private, for-profit",4504,Criminology.,5,Master's Degree,,44338,,,,,
+110468.0,Alliant International University-San Diego,"Private, for-profit",5115,Mental and Social Health Services and Allied Professions.,5,Master's Degree,,44946,45980,50728,53383,55138,67664
+110468.0,Alliant International University-San Diego,"Private, for-profit",5202,"Business Administration, Management and Operations.",5,Master's Degree,,,42682,57093,49210,,
+110468.0,Alliant International University-San Diego,"Private, for-profit",5210,Human Resources Management and Services.,5,Master's Degree,,,38289,,66109,,
+110468.0,Alliant International University-San Diego,"Private, for-profit",5213,Management Sciences and Quantitative Methods.,5,Master's Degree,,,,,,,
+110778.0,Sofia University,"Private, for-profit",1107,Computer Science.,5,Master's Degree,,,,,,,
+110778.0,Sofia University,"Private, for-profit",4299,"Psychology, Other.",5,Master's Degree,,25120,20140,,,,
+110778.0,Sofia University,"Private, for-profit",5202,"Business Administration, Management and Operations.",5,Master's Degree,,,,,,,
+112394.0,University of Silicon Valley,"Private, for-profit",5207,Entrepreneurial and Small Business Operations.,5,Master's Degree,,,,,,,
+114114.0,Emperor's College of Traditional Oriental Medicine,"Private, for-profit",5133,Alternative and Complementary Medicine and Medical Systems.,5,Master's Degree,,16029,17779,,15228,20304,40546
+114123.0,Empire College,"Private, for-profit",2200,Non-Professional General Legal Studies (Undergraduate).,5,Master's Degree,,,,,,,
+114354.0,FIDM-Fashion Institute of Design & Merchandising,"Private, for-profit",5299,"Business, Management, Marketing, and Related Support Services, Other.",5,Master's Degree,,,,,,,
+114585.0,Five Branches University,"Private, for-profit",5133,Alternative and Complementary Medicine and Medical Systems.,5,Master's Degree,,16011,,21702,,25333,29725
+115746.0,Pacifica Graduate Institute,"Private, for-profit",2401,"Liberal Arts and Sciences, General Studies and Humanities.",5,Master's Degree,,,,,,,
+115746.0,Pacifica Graduate Institute,"Private, for-profit",4228,"Clinical, Counseling and Applied Psychology.",5,Master's Degree,,39415,43575,37008,40310,56186,57752
+115746.0,Pacifica Graduate Institute,"Private, for-profit",4299,"Psychology, Other.",5,Master's Degree,,,,,,,
+116226.0,Interior Designers Institute,"Private, for-profit",405,Interior Architecture.,5,Master's Degree,,,,,,,
+116226.0,Interior Designers Institute,"Private, for-profit",5004,Design and Applied Arts.,5,Master's Degree,,,,,,,
+119775.0,Newschool of Architecture and Design,"Private, for-profit",402,Architecture.,5,Master's Degree,,,,,,,
+119775.0,Newschool of Architecture and Design,"Private, for-profit",409,Architectural Sciences and Technology.,5,Master's Degree,,,,,,,
+119775.0,Newschool of Architecture and Design,"Private, for-profit",5220,Construction Management.,5,Master's Degree,,54148,,,61030,,
+122834.0,Santa Barbara Business College-Bakersfield,"Private, for-profit",5202,"Business Administration, Management and Operations.",5,Master's Degree,,,,,,,
+125231.0,Walden University,"Private, for-profit",901,Communication and Media Studies.,5,Master's Degree,,46723,42682,41139,47157,50766,53701
+125231.0,Walden University,"Private, for-profit",1101,"Computer and Information Sciences, General.",5,Master's Degree,,64766,62012,69892,78040,86749,96874
+125231.0,Walden University,"Private, for-profit",1110,Computer/Information Technology Administration and Management.,5,Master's Degree,,,,,,,
+125231.0,Walden University,"Private, for-profit",1301,"Education, General.",5,Master's Degree,,50519,49843,51796,59485,56613,62717
+125231.0,Walden University,"Private, for-profit",1303,Curriculum and Instruction.,5,Master's Degree,,58091,54224,56981,69999,61154,72243
+125231.0,Walden University,"Private, for-profit",1304,Educational Administration and Supervision.,5,Master's Degree,,45848,44765,44621,48220,49761,54202
+125231.0,Walden University,"Private, for-profit",1311,Student Counseling and Personnel Services.,5,Master's Degree,,39489,,,51399,,
+125231.0,Walden University,"Private, for-profit",1312,"Teacher Education and Professional Development, Specific Levels and Methods.",5,Master's Degree,,41031,41286,42691,47427,46338,49553
+125231.0,Walden University,"Private, for-profit",1313,"Teacher Education and Professional Development, Specific Subject Areas.",5,Master's Degree,,,,,,,
+125231.0,Walden University,"Private, for-profit",1399,"Education, Other.",5,Master's Degree,,,,,,,
+125231.0,Walden University,"Private, for-profit",3011,Gerontology.,5,Master's Degree,,,,,,,
+125231.0,Walden University,"Private, for-profit",3201,Basic Skills and Developmental/Remedial Education.,5,Master's Degree,,,,,,,
+125231.0,Walden University,"Private, for-profit",3601,Leisure and Recreational Activities.,5,Master's Degree,,,,,,,
+125231.0,Walden University,"Private, for-profit",4201,"Psychology, General.",5,Master's Degree,,41796,41681,39804,46138,50852,52981
+125231.0,Walden University,"Private, for-profit",4227,Research and Experimental Psychology.,5,Master's Degree,,,,,46371,,
+125231.0,Walden University,"Private, for-profit",4228,"Clinical, Counseling and Applied Psychology.",5,Master's Degree,,41112,42044,43838,45782,48080,55203
+125231.0,Walden University,"Private, for-profit",4301,Criminal Justice and Corrections.,5,Master's Degree,,47250,41565,41918,50548,46470,57881
+125231.0,Walden University,"Private, for-profit",4303,Homeland Security.,5,Master's Degree,,,57318,55598,,62084,67546
+125231.0,Walden University,"Private, for-profit",4400,"Human Services, General.",5,Master's Degree,,41218,38397,40442,46189,44280,50404
+125231.0,Walden University,"Private, for-profit",4404,Public Administration.,5,Master's Degree,,50053,50606,54903,55738,62380,71576
+125231.0,Walden University,"Private, for-profit",4405,Public Policy Analysis.,5,Master's Degree,,44525,43240,50080,,,52075
+125231.0,Walden University,"Private, for-profit",4407,Social Work.,5,Master's Degree,,45721,46009,50231,53563,53534,57974
+125231.0,Walden University,"Private, for-profit",5107,Health and Medical Administrative Services.,5,Master's Degree,,60210,58923,60588,65641,71940,79884
+125231.0,Walden University,"Private, for-profit",5115,Mental and Social Health Services and Allied Professions.,5,Master's Degree,,42159,41539,43707,48538,49822,56037
+125231.0,Walden University,"Private, for-profit",5122,Public Health.,5,Master's Degree,,47603,50939,51761,60943,62332,71859
+125231.0,Walden University,"Private, for-profit",5127,Medical Illustration and Informatics.,5,Master's Degree,,64492,69338,68414,75902,78347,84228
+125231.0,Walden University,"Private, for-profit",5138,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",5,Master's Degree,,93694,94227,98267,109614,106295,117144
+125231.0,Walden University,"Private, for-profit",5202,"Business Administration, Management and Operations.",5,Master's Degree,,56371,58943,60369,67326,68769,75132
+125231.0,Walden University,"Private, for-profit",5203,Accounting and Related Services.,5,Master's Degree,,59915,56641,57366,58099,69720,75276
+125231.0,Walden University,"Private, for-profit",5208,Finance and Financial Management Services.,5,Master's Degree,,,,,64609,,
+125231.0,Walden University,"Private, for-profit",5210,Human Resources Management and Services.,5,Master's Degree,,45507,49784,49846,52928,57596,63249
+125231.0,Walden University,"Private, for-profit",5212,Management Information Systems and Services.,5,Master's Degree,,52969,67660,69365,76732,79157,88911
+125231.0,Walden University,"Private, for-profit",5214,Marketing.,5,Master's Degree,,,,,55620,,
+126827.0,Colorado Technical University-Colorado Springs,"Private, for-profit",1101,"Computer and Information Sciences, General.",5,Master's Degree,,72736,62012,64938,84178,84051,87800
+126827.0,Colorado Technical University-Colorado Springs,"Private, for-profit",1107,Computer Science.,5,Master's Degree,,82493,74200,82890,87781,94664,104843
+126827.0,Colorado Technical University-Colorado Springs,"Private, for-profit",1110,Computer/Information Technology Administration and Management.,5,Master's Degree,,63476,60568,55814,78032,71643,76939
+126827.0,Colorado Technical University-Colorado Springs,"Private, for-profit",1409,Computer Engineering.,5,Master's Degree,,,,,,,
+126827.0,Colorado Technical University-Colorado Springs,"Private, for-profit",1410,"Electrical, Electronics and Communications Engineering.",5,Master's Degree,,,,,,,
+126827.0,Colorado Technical University-Colorado Springs,"Private, for-profit",1427,Systems Engineering.,5,Master's Degree,,,89530,,,,
+126827.0,Colorado Technical University-Colorado Springs,"Private, for-profit",4301,Criminal Justice and Corrections.,5,Master's Degree,,36143,30771,28102,41866,38039,42510
+126827.0,Colorado Technical University-Colorado Springs,"Private, for-profit",4303,Homeland Security.,5,Master's Degree,,49829,41937,41427,44450,45778,
+126827.0,Colorado Technical University-Colorado Springs,"Private, for-profit",5107,Health and Medical Administrative Services.,5,Master's Degree,,30247,,,57757,,
+126827.0,Colorado Technical University-Colorado Springs,"Private, for-profit",5138,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",5,Master's Degree,,,,,137341,,
+126827.0,Colorado Technical University-Colorado Springs,"Private, for-profit",5202,"Business Administration, Management and Operations.",5,Master's Degree,,49539,47957,45595,63087,54528,61400
+126827.0,Colorado Technical University-Colorado Springs,"Private, for-profit",5203,Accounting and Related Services.,5,Master's Degree,,40310,50856,58663,58952,,
+127945.0,Rocky Mountain College of Art and Design,"Private, for-profit",1305,Educational/Instructional Media Design.,5,Master's Degree,,,,,,,
+127945.0,Rocky Mountain College of Art and Design,"Private, for-profit",5004,Design and Applied Arts.,5,Master's Degree,,,,,,,
+130183.0,Post University,"Private, for-profit",1301,"Education, General.",5,Master's Degree,,52478,52334,52470,58543,57342,67221
+130183.0,Post University,"Private, for-profit",1304,Educational Administration and Supervision.,5,Master's Degree,,,,,59811,,
+130183.0,Post University,"Private, for-profit",4400,"Human Services, General.",5,Master's Degree,,52762,50231,47844,57109,51140,58996
+130183.0,Post University,"Private, for-profit",4404,Public Administration.,5,Master's Degree,,73466,76460,,68873,,
+130183.0,Post University,"Private, for-profit",5201,"Business/Commerce, General.",5,Master's Degree,,69016,78468,81050,71087,94180,101458
+130183.0,Post University,"Private, for-profit",5202,"Business Administration, Management and Operations.",5,Master's Degree,,,,,,,
+130183.0,Post University,"Private, for-profit",5203,Accounting and Related Services.,5,Master's Degree,,68219,68219,67034,74389,,
+131803.0,Strayer University-District of Columbia,"Private, for-profit",1104,Information Science/Studies.,5,Master's Degree,,72151,71255,75477,71873,87889,94667
+131803.0,Strayer University-District of Columbia,"Private, for-profit",1110,Computer/Information Technology Administration and Management.,5,Master's Degree,,86262,,,87435,,
+131803.0,Strayer University-District of Columbia,"Private, for-profit",1304,Educational Administration and Supervision.,5,Master's Degree,,41124,40896,41354,47858,45764,51489
+131803.0,Strayer University-District of Columbia,"Private, for-profit",4404,Public Administration.,5,Master's Degree,,44452,43857,48066,49512,55281,60858
+131803.0,Strayer University-District of Columbia,"Private, for-profit",5107,Health and Medical Administrative Services.,5,Master's Degree,,41635,41087,44776,46948,48777,55397
+131803.0,Strayer University-District of Columbia,"Private, for-profit",5202,"Business Administration, Management and Operations.",5,Master's Degree,,54989,56911,58199,64745,65830,72657
+131803.0,Strayer University-District of Columbia,"Private, for-profit",5203,Accounting and Related Services.,5,Master's Degree,,54322,52107,53226,61183,60268,69196
+131803.0,Strayer University-District of Columbia,"Private, for-profit",5210,Human Resources Management and Services.,5,Master's Degree,,49081,46603,46840,52378,55030,62460
+133465.0,South University-West Palm Beach,"Private, for-profit",4301,Criminal Justice and Corrections.,5,Master's Degree,,39115,37478,33965,41898,37597,42437
+133465.0,South University-West Palm Beach,"Private, for-profit",5107,Health and Medical Administrative Services.,5,Master's Degree,,43629,45207,44849,47710,54350,63788
+133465.0,South University-West Palm Beach,"Private, for-profit",5115,Mental and Social Health Services and Allied Professions.,5,Master's Degree,,38224,36598,39039,41585,43411,47527
+133465.0,South University-West Palm Beach,"Private, for-profit",5138,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",5,Master's Degree,,90832,91613,98023,102397,106747,118330
+133465.0,South University-West Palm Beach,"Private, for-profit",5202,"Business Administration, Management and Operations.",5,Master's Degree,,46002,42799,48444,59169,55109,60102
+134237.0,Full Sail University,"Private, for-profit",904,Journalism.,5,Master's Degree,,29541,32711,32514,41887,44139,52002
+134237.0,Full Sail University,"Private, for-profit",909,"Public Relations, Advertising, and Applied Communication.",5,Master's Degree,,34321,41136,40451,37416,46166,48312
+134237.0,Full Sail University,"Private, for-profit",1108,Computer Software and Media Applications.,5,Master's Degree,,,63005,59343,,67250,84207
+134237.0,Full Sail University,"Private, for-profit",1305,Educational/Instructional Media Design.,5,Master's Degree,,53616,50272,50932,58654,56938,68369
+134237.0,Full Sail University,"Private, for-profit",2313,Rhetoric and Composition/Writing Studies.,5,Master's Degree,,27108,32142,26738,36401,38008,43727
+134237.0,Full Sail University,"Private, for-profit",3031,Human Computer Interaction.,5,Master's Degree,,30004,,,30599,,
+134237.0,Full Sail University,"Private, for-profit",5004,Design and Applied Arts.,5,Master's Degree,,35873,40896,35672,41119,49577,52770
+134237.0,Full Sail University,"Private, for-profit",5006,Film/Video and Photographic Arts.,5,Master's Degree,,23300,23108,28880,21973,28862,39432
+134237.0,Full Sail University,"Private, for-profit",5010,"Arts, Entertainment,and Media Management.",5,Master's Degree,,26500,31162,31856,29154,39555,42365
+134237.0,Full Sail University,"Private, for-profit",5202,"Business Administration, Management and Operations.",5,Master's Degree,,,42905,39255,,52958,59086
+134237.0,Full Sail University,"Private, for-profit",5207,Entrepreneurial and Small Business Operations.,5,Master's Degree,,27817,34704,30983,30595,40719,46954
+134237.0,Full Sail University,"Private, for-profit",5212,Management Information Systems and Services.,5,Master's Degree,,50597,63005,63679,63067,83081,85064
+134237.0,Full Sail University,"Private, for-profit",5214,Marketing.,5,Master's Degree,,37706,,,41000,,
+134811.0,AI Miami International University of Art and Design,"Private, for-profit",5004,Design and Applied Arts.,5,Master's Degree,,,42682,43039,,45769,
+134811.0,AI Miami International University of Art and Design,"Private, for-profit",5006,Film/Video and Photographic Arts.,5,Master's Degree,,,,,,,
+138309.0,Rasmussen University-Florida,"Private, for-profit",5138,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",5,Master's Degree,,,,,89809,,
+139579.0,South University-Savannah,"Private, for-profit",1104,Information Science/Studies.,5,Master's Degree,,59218,60839,62890,58864,88546,88529
+139579.0,South University-Savannah,"Private, for-profit",4301,Criminal Justice and Corrections.,5,Master's Degree,,39115,37478,33965,41898,37597,42437
+139579.0,South University-Savannah,"Private, for-profit",4404,Public Administration.,5,Master's Degree,,41016,41007,43418,45666,48623,46093
+139579.0,South University-Savannah,"Private, for-profit",5107,Health and Medical Administrative Services.,5,Master's Degree,,43629,45207,44849,47710,54350,63788
+139579.0,South University-Savannah,"Private, for-profit",5108,Allied Health and Medical Assisting Services.,5,Master's Degree,,172829,170546,189224,193410,196668,196934
+139579.0,South University-Savannah,"Private, for-profit",5109,"Allied Health Diagnostic, Intervention, and Treatment Professions.",5,Master's Degree,,95547,100140,107514,107029,113965,121963
+139579.0,South University-Savannah,"Private, for-profit",5115,Mental and Social Health Services and Allied Professions.,5,Master's Degree,,38224,36598,39039,41585,43411,47527
+139579.0,South University-Savannah,"Private, for-profit",5122,Public Health.,5,Master's Degree,,,,,47587,,
+139579.0,South University-Savannah,"Private, for-profit",5132,Bioethics/Medical Ethics.,5,Master's Degree,,,81997,,86993,95177,96443
+139579.0,South University-Savannah,"Private, for-profit",5138,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",5,Master's Degree,,90832,91613,98023,102397,106747,118330
+139579.0,South University-Savannah,"Private, for-profit",5202,"Business Administration, Management and Operations.",5,Master's Degree,,46002,42799,48444,59169,55109,60102
+139579.0,South University-Savannah,"Private, for-profit",5203,Accounting and Related Services.,5,Master's Degree,,45471,,,,,
+139579.0,South University-Savannah,"Private, for-profit",5210,Human Resources Management and Services.,5,Master's Degree,,,,,59417,,
+154022.0,Ashford University,"Private, for-profit",1301,"Education, General.",5,Master's Degree,,35037,34300,33482,42216,39817,45330
+154022.0,Ashford University,"Private, for-profit",1304,Educational Administration and Supervision.,5,Master's Degree,,,,,47259,,
+154022.0,Ashford University,"Private, for-profit",1305,Educational/Instructional Media Design.,5,Master's Degree,,,,,,,
+154022.0,Ashford University,"Private, for-profit",1310,Special Education and Teaching.,5,Master's Degree,,37673,,,41048,,
+154022.0,Ashford University,"Private, for-profit",1312,"Teacher Education and Professional Development, Specific Levels and Methods.",5,Master's Degree,,38882,39153,36467,47130,42931,49608
+154022.0,Ashford University,"Private, for-profit",1907,"Human Development, Family Studies, and Related Services.",5,Master's Degree,,,,,,,
+154022.0,Ashford University,"Private, for-profit",4201,"Psychology, General.",5,Master's Degree,,35147,,,41362,,
+154022.0,Ashford University,"Private, for-profit",4228,"Clinical, Counseling and Applied Psychology.",5,Master's Degree,,,,,,,
+154022.0,Ashford University,"Private, for-profit",4301,Criminal Justice and Corrections.,5,Master's Degree,,38063,,,46645,,
+154022.0,Ashford University,"Private, for-profit",4400,"Human Services, General.",5,Master's Degree,,,,,48476,,
+154022.0,Ashford University,"Private, for-profit",4404,Public Administration.,5,Master's Degree,,45533,43872,45202,50264,50032,57471
+154022.0,Ashford University,"Private, for-profit",4511,Sociology.,5,Master's Degree,,,,,70179,,
+154022.0,Ashford University,"Private, for-profit",5107,Health and Medical Administrative Services.,5,Master's Degree,,45705,45328,45183,57522,53669,58838
+154022.0,Ashford University,"Private, for-profit",5115,Mental and Social Health Services and Allied Professions.,5,Master's Degree,,,,,,,
+154022.0,Ashford University,"Private, for-profit",5122,Public Health.,5,Master's Degree,,,,,,,
+154022.0,Ashford University,"Private, for-profit",5127,Medical Illustration and Informatics.,5,Master's Degree,,,,,,,
+154022.0,Ashford University,"Private, for-profit",5202,"Business Administration, Management and Operations.",5,Master's Degree,,54455,51179,49905,70200,58002,65222
+154022.0,Ashford University,"Private, for-profit",5203,Accounting and Related Services.,5,Master's Degree,,44074,,,66890,,
+154022.0,Ashford University,"Private, for-profit",5208,Finance and Financial Management Services.,5,Master's Degree,,,,,,,
+154022.0,Ashford University,"Private, for-profit",5210,Human Resources Management and Services.,5,Master's Degree,,,,,58822,,
+154022.0,Ashford University,"Private, for-profit",5211,International Business.,5,Master's Degree,,,,,,,
+154022.0,Ashford University,"Private, for-profit",5212,Management Information Systems and Services.,5,Master's Degree,,,,,90671,,
+154518.0,Waldorf University,"Private, for-profit",1312,"Teacher Education and Professional Development, Specific Levels and Methods.",5,Master's Degree,,,,,,,
+154518.0,Waldorf University,"Private, for-profit",5107,Health and Medical Administrative Services.,5,Master's Degree,,,,,,,
+154518.0,Waldorf University,"Private, for-profit",5202,"Business Administration, Management and Operations.",5,Master's Degree,,58706,38289,,64605,,
+157793.0,Sullivan University,"Private, for-profit",1101,"Computer and Information Sciences, General.",5,Master's Degree,,,52107,,,72327,75959
+157793.0,Sullivan University,"Private, for-profit",1110,Computer/Information Technology Administration and Management.,5,Master's Degree,,74418,63997,73154,,89815,94679
+157793.0,Sullivan University,"Private, for-profit",3005,Peace Studies and Conflict Resolution.,5,Master's Degree,,,42682,,,42139,46710
+157793.0,Sullivan University,"Private, for-profit",4404,Public Administration.,5,Master's Degree,,,,,,,
+157793.0,Sullivan University,"Private, for-profit",5109,"Allied Health Diagnostic, Intervention, and Treatment Professions.",5,Master's Degree,,104849,94408,110917,109210,118778,137285
+157793.0,Sullivan University,"Private, for-profit",5201,"Business/Commerce, General.",5,Master's Degree,,,52107,55167,,62062,71867
+157793.0,Sullivan University,"Private, for-profit",5202,"Business Administration, Management and Operations.",5,Master's Degree,,54323,50742,57139,64194,66012,73359
+157793.0,Sullivan University,"Private, for-profit",5210,Human Resources Management and Services.,5,Master's Degree,,49169,54739,61001,57416,63828,72983
+157793.0,Sullivan University,"Private, for-profit",5212,Management Information Systems and Services.,5,Master's Degree,,,,,,,
+157793.0,Sullivan University,"Private, for-profit",5299,"Business, Management, Marketing, and Related Support Services, Other.",5,Master's Degree,,,50022,50141,,57955,61697
+175014.0,Rasmussen University-Minnesota,"Private, for-profit",5138,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",5,Master's Degree,,,,,89809,,
+178989.0,Research College of Nursing,"Private, for-profit",5138,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",5,Master's Degree,,95700,99769,101962,109102,111929,120149
+183789.0,Berkeley College-Woodland Park,"Private, for-profit",5202,"Business Administration, Management and Operations.",5,Master's Degree,,57067,,,64024,,
+191205.0,Five Towns College,"Private, for-profit",1312,"Teacher Education and Professional Development, Specific Levels and Methods.",5,Master's Degree,,,,,,,
+191205.0,Five Towns College,"Private, for-profit",1313,"Teacher Education and Professional Development, Specific Subject Areas.",5,Master's Degree,,,,,,,
+191205.0,Five Towns College,"Private, for-profit",5009,Music.,5,Master's Degree,,,,,,,
+192271.0,LIM College,"Private, for-profit",5004,Design and Applied Arts.,5,Master's Degree,,,,,,,
+192271.0,LIM College,"Private, for-profit",5201,"Business/Commerce, General.",5,Master's Degree,,,,,,,
+192271.0,LIM College,"Private, for-profit",5202,"Business Administration, Management and Operations.",5,Master's Degree,,46642,43575,54005,43989,59475,65878
+192271.0,LIM College,"Private, for-profit",5214,Marketing.,5,Master's Degree,,40755,44971,53130,37474,54443,64155
+192271.0,LIM College,"Private, for-profit",5299,"Business, Management, Marketing, and Related Support Services, Other.",5,Master's Degree,,,42682,,,62969,64453
+193308.0,Monroe College,"Private, for-profit",1107,Computer Science.,5,Master's Degree,,,,,,,
+193308.0,Monroe College,"Private, for-profit",4301,Criminal Justice and Corrections.,5,Master's Degree,,55003,52941,56813,58544,61661,69976
+193308.0,Monroe College,"Private, for-profit",5122,Public Health.,5,Master's Degree,,60207,,,67109,,
+193308.0,Monroe College,"Private, for-profit",5202,"Business Administration, Management and Operations.",5,Master's Degree,,56196,52357,56975,71639,65464,70961
+193308.0,Monroe College,"Private, for-profit",5203,Accounting and Related Services.,5,Master's Degree,,,,,64456,,
+193308.0,Monroe College,"Private, for-profit",5209,Hospitality Administration/Management.,5,Master's Degree,,,,,,,
+197151.0,School of Visual Arts,"Private, for-profit",909,"Public Relations, Advertising, and Applied Communication.",5,Master's Degree,,64635,,,91346,,
+197151.0,School of Visual Arts,"Private, for-profit",1108,Computer Software and Media Applications.,5,Master's Degree,,,,,,,
+197151.0,School of Visual Arts,"Private, for-profit",1313,"Teacher Education and Professional Development, Specific Subject Areas.",5,Master's Degree,,,,,,,
+197151.0,School of Visual Arts,"Private, for-profit",3006,Systems Science and Theory.,5,Master's Degree,,,,,68946,,
+197151.0,School of Visual Arts,"Private, for-profit",3014,Museology/Museum Studies.,5,Master's Degree,,,,,,,
+197151.0,School of Visual Arts,"Private, for-profit",3031,Human Computer Interaction.,5,Master's Degree,,,,,99137,,
+197151.0,School of Visual Arts,"Private, for-profit",5004,Design and Applied Arts.,5,Master's Degree,,47688,68499,79178,48325,93547,86536
+197151.0,School of Visual Arts,"Private, for-profit",5006,Film/Video and Photographic Arts.,5,Master's Degree,,28424,,30286,33463,32907,45565
+197151.0,School of Visual Arts,"Private, for-profit",5007,Fine and Studio Arts.,5,Master's Degree,,,37856,,,46216,57844
+197151.0,School of Visual Arts,"Private, for-profit",5123,Rehabilitation and Therapeutic Professions.,5,Master's Degree,,40480,,,48429,,
+199980.0,Winston Salem Barber School,"Private, for-profit",1204,Cosmetology and Related Personal Grooming Services.,5,Master's Degree,,,,,21370,,
+200013.0,Rasmussen University-North Dakota,"Private, for-profit",5138,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",5,Master's Degree,,,,,89809,,
+211477.0,Central Penn College,"Private, for-profit",5202,"Business Administration, Management and Operations.",5,Master's Degree,,69343,,,,,
+219204.0,National American University-Rapid City,"Private, for-profit",2902,"Intelligence, Command Control and Information Operations.",5,Master's Degree,,,,,,,
+219204.0,National American University-Rapid City,"Private, for-profit",4303,Homeland Security.,5,Master's Degree,,,,,,,
+219204.0,National American University-Rapid City,"Private, for-profit",5132,Bioethics/Medical Ethics.,5,Master's Degree,,,,,,,
+219204.0,National American University-Rapid City,"Private, for-profit",5202,"Business Administration, Management and Operations.",5,Master's Degree,,50830,51722,53269,57430,57923,67077
+219204.0,National American University-Rapid City,"Private, for-profit",5203,Accounting and Related Services.,5,Master's Degree,,,,,,,
+219204.0,National American University-Rapid City,"Private, for-profit",5211,International Business.,5,Master's Degree,,,,,,,
+220552.0,South College,"Private, for-profit",1303,Curriculum and Instruction.,5,Master's Degree,,,,,,,
+220552.0,South College,"Private, for-profit",1312,"Teacher Education and Professional Development, Specific Levels and Methods.",5,Master's Degree,,40191,38289,39026,,42942,
+220552.0,South College,"Private, for-profit",4301,Criminal Justice and Corrections.,5,Master's Degree,,,,,,,
+220552.0,South College,"Private, for-profit",4404,Public Administration.,5,Master's Degree,,,,,,,
+220552.0,South College,"Private, for-profit",5107,Health and Medical Administrative Services.,5,Master's Degree,,,,,,,
+220552.0,South College,"Private, for-profit",5109,"Allied Health Diagnostic, Intervention, and Treatment Professions.",5,Master's Degree,,103190,104440,112923,109366,122171,129128
+220552.0,South College,"Private, for-profit",5138,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",5,Master's Degree,,,,,88631,,
+220552.0,South College,"Private, for-profit",5202,"Business Administration, Management and Operations.",5,Master's Degree,,,,,,,
+220552.0,South College,"Private, for-profit",5203,Accounting and Related Services.,5,Master's Degree,,,,,,,
+220552.0,South College,"Private, for-profit",5208,Finance and Financial Management Services.,5,Master's Degree,,,,,,,
+223083.0,Baptist Health System School of Health Professions,"Private, for-profit",5138,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",5,Master's Degree,,,,,,,
+224776.0,Miami International University of Art & Design-Art Institute Dallas,"Private, for-profit",5004,Design and Applied Arts.,5,Master's Degree,,,42682,43039,,45769,
+230056.0,Broadview College,"Private, for-profit",5202,"Business Administration, Management and Operations.",5,Master's Degree,,,,,,,
+230366.0,Eagle Gate College-Murray,"Private, for-profit",5138,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",5,Master's Degree,,,,,,,
+232797.0,American National University,"Private, for-profit",1101,"Computer and Information Sciences, General.",5,Master's Degree,,,,,,,
+232797.0,American National University,"Private, for-profit",5138,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",5,Master's Degree,,,,,,,
+232797.0,American National University,"Private, for-profit",5202,"Business Administration, Management and Operations.",5,Master's Degree,,,28598,,,,
+233684.0,Strayer University-Virginia,"Private, for-profit",1104,Information Science/Studies.,5,Master's Degree,,72151,71255,75477,71873,87889,94667
+233684.0,Strayer University-Virginia,"Private, for-profit",1110,Computer/Information Technology Administration and Management.,5,Master's Degree,,86262,,,87435,,
+233684.0,Strayer University-Virginia,"Private, for-profit",1304,Educational Administration and Supervision.,5,Master's Degree,,41124,40896,41354,47858,45764,51489
+233684.0,Strayer University-Virginia,"Private, for-profit",4404,Public Administration.,5,Master's Degree,,44452,43857,48066,49512,55281,60858
+233684.0,Strayer University-Virginia,"Private, for-profit",5107,Health and Medical Administrative Services.,5,Master's Degree,,41635,41087,44776,46948,48777,55397
+233684.0,Strayer University-Virginia,"Private, for-profit",5202,"Business Administration, Management and Operations.",5,Master's Degree,,54989,56911,58199,64745,65830,72657
+233684.0,Strayer University-Virginia,"Private, for-profit",5203,Accounting and Related Services.,5,Master's Degree,,54322,52107,53226,61183,60268,69196
+233684.0,Strayer University-Virginia,"Private, for-profit",5210,Human Resources Management and Services.,5,Master's Degree,,49081,46603,46840,52378,55030,62460
+237783.0,Salem University,"Private, for-profit",1303,Curriculum and Instruction.,5,Master's Degree,,49404,52643,55685,55065,63972,69475
+237783.0,Salem University,"Private, for-profit",1304,Educational Administration and Supervision.,5,Master's Degree,,,,,,,
+237783.0,Salem University,"Private, for-profit",5138,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",5,Master's Degree,,,,,,,
+237783.0,Salem University,"Private, for-profit",5202,"Business Administration, Management and Operations.",5,Master's Degree,,47540,41342,42478,56486,50385,60529
+241304.0,Columbia Central University-Caguas,"Private, for-profit",5107,Health and Medical Administrative Services.,5,Master's Degree,,45268,41205,38833,44104,46609,54383
+241304.0,Columbia Central University-Caguas,"Private, for-profit",5132,Bioethics/Medical Ethics.,5,Master's Degree,,,46673,,39812,51066,52003
+241304.0,Columbia Central University-Caguas,"Private, for-profit",5138,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",5,Master's Degree,,43215,47650,50525,47454,54504,56929
+241304.0,Columbia Central University-Caguas,"Private, for-profit",5202,"Business Administration, Management and Operations.",5,Master's Degree,,,,,,,
+241304.0,Columbia Central University-Caguas,"Private, for-profit",5210,Human Resources Management and Services.,5,Master's Degree,,,,,,,
+242972.0,NUC University,"Private, for-profit",1303,Curriculum and Instruction.,5,Master's Degree,,,,,,,
+242972.0,NUC University,"Private, for-profit",1306,"Educational Assessment, Evaluation, and Research.",5,Master's Degree,,,,,,,
+242972.0,NUC University,"Private, for-profit",1312,"Teacher Education and Professional Development, Specific Levels and Methods.",5,Master's Degree,,24617,23803,24695,29130,26518,26837
+242972.0,NUC University,"Private, for-profit",5132,Bioethics/Medical Ethics.,5,Master's Degree,,,,,36905,,
+242972.0,NUC University,"Private, for-profit",5138,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",5,Master's Degree,,34660,,,38330,,
+242972.0,NUC University,"Private, for-profit",5202,"Business Administration, Management and Operations.",5,Master's Degree,,27822,32032,33630,32051,41234,43562
+242972.0,NUC University,"Private, for-profit",5210,Human Resources Management and Services.,5,Master's Degree,,,,,28867,,
+242972.0,NUC University,"Private, for-profit",5214,Marketing.,5,Master's Degree,,24806,,,28047,,
+243081.0,Ponce Health Sciences University,"Private, for-profit",2601,"Biology, General.",5,Master's Degree,,,,,,,
+243081.0,Ponce Health Sciences University,"Private, for-profit",2699,"Biological and Biomedical Sciences, Other.",5,Master's Degree,,,,,,,
+243081.0,Ponce Health Sciences University,"Private, for-profit",5100,"Health Services/Allied Health/Health Sciences, General.",5,Master's Degree,,,,,,,
+243081.0,Ponce Health Sciences University,"Private, for-profit",5122,Public Health.,5,Master's Degree,,,28055,32387,,45238,42764
+248934.0,ECPI University,"Private, for-profit",1101,"Computer and Information Sciences, General.",5,Master's Degree,,65286,66821,63698,,74139,84614
+248934.0,ECPI University,"Private, for-profit",1110,Computer/Information Technology Administration and Management.,5,Master's Degree,,67898,,,66652,,
+248934.0,ECPI University,"Private, for-profit",5138,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",5,Master's Degree,,,,,102419,,
+248934.0,ECPI University,"Private, for-profit",5202,"Business Administration, Management and Operations.",5,Master's Degree,,47053,,,59599,,
+251312.0,South University-Columbia,"Private, for-profit",4301,Criminal Justice and Corrections.,5,Master's Degree,,39115,37478,33965,41898,37597,42437
+251312.0,South University-Columbia,"Private, for-profit",4404,Public Administration.,5,Master's Degree,,41016,41007,43418,45666,48623,46093
+251312.0,South University-Columbia,"Private, for-profit",5107,Health and Medical Administrative Services.,5,Master's Degree,,43629,45207,44849,47710,54350,63788
+251312.0,South University-Columbia,"Private, for-profit",5115,Mental and Social Health Services and Allied Professions.,5,Master's Degree,,38224,36598,39039,41585,43411,47527
+251312.0,South University-Columbia,"Private, for-profit",5138,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",5,Master's Degree,,90832,91613,98023,102397,106747,118330
+251312.0,South University-Columbia,"Private, for-profit",5202,"Business Administration, Management and Operations.",5,Master's Degree,,46002,42799,48444,59169,55109,60102
+363934.0,University of Advancing Technology,"Private, for-profit",1101,"Computer and Information Sciences, General.",5,Master's Degree,,,,,,,
+363934.0,University of Advancing Technology,"Private, for-profit",1102,Computer Programming.,5,Master's Degree,,,,,,,
+363934.0,University of Advancing Technology,"Private, for-profit",1104,Information Science/Studies.,5,Master's Degree,,,,,,,
+363934.0,University of Advancing Technology,"Private, for-profit",2902,"Intelligence, Command Control and Information Operations.",5,Master's Degree,,,,,,,
+363934.0,University of Advancing Technology,"Private, for-profit",5201,"Business/Commerce, General.",5,Master's Degree,,,,,,,
+363934.0,University of Advancing Technology,"Private, for-profit",5202,"Business Administration, Management and Operations.",5,Master's Degree,,,,,,,
+366605.0,Southwest Acupuncture College-Santa Fe,"Private, for-profit",5133,Alternative and Complementary Medicine and Medical Systems.,5,Master's Degree,,30059,,,17380,,
+367954.0,University of St. Augustine for Health Sciences,"Private, for-profit",5100,"Health Services/Allied Health/Health Sciences, General.",5,Master's Degree,,,,,52637,,
+367954.0,University of St. Augustine for Health Sciences,"Private, for-profit",5107,Health and Medical Administrative Services.,5,Master's Degree,,,,,,,
+367954.0,University of St. Augustine for Health Sciences,"Private, for-profit",5109,"Allied Health Diagnostic, Intervention, and Treatment Professions.",5,Master's Degree,,,,,,,
+367954.0,University of St. Augustine for Health Sciences,"Private, for-profit",5123,Rehabilitation and Therapeutic Professions.,5,Master's Degree,,68351,70253,71197,73390,74355,83761
+367954.0,University of St. Augustine for Health Sciences,"Private, for-profit",5138,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",5,Master's Degree,,,,,95449,,
+369516.0,Bryan University,"Private, for-profit",5202,"Business Administration, Management and Operations.",5,Master's Degree,,,,,,,
+378576.0,Pacific College of Health and Science,"Private, for-profit",5133,Alternative and Complementary Medicine and Medical Systems.,5,Master's Degree,,25845,23649,21896,32044,26777,29862
+380465.0,University of Phoenix-Utah,"Private, for-profit",1304,Educational Administration and Supervision.,5,Master's Degree,,52016,51517,52218,60279,59318,65620
+380465.0,University of Phoenix-Utah,"Private, for-profit",1311,Student Counseling and Personnel Services.,5,Master's Degree,,46777,46380,50383,62143,55208,62387
+380465.0,University of Phoenix-Utah,"Private, for-profit",5115,Mental and Social Health Services and Allied Professions.,5,Master's Degree,,49344,46996,50325,58837,57478,64992
+380465.0,University of Phoenix-Utah,"Private, for-profit",5202,"Business Administration, Management and Operations.",5,Master's Degree,,57810,56498,57570,67504,66679,74320
+381352.0,Colorado School of Traditional Chinese Medicine,"Private, for-profit",5133,Alternative and Complementary Medicine and Medical Systems.,5,Master's Degree,,23776,21052,27525,34056,26478,34317
+383020.0,Midwest College of Oriental Medicine-Racine,"Private, for-profit",5133,Alternative and Complementary Medicine and Medical Systems.,5,Master's Degree,,,,,,,
+384412.0,University of the Potomac-Washington DC Campus,"Private, for-profit",5107,Health and Medical Administrative Services.,5,Master's Degree,,,,,,,
+384412.0,University of the Potomac-Washington DC Campus,"Private, for-profit",5202,"Business Administration, Management and Operations.",5,Master's Degree,,,,,,,
+384412.0,University of the Potomac-Washington DC Campus,"Private, for-profit",5211,International Business.,5,Master's Degree,,,,,,,
+384412.0,University of the Potomac-Washington DC Campus,"Private, for-profit",5212,Management Information Systems and Services.,5,Master's Degree,,,,,,,
+402776.0,Southwest University of Visual Arts-Albuquerque,"Private, for-profit",5007,Fine and Studio Arts.,5,Master's Degree,,,,,,,
+404338.0,Schiller International University,"Private, for-profit",4509,International Relations and National Security Studies.,5,Master's Degree,,,,,,,
+404338.0,Schiller International University,"Private, for-profit",5202,"Business Administration, Management and Operations.",5,Master's Degree,,,,,,,
+404338.0,Schiller International University,"Private, for-profit",5209,Hospitality Administration/Management.,5,Master's Degree,,,,,,,
+404338.0,Schiller International University,"Private, for-profit",5211,International Business.,5,Master's Degree,,,,,,,
+404338.0,Schiller International University,"Private, for-profit",5212,Management Information Systems and Services.,5,Master's Degree,,,,,,,
+405997.0,University of Phoenix-New Mexico,"Private, for-profit",1312,"Teacher Education and Professional Development, Specific Levels and Methods.",5,Master's Degree,,42944,43842,46530,51597,51250,56291
+405997.0,University of Phoenix-New Mexico,"Private, for-profit",4301,Criminal Justice and Corrections.,5,Master's Degree,,42565,44595,43242,49871,52160,58188
+405997.0,University of Phoenix-New Mexico,"Private, for-profit",5202,"Business Administration, Management and Operations.",5,Master's Degree,,57810,56498,57570,67504,66679,74320
+405997.0,University of Phoenix-New Mexico,"Private, for-profit",5210,Human Resources Management and Services.,5,Master's Degree,,46739,45611,47000,55227,53433,59128
+405997.0,University of Phoenix-New Mexico,"Private, for-profit",5214,Marketing.,5,Master's Degree,,45923,45340,42400,54942,51369,62442
+408844.0,Florida National University-Main Campus,"Private, for-profit",5122,Public Health.,5,Master's Degree,,50821,,,52165,,
+408844.0,Florida National University-Main Campus,"Private, for-profit",5138,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",5,Master's Degree,,,,,92816,,
+408844.0,Florida National University-Main Campus,"Private, for-profit",5202,"Business Administration, Management and Operations.",5,Master's Degree,,50975,50465,49910,49749,64756,76415
+413413.0,Capella University,"Private, for-profit",1101,"Computer and Information Sciences, General.",5,Master's Degree,,,77213,73330,,78157,86694
+413413.0,Capella University,"Private, for-profit",1105,Computer Systems Analysis.,5,Master's Degree,,,,,,,
+413413.0,Capella University,"Private, for-profit",1109,Computer Systems Networking and Telecommunications.,5,Master's Degree,,,,,,,
+413413.0,Capella University,"Private, for-profit",1110,Computer/Information Technology Administration and Management.,5,Master's Degree,,88228,86963,86390,86399,95226,109410
+413413.0,Capella University,"Private, for-profit",1301,"Education, General.",5,Master's Degree,,,,,56264,,
+413413.0,Capella University,"Private, for-profit",1303,Curriculum and Instruction.,5,Master's Degree,,50037,48286,54895,58852,58386,62148
+413413.0,Capella University,"Private, for-profit",1304,Educational Administration and Supervision.,5,Master's Degree,,56101,53933,57814,64020,61768,68462
+413413.0,Capella University,"Private, for-profit",1305,Educational/Instructional Media Design.,5,Master's Degree,,58101,62012,58912,69545,68771,72004
+413413.0,Capella University,"Private, for-profit",1310,Special Education and Teaching.,5,Master's Degree,,46202,49883,50952,54641,50169,59188
+413413.0,Capella University,"Private, for-profit",1311,Student Counseling and Personnel Services.,5,Master's Degree,,,44327,44827,,48915,57348
+413413.0,Capella University,"Private, for-profit",1312,"Teacher Education and Professional Development, Specific Levels and Methods.",5,Master's Degree,,48170,45539,47384,52562,53003,57778
+413413.0,Capella University,"Private, for-profit",1313,"Teacher Education and Professional Development, Specific Subject Areas.",5,Master's Degree,,67158,55246,58090,93267,64434,73065
+413413.0,Capella University,"Private, for-profit",1314,Teaching English or French as a Second or Foreign Language.,5,Master's Degree,,49521,,,,,
+413413.0,Capella University,"Private, for-profit",1399,"Education, Other.",5,Master's Degree,,53844,53608,54616,62454,59470,64731
+413413.0,Capella University,"Private, for-profit",1907,"Human Development, Family Studies, and Related Services.",5,Master's Degree,,40766,37808,39455,45087,44111,49835
+413413.0,Capella University,"Private, for-profit",3011,Gerontology.,5,Master's Degree,,38281,41937,49105,46436,57321,61369
+413413.0,Capella University,"Private, for-profit",4201,"Psychology, General.",5,Master's Degree,,42277,40652,36114,46920,43515,50381
+413413.0,Capella University,"Private, for-profit",4227,Research and Experimental Psychology.,5,Master's Degree,,40064,38168,37263,45399,44844,48770
+413413.0,Capella University,"Private, for-profit",4228,"Clinical, Counseling and Applied Psychology.",5,Master's Degree,,44137,43000,46494,52074,55556,60200
+413413.0,Capella University,"Private, for-profit",4299,"Psychology, Other.",5,Master's Degree,,33284,41565,47422,42199,52400,54520
+413413.0,Capella University,"Private, for-profit",4301,Criminal Justice and Corrections.,5,Master's Degree,,45048,40017,39586,54384,47214,50525
+413413.0,Capella University,"Private, for-profit",4303,Homeland Security.,5,Master's Degree,,59818,61516,62186,66898,69871,74475
+413413.0,Capella University,"Private, for-profit",4304,Security Science and Technology.,5,Master's Degree,,,,,79297,,
+413413.0,Capella University,"Private, for-profit",4399,"Homeland Security, Law Enforcement, Firefighting and Related Protective Services, Other.",5,Master's Degree,,,,,,,
+413413.0,Capella University,"Private, for-profit",4400,"Human Services, General.",5,Master's Degree,,39279,40295,39595,52083,45552,50799
+413413.0,Capella University,"Private, for-profit",4402,Community Organization and Advocacy.,5,Master's Degree,,,,,50009,,
+413413.0,Capella University,"Private, for-profit",4404,Public Administration.,5,Master's Degree,,52011,45127,50353,59980,58922,67061
+413413.0,Capella University,"Private, for-profit",4499,"Public Administration and Social Service Professions, Other.",5,Master's Degree,,,36668,,,30333,44245
+413413.0,Capella University,"Private, for-profit",4599,"Social Sciences, Other.",5,Master's Degree,,39712,38461,38928,41543,44185,49158
+413413.0,Capella University,"Private, for-profit",5107,Health and Medical Administrative Services.,5,Master's Degree,,64583,56203,60496,83480,63818,70150
+413413.0,Capella University,"Private, for-profit",5115,Mental and Social Health Services and Allied Professions.,5,Master's Degree,,45453,42134,43442,51715,48442,54422
+413413.0,Capella University,"Private, for-profit",5122,Public Health.,5,Master's Degree,,48224,50300,52273,63277,58126,67016
+413413.0,Capella University,"Private, for-profit",5127,Medical Illustration and Informatics.,5,Master's Degree,,73670,,,93397,,
+413413.0,Capella University,"Private, for-profit",5138,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",5,Master's Degree,,90425,88678,92470,106264,101297,115444
+413413.0,Capella University,"Private, for-profit",5202,"Business Administration, Management and Operations.",5,Master's Degree,,67202,61281,65703,80504,75937,79520
+413413.0,Capella University,"Private, for-profit",5203,Accounting and Related Services.,5,Master's Degree,,53555,51106,51736,76373,59863,70121
+413413.0,Capella University,"Private, for-profit",5207,Entrepreneurial and Small Business Operations.,5,Master's Degree,,,34517,,52882,,
+413413.0,Capella University,"Private, for-profit",5208,Finance and Financial Management Services.,5,Master's Degree,,59744,66541,67196,63888,88435,86561
+413413.0,Capella University,"Private, for-profit",5210,Human Resources Management and Services.,5,Master's Degree,,55722,55828,58432,63749,64578,74146
+413413.0,Capella University,"Private, for-profit",5212,Management Information Systems and Services.,5,Master's Degree,,89295,84653,82691,,93085,122626
+413413.0,Capella University,"Private, for-profit",5213,Management Sciences and Quantitative Methods.,5,Master's Degree,,84985,63005,73496,79873,83407,89180
+413413.0,Capella University,"Private, for-profit",5214,Marketing.,5,Master's Degree,,60240,45696,47628,66153,50986,55164
+414595.0,Pacific College of Health and Science,"Private, for-profit",5133,Alternative and Complementary Medicine and Medical Systems.,5,Master's Degree,,25845,23649,21896,32044,26777,29862
+420042.0,University of Phoenix-Hawaii,"Private, for-profit",5202,"Business Administration, Management and Operations.",5,Master's Degree,,57810,56498,57570,67504,66679,74320
+420042.0,University of Phoenix-Hawaii,"Private, for-profit",5210,Human Resources Management and Services.,5,Master's Degree,,46739,45611,47000,55227,53433,59128
+422695.0,Pacific College,"Private, for-profit",5138,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",5,Master's Degree,,,,,,,
+429085.0,American College of Acupuncture and Oriental Med,"Private, for-profit",5107,Health and Medical Administrative Services.,5,Master's Degree,,,,,,,
+429085.0,American College of Acupuncture and Oriental Med,"Private, for-profit",5133,Alternative and Complementary Medicine and Medical Systems.,5,Master's Degree,,,,,,,
+429094.0,AOMA Graduate School of Integrative Medicine,"Private, for-profit",5133,Alternative and Complementary Medicine and Medical Systems.,5,Master's Degree,,22648,20140,16172,37098,22816,36975
+430184.0,Strayer University-Maryland,"Private, for-profit",1104,Information Science/Studies.,5,Master's Degree,,72151,71255,75477,71873,87889,94667
+430184.0,Strayer University-Maryland,"Private, for-profit",1110,Computer/Information Technology Administration and Management.,5,Master's Degree,,86262,,,87435,,
+430184.0,Strayer University-Maryland,"Private, for-profit",1304,Educational Administration and Supervision.,5,Master's Degree,,41124,40896,41354,47858,45764,51489
+430184.0,Strayer University-Maryland,"Private, for-profit",4404,Public Administration.,5,Master's Degree,,44452,43857,48066,49512,55281,60858
+430184.0,Strayer University-Maryland,"Private, for-profit",5107,Health and Medical Administrative Services.,5,Master's Degree,,41635,41087,44776,46948,48777,55397
+430184.0,Strayer University-Maryland,"Private, for-profit",5202,"Business Administration, Management and Operations.",5,Master's Degree,,54989,56911,58199,64745,65830,72657
+430184.0,Strayer University-Maryland,"Private, for-profit",5203,Accounting and Related Services.,5,Master's Degree,,54322,52107,53226,61183,60268,69196
+430184.0,Strayer University-Maryland,"Private, for-profit",5210,Human Resources Management and Services.,5,Master's Degree,,49081,46603,46840,52378,55030,62460
+430704.0,Texas Health and Science University,"Private, for-profit",5133,Alternative and Complementary Medicine and Medical Systems.,5,Master's Degree,,,28236,26571,,26198,23987
+430704.0,Texas Health and Science University,"Private, for-profit",5202,"Business Administration, Management and Operations.",5,Master's Degree,,,,,,,
+432223.0,University of Phoenix-Washington,"Private, for-profit",5202,"Business Administration, Management and Operations.",5,Master's Degree,,57810,56498,57570,67504,66679,74320
+433004.0,American University of Health Sciences,"Private, for-profit",5107,Health and Medical Administrative Services.,5,Master's Degree,,,,,,,
+433420.0,California Aeronautical University,"Private, for-profit",5202,"Business Administration, Management and Operations.",5,Master's Degree,,,,,,,
+434441.0,Florida College of Integrative Medicine,"Private, for-profit",5133,Alternative and Complementary Medicine and Medical Systems.,5,Master's Degree,,19094,16663,,23827,41044,51543
+434715.0,Florida Coastal School of Law,"Private, for-profit",2202,Legal Research and Advanced Professional Studies.,5,Master's Degree,,,,,,,
+436261.0,Southwest Acupuncture College-Boulder,"Private, for-profit",5133,Alternative and Complementary Medicine and Medical Systems.,5,Master's Degree,,30059,,,17380,,
+437097.0,University of Management and Technology,"Private, for-profit",1101,"Computer and Information Sciences, General.",5,Master's Degree,,,,,,,
+437097.0,University of Management and Technology,"Private, for-profit",1107,Computer Science.,5,Master's Degree,,,,,,,
+437097.0,University of Management and Technology,"Private, for-profit",1515,Engineering-Related Fields.,5,Master's Degree,,,,,,,
+437097.0,University of Management and Technology,"Private, for-profit",4301,Criminal Justice and Corrections.,5,Master's Degree,,,,,,,
+437097.0,University of Management and Technology,"Private, for-profit",4303,Homeland Security.,5,Master's Degree,,,,,,,
+437097.0,University of Management and Technology,"Private, for-profit",4404,Public Administration.,5,Master's Degree,,,,,,,
+437097.0,University of Management and Technology,"Private, for-profit",5122,Public Health.,5,Master's Degree,,,,,,,
+437097.0,University of Management and Technology,"Private, for-profit",5202,"Business Administration, Management and Operations.",5,Master's Degree,,,,,,,
+437097.0,University of Management and Technology,"Private, for-profit",5213,Management Sciences and Quantitative Methods.,5,Master's Degree,,,,,,,
+438498.0,Stratford University,"Private, for-profit",1104,Information Science/Studies.,5,Master's Degree,,,,,,,
+438498.0,Stratford University,"Private, for-profit",1109,Computer Systems Networking and Telecommunications.,5,Master's Degree,,,,,,,
+438498.0,Stratford University,"Private, for-profit",1110,Computer/Information Technology Administration and Management.,5,Master's Degree,,,,,,,
+438498.0,Stratford University,"Private, for-profit",1409,Computer Engineering.,5,Master's Degree,,,,,,,
+438498.0,Stratford University,"Private, for-profit",5107,Health and Medical Administrative Services.,5,Master's Degree,,42416,36848,43253,53625,58997,62802
+438498.0,Stratford University,"Private, for-profit",5201,"Business/Commerce, General.",5,Master's Degree,,,,,,,
+438498.0,Stratford University,"Private, for-profit",5202,"Business Administration, Management and Operations.",5,Master's Degree,,44963,,46673,56553,,59543
+438498.0,Stratford University,"Private, for-profit",5203,Accounting and Related Services.,5,Master's Degree,,,,,,,
+438498.0,Stratford University,"Private, for-profit",5207,Entrepreneurial and Small Business Operations.,5,Master's Degree,,,,,,,
+438498.0,Stratford University,"Private, for-profit",5211,International Business.,5,Master's Degree,,,,,,,
+438586.0,American InterContinental University-Atlanta,"Private, for-profit",1101,"Computer and Information Sciences, General.",5,Master's Degree,,61403,54134,51255,65878,63808,72662
+438586.0,American InterContinental University-Atlanta,"Private, for-profit",1305,Educational/Instructional Media Design.,5,Master's Degree,,49284,45149,39532,55027,45792,53455
+438586.0,American InterContinental University-Atlanta,"Private, for-profit",1312,"Teacher Education and Professional Development, Specific Levels and Methods.",5,Master's Degree,,,,,,,
+438586.0,American InterContinental University-Atlanta,"Private, for-profit",5107,Health and Medical Administrative Services.,5,Master's Degree,,44140,41789,45319,44877,55039,50241
+438586.0,American InterContinental University-Atlanta,"Private, for-profit",5202,"Business Administration, Management and Operations.",5,Master's Degree,,47230,45244,44539,50574,52445,60397
+439020.0,Midwest College of Oriental Medicine-Skokie,"Private, for-profit",5133,Alternative and Complementary Medicine and Medical Systems.,5,Master's Degree,,,,,,,
+439394.0,East West College of Natural Medicine,"Private, for-profit",5133,Alternative and Complementary Medicine and Medical Systems.,5,Master's Degree,,,,,,,
+439969.0,Acupuncture and Massage College,"Private, for-profit",5133,Alternative and Complementary Medicine and Medical Systems.,5,Master's Degree,,17631,28960,18541,,32441,38339
+441636.0,American Institute of Alternative Medicine,"Private, for-profit",5133,Alternative and Complementary Medicine and Medical Systems.,5,Master's Degree,,,,,,,
+442161.0,University of Phoenix-Illinois,"Private, for-profit",5202,"Business Administration, Management and Operations.",5,Master's Degree,,57810,56498,57570,67504,66679,74320
+442569.0,University of Arkansas Grantham,"Private, for-profit",1101,"Computer and Information Sciences, General.",5,Master's Degree,,62815,,,55187,,
+442569.0,University of Arkansas Grantham,"Private, for-profit",5107,Health and Medical Administrative Services.,5,Master's Degree,,54447,54974,57726,58972,57284,63320
+442569.0,University of Arkansas Grantham,"Private, for-profit",5132,Bioethics/Medical Ethics.,5,Master's Degree,,,,,,,
+442569.0,University of Arkansas Grantham,"Private, for-profit",5138,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",5,Master's Degree,,97257,94408,92169,,,
+442569.0,University of Arkansas Grantham,"Private, for-profit",5202,"Business Administration, Management and Operations.",5,Master's Degree,,68844,60523,68222,71002,64497,74953
+442569.0,University of Arkansas Grantham,"Private, for-profit",5210,Human Resources Management and Services.,5,Master's Degree,,55615,61516,54397,60577,,
+442569.0,University of Arkansas Grantham,"Private, for-profit",5212,Management Information Systems and Services.,5,Master's Degree,,65123,80022,83106,81392,86103,104983
+442639.0,University of the Potomac-VA Campus,"Private, for-profit",5107,Health and Medical Administrative Services.,5,Master's Degree,,,,,,,
+442639.0,University of the Potomac-VA Campus,"Private, for-profit",5202,"Business Administration, Management and Operations.",5,Master's Degree,,,,,,,
+442639.0,University of the Potomac-VA Campus,"Private, for-profit",5212,Management Information Systems and Services.,5,Master's Degree,,,,,,,
+442842.0,Pacific College of Health and Science,"Private, for-profit",5133,Alternative and Complementary Medicine and Medical Systems.,5,Master's Degree,,25845,23649,21896,32044,26777,29862
+442930.0,University of Antelope Valley,"Private, for-profit",1312,"Teacher Education and Professional Development, Specific Levels and Methods.",5,Master's Degree,,,,,30361,,
+442930.0,University of Antelope Valley,"Private, for-profit",4301,Criminal Justice and Corrections.,5,Master's Degree,,,,,,,
+442930.0,University of Antelope Valley,"Private, for-profit",5202,"Business Administration, Management and Operations.",5,Master's Degree,,,,,36922,,
+443331.0,West Coast University-Los Angeles,"Private, for-profit",5107,Health and Medical Administrative Services.,5,Master's Degree,,54666,63005,70599,59511,,65929
+443331.0,West Coast University-Los Angeles,"Private, for-profit",5122,Public Health.,5,Master's Degree,,,,,60316,,
+443331.0,West Coast University-Los Angeles,"Private, for-profit",5123,Rehabilitation and Therapeutic Professions.,5,Master's Degree,,76871,74845,80041,86227,82306,80787
+443331.0,West Coast University-Los Angeles,"Private, for-profit",5127,Medical Illustration and Informatics.,5,Master's Degree,,,,,112559,,
+443331.0,West Coast University-Los Angeles,"Private, for-profit",5132,Bioethics/Medical Ethics.,5,Master's Degree,,,,,130904,,
+443331.0,West Coast University-Los Angeles,"Private, for-profit",5138,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",5,Master's Degree,,110302,108331,94530,128308,,140067
+443410.0,DigiPen Institute of Technology,"Private, for-profit",1003,Graphic Communications.,5,Master's Degree,,,,,,,
+443410.0,DigiPen Institute of Technology,"Private, for-profit",1102,Computer Programming.,5,Master's Degree,,,,,,,
+443599.0,American College of Healthcare Sciences,"Private, for-profit",5100,"Health Services/Allied Health/Health Sciences, General.",5,Master's Degree,,27720,,,32947,,
+443599.0,American College of Healthcare Sciences,"Private, for-profit",5133,Alternative and Complementary Medicine and Medical Systems.,5,Master's Degree,,,,,,,
+443766.0,Strayer University-Tennessee,"Private, for-profit",1104,Information Science/Studies.,5,Master's Degree,,72151,71255,75477,71873,87889,94667
+443766.0,Strayer University-Tennessee,"Private, for-profit",1110,Computer/Information Technology Administration and Management.,5,Master's Degree,,86262,,,87435,,
+443766.0,Strayer University-Tennessee,"Private, for-profit",1304,Educational Administration and Supervision.,5,Master's Degree,,41124,40896,41354,47858,45764,51489
+443766.0,Strayer University-Tennessee,"Private, for-profit",4404,Public Administration.,5,Master's Degree,,44452,43857,48066,49512,55281,60858
+443766.0,Strayer University-Tennessee,"Private, for-profit",5107,Health and Medical Administrative Services.,5,Master's Degree,,41635,41087,44776,46948,48777,55397
+443766.0,Strayer University-Tennessee,"Private, for-profit",5202,"Business Administration, Management and Operations.",5,Master's Degree,,54989,56911,58199,64745,65830,72657
+443766.0,Strayer University-Tennessee,"Private, for-profit",5203,Accounting and Related Services.,5,Master's Degree,,54322,52107,53226,61183,60268,69196
+443766.0,Strayer University-Tennessee,"Private, for-profit",5210,Human Resources Management and Services.,5,Master's Degree,,49081,46603,46840,52378,55030,62460
+443784.0,Strayer University-Pennsylvania,"Private, for-profit",1104,Information Science/Studies.,5,Master's Degree,,72151,71255,75477,71873,87889,94667
+443784.0,Strayer University-Pennsylvania,"Private, for-profit",1110,Computer/Information Technology Administration and Management.,5,Master's Degree,,86262,,,87435,,
+443784.0,Strayer University-Pennsylvania,"Private, for-profit",1304,Educational Administration and Supervision.,5,Master's Degree,,41124,40896,41354,47858,45764,51489
+443784.0,Strayer University-Pennsylvania,"Private, for-profit",4404,Public Administration.,5,Master's Degree,,44452,43857,48066,49512,55281,60858
+443784.0,Strayer University-Pennsylvania,"Private, for-profit",5107,Health and Medical Administrative Services.,5,Master's Degree,,41635,41087,44776,46948,48777,55397
+443784.0,Strayer University-Pennsylvania,"Private, for-profit",5202,"Business Administration, Management and Operations.",5,Master's Degree,,54989,56911,58199,64745,65830,72657
+443784.0,Strayer University-Pennsylvania,"Private, for-profit",5203,Accounting and Related Services.,5,Master's Degree,,54322,52107,53226,61183,60268,69196
+443784.0,Strayer University-Pennsylvania,"Private, for-profit",5210,Human Resources Management and Services.,5,Master's Degree,,49081,46603,46840,52378,55030,62460
+444699.0,Institute of Clinical Acupuncture & Oriental Med,"Private, for-profit",5133,Alternative and Complementary Medicine and Medical Systems.,5,Master's Degree,,,,,,,
+445027.0,American InterContinental University,"Private, for-profit",1101,"Computer and Information Sciences, General.",5,Master's Degree,,61403,54134,51255,65878,63808,72662
+445027.0,American InterContinental University,"Private, for-profit",1305,Educational/Instructional Media Design.,5,Master's Degree,,49284,45149,39532,55027,45792,53455
+445027.0,American InterContinental University,"Private, for-profit",1312,"Teacher Education and Professional Development, Specific Levels and Methods.",5,Master's Degree,,,,,,,
+445027.0,American InterContinental University,"Private, for-profit",5107,Health and Medical Administrative Services.,5,Master's Degree,,44140,41789,45319,44877,55039,50241
+445027.0,American InterContinental University,"Private, for-profit",5202,"Business Administration, Management and Operations.",5,Master's Degree,,47230,45244,44539,50574,52445,60397
+445027.0,American InterContinental University,"Private, for-profit",5203,Accounting and Related Services.,5,Master's Degree,,,41193,33638,,46151,50363
+445133.0,American InterContinental University-Houston,"Private, for-profit",5107,Health and Medical Administrative Services.,5,Master's Degree,,44140,41789,45319,44877,55039,50241
+445133.0,American InterContinental University-Houston,"Private, for-profit",5202,"Business Administration, Management and Operations.",5,Master's Degree,,47230,45244,44539,50574,52445,60397
+446002.0,American Academy of Health and Wellness,"Private, for-profit",5133,Alternative and Complementary Medicine and Medical Systems.,5,Master's Degree,,,,,,,
+446039.0,Arizona School of Acupuncture and Oriental Medicine,"Private, for-profit",5133,Alternative and Complementary Medicine and Medical Systems.,5,Master's Degree,,,,,,,
+446224.0,Eastern School of Acupuncture and Traditional Medicine,"Private, for-profit",5133,Alternative and Complementary Medicine and Medical Systems.,5,Master's Degree,,,,,,,
+446561.0,Stanbridge University,"Private, for-profit",5123,Rehabilitation and Therapeutic Professions.,5,Master's Degree,,73825,,,79749,77030,86836
+446561.0,Stanbridge University,"Private, for-profit",5138,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",5,Master's Degree,,,,,,,
+447050.0,United States University,"Private, for-profit",1304,Educational Administration and Supervision.,5,Master's Degree,,54220,,,,,
+447050.0,United States University,"Private, for-profit",5107,Health and Medical Administrative Services.,5,Master's Degree,,,,,,,
+447050.0,United States University,"Private, for-profit",5138,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",5,Master's Degree,,116603,102706,113416,120862,123773,143024
+447050.0,United States University,"Private, for-profit",5202,"Business Administration, Management and Operations.",5,Master's Degree,,,,,,,
+447698.0,Phoenix Institute of Herbal Medicine & Acupuncture,"Private, for-profit",5122,Public Health.,5,Master's Degree,,,,,,,
+447698.0,Phoenix Institute of Herbal Medicine & Acupuncture,"Private, for-profit",5133,Alternative and Complementary Medicine and Medical Systems.,5,Master's Degree,,,28960,,,,
+447801.0,University of East-West Medicine,"Private, for-profit",5133,Alternative and Complementary Medicine and Medical Systems.,5,Master's Degree,,,,,,,
+448673.0,Rasmussen University-Illinois,"Private, for-profit",5138,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",5,Master's Degree,,,,,89809,,
+449038.0,Strayer University-Florida,"Private, for-profit",1104,Information Science/Studies.,5,Master's Degree,,72151,71255,75477,71873,87889,94667
+449038.0,Strayer University-Florida,"Private, for-profit",1110,Computer/Information Technology Administration and Management.,5,Master's Degree,,86262,,,87435,,
+449038.0,Strayer University-Florida,"Private, for-profit",1304,Educational Administration and Supervision.,5,Master's Degree,,41124,40896,41354,47858,45764,51489
+449038.0,Strayer University-Florida,"Private, for-profit",4404,Public Administration.,5,Master's Degree,,44452,43857,48066,49512,55281,60858
+449038.0,Strayer University-Florida,"Private, for-profit",5107,Health and Medical Administrative Services.,5,Master's Degree,,41635,41087,44776,46948,48777,55397
+449038.0,Strayer University-Florida,"Private, for-profit",5202,"Business Administration, Management and Operations.",5,Master's Degree,,54989,56911,58199,64745,65830,72657
+449038.0,Strayer University-Florida,"Private, for-profit",5203,Accounting and Related Services.,5,Master's Degree,,54322,52107,53226,61183,60268,69196
+449038.0,Strayer University-Florida,"Private, for-profit",5210,Human Resources Management and Services.,5,Master's Degree,,49081,46603,46840,52378,55030,62460
+449339.0,American Public University System,"Private, for-profit",301,Natural Resources Conservation and Research.,5,Master's Degree,,53209,54528,54832,63243,70514,80040
+449339.0,American Public University System,"Private, for-profit",1110,Computer/Information Technology Administration and Management.,5,Master's Degree,,85935,82685,84578,95439,99485,116618
+449339.0,American Public University System,"Private, for-profit",1301,"Education, General.",5,Master's Degree,,45959,44244,45170,62404,50556,55181
+449339.0,American Public University System,"Private, for-profit",1304,Educational Administration and Supervision.,5,Master's Degree,,,52107,57309,,67936,78831
+449339.0,American Public University System,"Private, for-profit",1311,Student Counseling and Personnel Services.,5,Master's Degree,,44277,45539,45150,,50550,55311
+449339.0,American Public University System,"Private, for-profit",1508,Mechanical Engineering Related Technologies/Technicians.,5,Master's Degree,,77507,81702,86066,91754,93995,109839
+449339.0,American Public University System,"Private, for-profit",2200,Non-Professional General Legal Studies (Undergraduate).,5,Master's Degree,,56358,63005,62734,52022,59402,
+449339.0,American Public University System,"Private, for-profit",2401,"Liberal Arts and Sciences, General Studies and Humanities.",5,Master's Degree,,,,,50920,,
+449339.0,American Public University System,"Private, for-profit",2902,"Intelligence, Command Control and Information Operations.",5,Master's Degree,,,,,,,
+449339.0,American Public University System,"Private, for-profit",3020,International/Global Studies.,5,Master's Degree,,75015,73992,80757,84526,90955,101501
+449339.0,American Public University System,"Private, for-profit",3105,Health and Physical Education/Fitness.,5,Master's Degree,,54121,52464,57098,59601,61535,65913
+449339.0,American Public University System,"Private, for-profit",4201,"Psychology, General.",5,Master's Degree,,41375,45696,44474,47524,52184,52145
+449339.0,American Public University System,"Private, for-profit",4301,Criminal Justice and Corrections.,5,Master's Degree,,61938,63997,59809,74466,71580,78388
+449339.0,American Public University System,"Private, for-profit",4303,Homeland Security.,5,Master's Degree,,66045,71295,73219,77276,80450,91488
+449339.0,American Public University System,"Private, for-profit",4404,Public Administration.,5,Master's Degree,,60442,63749,67674,70882,79706,83170
+449339.0,American Public University System,"Private, for-profit",4405,Public Policy Analysis.,5,Master's Degree,,,,,,,
+449339.0,American Public University System,"Private, for-profit",4509,International Relations and National Security Studies.,5,Master's Degree,,72770,68666,81412,79105,90110,105395
+449339.0,American Public University System,"Private, for-profit",4510,Political Science and Government.,5,Master's Degree,,49162,64493,63492,69309,78460,82713
+449339.0,American Public University System,"Private, for-profit",4901,Air Transportation.,5,Master's Degree,,,,,,,
+449339.0,American Public University System,"Private, for-profit",5107,Health and Medical Administrative Services.,5,Master's Degree,,,,,,,
+449339.0,American Public University System,"Private, for-profit",5122,Public Health.,5,Master's Degree,,72029,58943,59461,77809,64734,77390
+449339.0,American Public University System,"Private, for-profit",5138,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",5,Master's Degree,,,,,105483,,
+449339.0,American Public University System,"Private, for-profit",5202,"Business Administration, Management and Operations.",5,Master's Degree,,67224,66728,68822,74658,79328,89766
+449339.0,American Public University System,"Private, for-profit",5203,Accounting and Related Services.,5,Master's Degree,,59339,58943,61945,62489,67598,86537
+449339.0,American Public University System,"Private, for-profit",5207,Entrepreneurial and Small Business Operations.,5,Master's Degree,,,,,,,
+449339.0,American Public University System,"Private, for-profit",5210,Human Resources Management and Services.,5,Master's Degree,,,,,,,
+449339.0,American Public University System,"Private, for-profit",5213,Management Sciences and Quantitative Methods.,5,Master's Degree,,,,,89079,,
+449339.0,American Public University System,"Private, for-profit",5401,History.,5,Master's Degree,,52904,51638,52414,56621,58867,68620
+449889.0,American College of Education,"Private, for-profit",1302,"Bilingual, Multilingual, and Multicultural Education.",5,Master's Degree,,,,,,,
+449889.0,American College of Education,"Private, for-profit",1303,Curriculum and Instruction.,5,Master's Degree,,,,,,,
+449889.0,American College of Education,"Private, for-profit",1304,Educational Administration and Supervision.,5,Master's Degree,,,,,,,
+449889.0,American College of Education,"Private, for-profit",1305,Educational/Instructional Media Design.,5,Master's Degree,,,,,,,
+449889.0,American College of Education,"Private, for-profit",1312,"Teacher Education and Professional Development, Specific Levels and Methods.",5,Master's Degree,,,,,,,
+449889.0,American College of Education,"Private, for-profit",1313,"Teacher Education and Professional Development, Specific Subject Areas.",5,Master's Degree,,,,,,,
+449898.0,South University-Tampa,"Private, for-profit",1104,Information Science/Studies.,5,Master's Degree,,59218,60839,62890,58864,88546,88529
+449898.0,South University-Tampa,"Private, for-profit",4301,Criminal Justice and Corrections.,5,Master's Degree,,39115,37478,33965,41898,37597,42437
+449898.0,South University-Tampa,"Private, for-profit",5107,Health and Medical Administrative Services.,5,Master's Degree,,43629,45207,44849,47710,54350,63788
+449898.0,South University-Tampa,"Private, for-profit",5109,"Allied Health Diagnostic, Intervention, and Treatment Professions.",5,Master's Degree,,95547,100140,107514,107029,113965,121963
+449898.0,South University-Tampa,"Private, for-profit",5138,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",5,Master's Degree,,90832,91613,98023,102397,106747,118330
+449898.0,South University-Tampa,"Private, for-profit",5202,"Business Administration, Management and Operations.",5,Master's Degree,,46002,42799,48444,59169,55109,60102
+449898.0,South University-Tampa,"Private, for-profit",5210,Human Resources Management and Services.,5,Master's Degree,,,,,59417,,
+450298.0,Strayer University-Delaware,"Private, for-profit",1104,Information Science/Studies.,5,Master's Degree,,72151,71255,75477,71873,87889,94667
+450298.0,Strayer University-Delaware,"Private, for-profit",1110,Computer/Information Technology Administration and Management.,5,Master's Degree,,86262,,,87435,,
+450298.0,Strayer University-Delaware,"Private, for-profit",1304,Educational Administration and Supervision.,5,Master's Degree,,41124,40896,41354,47858,45764,51489
+450298.0,Strayer University-Delaware,"Private, for-profit",4404,Public Administration.,5,Master's Degree,,44452,43857,48066,49512,55281,60858
+450298.0,Strayer University-Delaware,"Private, for-profit",5107,Health and Medical Administrative Services.,5,Master's Degree,,41635,41087,44776,46948,48777,55397
+450298.0,Strayer University-Delaware,"Private, for-profit",5202,"Business Administration, Management and Operations.",5,Master's Degree,,54989,56911,58199,64745,65830,72657
+450298.0,Strayer University-Delaware,"Private, for-profit",5203,Accounting and Related Services.,5,Master's Degree,,54322,52107,53226,61183,60268,69196
+450298.0,Strayer University-Delaware,"Private, for-profit",5210,Human Resources Management and Services.,5,Master's Degree,,49081,46603,46840,52378,55030,62460
+450377.0,Strayer University-Alabama,"Private, for-profit",1104,Information Science/Studies.,5,Master's Degree,,72151,71255,75477,71873,87889,94667
+450377.0,Strayer University-Alabama,"Private, for-profit",1110,Computer/Information Technology Administration and Management.,5,Master's Degree,,86262,,,87435,,
+450377.0,Strayer University-Alabama,"Private, for-profit",1304,Educational Administration and Supervision.,5,Master's Degree,,41124,40896,41354,47858,45764,51489
+450377.0,Strayer University-Alabama,"Private, for-profit",4404,Public Administration.,5,Master's Degree,,44452,43857,48066,49512,55281,60858
+450377.0,Strayer University-Alabama,"Private, for-profit",5107,Health and Medical Administrative Services.,5,Master's Degree,,41635,41087,44776,46948,48777,55397
+450377.0,Strayer University-Alabama,"Private, for-profit",5202,"Business Administration, Management and Operations.",5,Master's Degree,,54989,56911,58199,64745,65830,72657
+450377.0,Strayer University-Alabama,"Private, for-profit",5203,Accounting and Related Services.,5,Master's Degree,,54322,52107,53226,61183,60268,69196
+450377.0,Strayer University-Alabama,"Private, for-profit",5210,Human Resources Management and Services.,5,Master's Degree,,49081,46603,46840,52378,55030,62460
+450571.0,Rasmussen University-Wisconsin,"Private, for-profit",5138,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",5,Master's Degree,,,,,89809,,
+450933.0,Columbia Southern University,"Private, for-profit",1507,Quality Control and Safety Technologies/Technicians.,5,Master's Degree,,79983,68880,78451,87712,86136,94061
+450933.0,Columbia Southern University,"Private, for-profit",4301,Criminal Justice and Corrections.,5,Master's Degree,,58501,56234,51784,61993,59189,62524
+450933.0,Columbia Southern University,"Private, for-profit",4303,Homeland Security.,5,Master's Degree,,75707,71473,73060,85364,78906,83721
+450933.0,Columbia Southern University,"Private, for-profit",4404,Public Administration.,5,Master's Degree,,57300,61516,75520,63643,68234,80102
+450933.0,Columbia Southern University,"Private, for-profit",5122,Public Health.,5,Master's Degree,,43677,,,58278,,
+450933.0,Columbia Southern University,"Private, for-profit",5202,"Business Administration, Management and Operations.",5,Master's Degree,,60526,58990,59493,70859,65804,75617
+450979.0,Trident University International,"Private, for-profit",1101,"Computer and Information Sciences, General.",5,Master's Degree,,81267,68219,77093,82072,,92779
+450979.0,Trident University International,"Private, for-profit",1301,"Education, General.",5,Master's Degree,,50835,52107,52248,52034,58901,84119
+450979.0,Trident University International,"Private, for-profit",4303,Homeland Security.,5,Master's Degree,,61606,,,80862,,
+450979.0,Trident University International,"Private, for-profit",5100,"Health Services/Allied Health/Health Sciences, General.",5,Master's Degree,,63645,,,54981,,93986
+450979.0,Trident University International,"Private, for-profit",5107,Health and Medical Administrative Services.,5,Master's Degree,,62766,59045,44363,83323,59569,65777
+450979.0,Trident University International,"Private, for-profit",5202,"Business Administration, Management and Operations.",5,Master's Degree,,65055,64990,73938,78502,70901,87755
+450979.0,Trident University International,"Private, for-profit",5210,Human Resources Management and Services.,5,Master's Degree,,50155,,,65184,,
+451103.0,Miami Regional University,"Private, for-profit",1304,Educational Administration and Supervision.,5,Master's Degree,,,,,,,
+451103.0,Miami Regional University,"Private, for-profit",5138,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",5,Master's Degree,,71988,,,79261,,
+451103.0,Miami Regional University,"Private, for-profit",5202,"Business Administration, Management and Operations.",5,Master's Degree,,,,,,,
+451510.0,Charleston School of Law,"Private, for-profit",2299,"Legal Professions and Studies, Other.",5,Master's Degree,,,,,,,
+453163.0,Strayer University-North Carolina,"Private, for-profit",1104,Information Science/Studies.,5,Master's Degree,,72151,71255,75477,71873,87889,94667
+453163.0,Strayer University-North Carolina,"Private, for-profit",1110,Computer/Information Technology Administration and Management.,5,Master's Degree,,86262,,,87435,,
+453163.0,Strayer University-North Carolina,"Private, for-profit",1304,Educational Administration and Supervision.,5,Master's Degree,,41124,40896,41354,47858,45764,51489
+453163.0,Strayer University-North Carolina,"Private, for-profit",4404,Public Administration.,5,Master's Degree,,44452,43857,48066,49512,55281,60858
+453163.0,Strayer University-North Carolina,"Private, for-profit",5107,Health and Medical Administrative Services.,5,Master's Degree,,41635,41087,44776,46948,48777,55397
+453163.0,Strayer University-North Carolina,"Private, for-profit",5202,"Business Administration, Management and Operations.",5,Master's Degree,,54989,56911,58199,64745,65830,72657
+453163.0,Strayer University-North Carolina,"Private, for-profit",5203,Accounting and Related Services.,5,Master's Degree,,54322,52107,53226,61183,60268,69196
+453163.0,Strayer University-North Carolina,"Private, for-profit",5210,Human Resources Management and Services.,5,Master's Degree,,49081,46603,46840,52378,55030,62460
+453215.0,Strayer University-New Jersey,"Private, for-profit",1104,Information Science/Studies.,5,Master's Degree,,72151,71255,75477,71873,87889,94667
+453215.0,Strayer University-New Jersey,"Private, for-profit",1110,Computer/Information Technology Administration and Management.,5,Master's Degree,,86262,,,87435,,
+453215.0,Strayer University-New Jersey,"Private, for-profit",1304,Educational Administration and Supervision.,5,Master's Degree,,41124,40896,41354,47858,45764,51489
+453215.0,Strayer University-New Jersey,"Private, for-profit",4404,Public Administration.,5,Master's Degree,,44452,43857,48066,49512,55281,60858
+453215.0,Strayer University-New Jersey,"Private, for-profit",5107,Health and Medical Administrative Services.,5,Master's Degree,,41635,41087,44776,46948,48777,55397
+453215.0,Strayer University-New Jersey,"Private, for-profit",5202,"Business Administration, Management and Operations.",5,Master's Degree,,54989,56911,58199,64745,65830,72657
+453215.0,Strayer University-New Jersey,"Private, for-profit",5203,Accounting and Related Services.,5,Master's Degree,,54322,52107,53226,61183,60268,69196
+453215.0,Strayer University-New Jersey,"Private, for-profit",5210,Human Resources Management and Services.,5,Master's Degree,,49081,46603,46840,52378,55030,62460
+454227.0,Chamberlain University-Illinois,"Private, for-profit",5122,Public Health.,5,Master's Degree,,,,,68487,,
+454227.0,Chamberlain University-Illinois,"Private, for-profit",5138,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",5,Master's Degree,,93445,90893,97074,104394,104363,117047
+454227.0,Chamberlain University-Illinois,"Private, for-profit",5202,"Business Administration, Management and Operations.",5,Master's Degree,,,,,,,
+454689.0,Taft University System,"Private, for-profit",1110,Computer/Information Technology Administration and Management.,5,Master's Degree,,,,,,,
+454689.0,Taft University System,"Private, for-profit",1301,"Education, General.",5,Master's Degree,,,,,,,
+454689.0,Taft University System,"Private, for-profit",1304,Educational Administration and Supervision.,5,Master's Degree,,,,,,,
+454689.0,Taft University System,"Private, for-profit",2202,Legal Research and Advanced Professional Studies.,5,Master's Degree,,,,,,,
+454689.0,Taft University System,"Private, for-profit",5202,"Business Administration, Management and Operations.",5,Master's Degree,,,,,,,
+454689.0,Taft University System,"Private, for-profit",5216,Taxation.,5,Master's Degree,,,,,,,
+454829.0,Aspen University,"Private, for-profit",1101,"Computer and Information Sciences, General.",5,Master's Degree,,,,,,,
+454829.0,Aspen University,"Private, for-profit",1102,Computer Programming.,5,Master's Degree,,,,,,,
+454829.0,Aspen University,"Private, for-profit",1110,Computer/Information Technology Administration and Management.,5,Master's Degree,,,,,,,
+454829.0,Aspen University,"Private, for-profit",1304,Educational Administration and Supervision.,5,Master's Degree,,,,,,,
+454829.0,Aspen University,"Private, for-profit",4228,"Clinical, Counseling and Applied Psychology.",5,Master's Degree,,,,,52040,,
+454829.0,Aspen University,"Private, for-profit",4301,Criminal Justice and Corrections.,5,Master's Degree,,,,,,,
+454829.0,Aspen University,"Private, for-profit",5120,"Pharmacy, Pharmaceutical Sciences, and Administration.",5,Master's Degree,,,,,,,
+454829.0,Aspen University,"Private, for-profit",5138,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",5,Master's Degree,,81678,,,97705,,
+454829.0,Aspen University,"Private, for-profit",5202,"Business Administration, Management and Operations.",5,Master's Degree,,,,,89164,,
+454829.0,Aspen University,"Private, for-profit",5207,Entrepreneurial and Small Business Operations.,5,Master's Degree,,,,,,,
+454829.0,Aspen University,"Private, for-profit",5208,Finance and Financial Management Services.,5,Master's Degree,,,,,,,
+454829.0,Aspen University,"Private, for-profit",5212,Management Information Systems and Services.,5,Master's Degree,,,,,,,
+454856.0,Denver College of Nursing,"Private, for-profit",5138,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",5,Master's Degree,,,,,94554,,
+455178.0,Daoist Traditions College of Chinese Medical Arts,"Private, for-profit",5133,Alternative and Complementary Medicine and Medical Systems.,5,Master's Degree,,,,,15778,,
+456621.0,Strayer University-West Virginia,"Private, for-profit",1104,Information Science/Studies.,5,Master's Degree,,72151,71255,75477,71873,87889,94667
+456621.0,Strayer University-West Virginia,"Private, for-profit",1110,Computer/Information Technology Administration and Management.,5,Master's Degree,,86262,,,87435,,
+456621.0,Strayer University-West Virginia,"Private, for-profit",1304,Educational Administration and Supervision.,5,Master's Degree,,41124,40896,41354,47858,45764,51489
+456621.0,Strayer University-West Virginia,"Private, for-profit",4404,Public Administration.,5,Master's Degree,,44452,43857,48066,49512,55281,60858
+456621.0,Strayer University-West Virginia,"Private, for-profit",5107,Health and Medical Administrative Services.,5,Master's Degree,,41635,41087,44776,46948,48777,55397
+456621.0,Strayer University-West Virginia,"Private, for-profit",5202,"Business Administration, Management and Operations.",5,Master's Degree,,54989,56911,58199,64745,65830,72657
+456621.0,Strayer University-West Virginia,"Private, for-profit",5203,Accounting and Related Services.,5,Master's Degree,,54322,52107,53226,61183,60268,69196
+456621.0,Strayer University-West Virginia,"Private, for-profit",5210,Human Resources Management and Services.,5,Master's Degree,,49081,46603,46840,52378,55030,62460
+457299.0,Angeles College,"Private, for-profit",5202,"Business Administration, Management and Operations.",5,Master's Degree,,,,,,,
+457688.0,American Business and Technology University,"Private, for-profit",5202,"Business Administration, Management and Operations.",5,Master's Degree,,,,,,,
+458210.0,West Coast University-Orange County,"Private, for-profit",5107,Health and Medical Administrative Services.,5,Master's Degree,,54666,63005,70599,59511,,65929
+458210.0,West Coast University-Orange County,"Private, for-profit",5122,Public Health.,5,Master's Degree,,,,,60316,,
+458210.0,West Coast University-Orange County,"Private, for-profit",5138,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",5,Master's Degree,,110302,108331,94530,128308,,140067
+458885.0,Strayer University-Arkansas,"Private, for-profit",1104,Information Science/Studies.,5,Master's Degree,,72151,71255,75477,71873,87889,94667
+458885.0,Strayer University-Arkansas,"Private, for-profit",1110,Computer/Information Technology Administration and Management.,5,Master's Degree,,86262,,,87435,,
+458885.0,Strayer University-Arkansas,"Private, for-profit",1304,Educational Administration and Supervision.,5,Master's Degree,,41124,40896,41354,47858,45764,51489
+458885.0,Strayer University-Arkansas,"Private, for-profit",4404,Public Administration.,5,Master's Degree,,44452,43857,48066,49512,55281,60858
+458885.0,Strayer University-Arkansas,"Private, for-profit",5107,Health and Medical Administrative Services.,5,Master's Degree,,41635,41087,44776,46948,48777,55397
+458885.0,Strayer University-Arkansas,"Private, for-profit",5202,"Business Administration, Management and Operations.",5,Master's Degree,,54989,56911,58199,64745,65830,72657
+458885.0,Strayer University-Arkansas,"Private, for-profit",5203,Accounting and Related Services.,5,Master's Degree,,54322,52107,53226,61183,60268,69196
+458885.0,Strayer University-Arkansas,"Private, for-profit",5210,Human Resources Management and Services.,5,Master's Degree,,49081,46603,46840,52378,55030,62460
+458919.0,Strayer University-Georgia,"Private, for-profit",1104,Information Science/Studies.,5,Master's Degree,,72151,71255,75477,71873,87889,94667
+458919.0,Strayer University-Georgia,"Private, for-profit",1110,Computer/Information Technology Administration and Management.,5,Master's Degree,,86262,,,87435,,
+458919.0,Strayer University-Georgia,"Private, for-profit",1304,Educational Administration and Supervision.,5,Master's Degree,,41124,40896,41354,47858,45764,51489
+458919.0,Strayer University-Georgia,"Private, for-profit",4404,Public Administration.,5,Master's Degree,,44452,43857,48066,49512,55281,60858
+458919.0,Strayer University-Georgia,"Private, for-profit",5107,Health and Medical Administrative Services.,5,Master's Degree,,41635,41087,44776,46948,48777,55397
+458919.0,Strayer University-Georgia,"Private, for-profit",5202,"Business Administration, Management and Operations.",5,Master's Degree,,54989,56911,58199,64745,65830,72657
+458919.0,Strayer University-Georgia,"Private, for-profit",5203,Accounting and Related Services.,5,Master's Degree,,54322,52107,53226,61183,60268,69196
+458919.0,Strayer University-Georgia,"Private, for-profit",5210,Human Resources Management and Services.,5,Master's Degree,,49081,46603,46840,52378,55030,62460
+458955.0,Strayer University-Mississippi,"Private, for-profit",1104,Information Science/Studies.,5,Master's Degree,,72151,71255,75477,71873,87889,94667
+458955.0,Strayer University-Mississippi,"Private, for-profit",1110,Computer/Information Technology Administration and Management.,5,Master's Degree,,86262,,,87435,,
+458955.0,Strayer University-Mississippi,"Private, for-profit",1304,Educational Administration and Supervision.,5,Master's Degree,,41124,40896,41354,47858,45764,51489
+458955.0,Strayer University-Mississippi,"Private, for-profit",4404,Public Administration.,5,Master's Degree,,44452,43857,48066,49512,55281,60858
+458955.0,Strayer University-Mississippi,"Private, for-profit",5107,Health and Medical Administrative Services.,5,Master's Degree,,41635,41087,44776,46948,48777,55397
+458955.0,Strayer University-Mississippi,"Private, for-profit",5202,"Business Administration, Management and Operations.",5,Master's Degree,,54989,56911,58199,64745,65830,72657
+458955.0,Strayer University-Mississippi,"Private, for-profit",5203,Accounting and Related Services.,5,Master's Degree,,54322,52107,53226,61183,60268,69196
+458955.0,Strayer University-Mississippi,"Private, for-profit",5210,Human Resources Management and Services.,5,Master's Degree,,49081,46603,46840,52378,55030,62460
+458964.0,Strayer University-South Carolina,"Private, for-profit",1104,Information Science/Studies.,5,Master's Degree,,72151,71255,75477,71873,87889,94667
+458964.0,Strayer University-South Carolina,"Private, for-profit",1110,Computer/Information Technology Administration and Management.,5,Master's Degree,,86262,,,87435,,
+458964.0,Strayer University-South Carolina,"Private, for-profit",1304,Educational Administration and Supervision.,5,Master's Degree,,41124,40896,41354,47858,45764,51489
+458964.0,Strayer University-South Carolina,"Private, for-profit",4404,Public Administration.,5,Master's Degree,,44452,43857,48066,49512,55281,60858
+458964.0,Strayer University-South Carolina,"Private, for-profit",5107,Health and Medical Administrative Services.,5,Master's Degree,,41635,41087,44776,46948,48777,55397
+458964.0,Strayer University-South Carolina,"Private, for-profit",5202,"Business Administration, Management and Operations.",5,Master's Degree,,54989,56911,58199,64745,65830,72657
+458964.0,Strayer University-South Carolina,"Private, for-profit",5203,Accounting and Related Services.,5,Master's Degree,,54322,52107,53226,61183,60268,69196
+458964.0,Strayer University-South Carolina,"Private, for-profit",5210,Human Resources Management and Services.,5,Master's Degree,,49081,46603,46840,52378,55030,62460
+458973.0,Strayer University-Texas,"Private, for-profit",1104,Information Science/Studies.,5,Master's Degree,,72151,71255,75477,71873,87889,94667
+458973.0,Strayer University-Texas,"Private, for-profit",1110,Computer/Information Technology Administration and Management.,5,Master's Degree,,86262,,,87435,,
+458973.0,Strayer University-Texas,"Private, for-profit",1304,Educational Administration and Supervision.,5,Master's Degree,,41124,40896,41354,47858,45764,51489
+458973.0,Strayer University-Texas,"Private, for-profit",4404,Public Administration.,5,Master's Degree,,44452,43857,48066,49512,55281,60858
+458973.0,Strayer University-Texas,"Private, for-profit",5107,Health and Medical Administrative Services.,5,Master's Degree,,41635,41087,44776,46948,48777,55397
+458973.0,Strayer University-Texas,"Private, for-profit",5202,"Business Administration, Management and Operations.",5,Master's Degree,,54989,56911,58199,64745,65830,72657
+458973.0,Strayer University-Texas,"Private, for-profit",5203,Accounting and Related Services.,5,Master's Degree,,54322,52107,53226,61183,60268,69196
+458973.0,Strayer University-Texas,"Private, for-profit",5210,Human Resources Management and Services.,5,Master's Degree,,49081,46603,46840,52378,55030,62460
+459259.0,South University-Richmond,"Private, for-profit",1104,Information Science/Studies.,5,Master's Degree,,59218,60839,62890,58864,88546,88529
+459259.0,South University-Richmond,"Private, for-profit",4301,Criminal Justice and Corrections.,5,Master's Degree,,39115,37478,33965,41898,37597,42437
+459259.0,South University-Richmond,"Private, for-profit",5109,"Allied Health Diagnostic, Intervention, and Treatment Professions.",5,Master's Degree,,95547,100140,107514,107029,113965,121963
+459259.0,South University-Richmond,"Private, for-profit",5115,Mental and Social Health Services and Allied Professions.,5,Master's Degree,,38224,36598,39039,41585,43411,47527
+459259.0,South University-Richmond,"Private, for-profit",5138,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",5,Master's Degree,,90832,91613,98023,102397,106747,118330
+459259.0,South University-Richmond,"Private, for-profit",5202,"Business Administration, Management and Operations.",5,Master's Degree,,46002,42799,48444,59169,55109,60102
+459268.0,South University-Virginia Beach,"Private, for-profit",1104,Information Science/Studies.,5,Master's Degree,,59218,60839,62890,58864,88546,88529
+459268.0,South University-Virginia Beach,"Private, for-profit",4301,Criminal Justice and Corrections.,5,Master's Degree,,39115,37478,33965,41898,37597,42437
+459268.0,South University-Virginia Beach,"Private, for-profit",4404,Public Administration.,5,Master's Degree,,41016,41007,43418,45666,48623,46093
+459268.0,South University-Virginia Beach,"Private, for-profit",5107,Health and Medical Administrative Services.,5,Master's Degree,,43629,45207,44849,47710,54350,63788
+459268.0,South University-Virginia Beach,"Private, for-profit",5115,Mental and Social Health Services and Allied Professions.,5,Master's Degree,,38224,36598,39039,41585,43411,47527
+459268.0,South University-Virginia Beach,"Private, for-profit",5138,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",5,Master's Degree,,90832,91613,98023,102397,106747,118330
+459268.0,South University-Virginia Beach,"Private, for-profit",5202,"Business Administration, Management and Operations.",5,Master's Degree,,46002,42799,48444,59169,55109,60102
+459994.0,Strayer University-Global Region,"Private, for-profit",1104,Information Science/Studies.,5,Master's Degree,,72151,71255,75477,71873,87889,94667
+459994.0,Strayer University-Global Region,"Private, for-profit",1110,Computer/Information Technology Administration and Management.,5,Master's Degree,,86262,,,87435,,
+459994.0,Strayer University-Global Region,"Private, for-profit",1304,Educational Administration and Supervision.,5,Master's Degree,,41124,40896,41354,47858,45764,51489
+459994.0,Strayer University-Global Region,"Private, for-profit",4404,Public Administration.,5,Master's Degree,,44452,43857,48066,49512,55281,60858
+459994.0,Strayer University-Global Region,"Private, for-profit",5107,Health and Medical Administrative Services.,5,Master's Degree,,41635,41087,44776,46948,48777,55397
+459994.0,Strayer University-Global Region,"Private, for-profit",5202,"Business Administration, Management and Operations.",5,Master's Degree,,54989,56911,58199,64745,65830,72657
+459994.0,Strayer University-Global Region,"Private, for-profit",5203,Accounting and Related Services.,5,Master's Degree,,54322,52107,53226,61183,60268,69196
+459994.0,Strayer University-Global Region,"Private, for-profit",5210,Human Resources Management and Services.,5,Master's Degree,,49081,46603,46840,52378,55030,62460
+460738.0,American Sentinel College of Nursing and Health Sciences,"Private, for-profit",1101,"Computer and Information Sciences, General.",5,Master's Degree,,,,,,,
+460738.0,American Sentinel College of Nursing and Health Sciences,"Private, for-profit",1107,Computer Science.,5,Master's Degree,,,,,,,
+460738.0,American Sentinel College of Nursing and Health Sciences,"Private, for-profit",4507,Geography and Cartography.,5,Master's Degree,,,,,,,
+460738.0,American Sentinel College of Nursing and Health Sciences,"Private, for-profit",5107,Health and Medical Administrative Services.,5,Master's Degree,,,79081,,,108245,111572
+460738.0,American Sentinel College of Nursing and Health Sciences,"Private, for-profit",5132,Bioethics/Medical Ethics.,5,Master's Degree,,,95295,,82662,97726,104195
+460738.0,American Sentinel College of Nursing and Health Sciences,"Private, for-profit",5138,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",5,Master's Degree,,93674,91652,92931,103061,100744,111471
+460738.0,American Sentinel College of Nursing and Health Sciences,"Private, for-profit",5202,"Business Administration, Management and Operations.",5,Master's Degree,,,,,,,
+460738.0,American Sentinel College of Nursing and Health Sciences,"Private, for-profit",5213,Management Sciences and Quantitative Methods.,5,Master's Degree,,,,,,,
+461023.0,National Paralegal College,"Private, for-profit",2202,Legal Research and Advanced Professional Studies.,5,Master's Degree,,38939,,,42727,,
+461023.0,National Paralegal College,"Private, for-profit",2299,"Legal Professions and Studies, Other.",5,Master's Degree,,,,,,,
+461148.0,New York Film Academy,"Private, for-profit",5004,Design and Applied Arts.,5,Master's Degree,,,,,,,
+461148.0,New York Film Academy,"Private, for-profit",5005,Drama/Theatre Arts and Stagecraft.,5,Master's Degree,,17961,18498,24760,14900,26621,36990
+461148.0,New York Film Academy,"Private, for-profit",5006,Film/Video and Photographic Arts.,5,Master's Degree,,19753,23649,15191,16854,,36855
+461148.0,New York Film Academy,"Private, for-profit",5007,Fine and Studio Arts.,5,Master's Degree,,,,,,,
+461281.0,Jose Maria Vargas University,"Private, for-profit",1312,"Teacher Education and Professional Development, Specific Levels and Methods.",5,Master's Degree,,,,,,,
+461281.0,Jose Maria Vargas University,"Private, for-profit",5208,Finance and Financial Management Services.,5,Master's Degree,,,,,,,
+461281.0,Jose Maria Vargas University,"Private, for-profit",5219,"Specialized Sales, Merchandising and  Marketing Operations.",5,Master's Degree,,,,,,,
+461883.0,Millennia Atlantic University,"Private, for-profit",5107,Health and Medical Administrative Services.,5,Master's Degree,,,,,,,
+461883.0,Millennia Atlantic University,"Private, for-profit",5202,"Business Administration, Management and Operations.",5,Master's Degree,,,,,,,
+461883.0,Millennia Atlantic University,"Private, for-profit",5203,Accounting and Related Services.,5,Master's Degree,,,,,,,
+461883.0,Millennia Atlantic University,"Private, for-profit",5210,Human Resources Management and Services.,5,Master's Degree,,,,,,,
+475121.0,South University-Savannah Online,"Private, for-profit",1104,Information Science/Studies.,5,Master's Degree,,59218,60839,62890,58864,88546,88529
+475121.0,South University-Savannah Online,"Private, for-profit",4301,Criminal Justice and Corrections.,5,Master's Degree,,39115,37478,33965,41898,37597,42437
+475121.0,South University-Savannah Online,"Private, for-profit",4404,Public Administration.,5,Master's Degree,,41016,41007,43418,45666,48623,46093
+475121.0,South University-Savannah Online,"Private, for-profit",5107,Health and Medical Administrative Services.,5,Master's Degree,,43629,45207,44849,47710,54350,63788
+475121.0,South University-Savannah Online,"Private, for-profit",5122,Public Health.,5,Master's Degree,,,,,47587,,
+475121.0,South University-Savannah Online,"Private, for-profit",5138,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",5,Master's Degree,,90832,91613,98023,102397,106747,118330
+475121.0,South University-Savannah Online,"Private, for-profit",5202,"Business Administration, Management and Operations.",5,Master's Degree,,46002,42799,48444,59169,55109,60102
+475121.0,South University-Savannah Online,"Private, for-profit",5203,Accounting and Related Services.,5,Master's Degree,,45471,,,,,
+475121.0,South University-Savannah Online,"Private, for-profit",5210,Human Resources Management and Services.,5,Master's Degree,,,,,59417,,
+475495.0,Rocky Mountain University of Health Professions,"Private, for-profit",5102,Communication Disorders Sciences and Services.,5,Master's Degree,,,,,65765,,
+475495.0,Rocky Mountain University of Health Professions,"Private, for-profit",5109,"Allied Health Diagnostic, Intervention, and Treatment Professions.",5,Master's Degree,,100023,,,113849,,
+475510.0,Christie's Education,"Private, for-profit",5007,Fine and Studio Arts.,5,Master's Degree,,,42682,,,52781,
+475510.0,Christie's Education,"Private, for-profit",5010,"Arts, Entertainment,and Media Management.",5,Master's Degree,,,,,,,
+477039.0,West Coast University-Dallas,"Private, for-profit",5107,Health and Medical Administrative Services.,5,Master's Degree,,54666,,70599,59511,,65929
+477039.0,West Coast University-Dallas,"Private, for-profit",5122,Public Health.,5,Master's Degree,,,,,60316,,
+477039.0,West Coast University-Dallas,"Private, for-profit",5138,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",5,Master's Degree,,110302,108331,94530,128308,,140067
+480073.0,South University-Austin,"Private, for-profit",1104,Information Science/Studies.,5,Master's Degree,,59218,60839,62890,58864,88546,88529
+480073.0,South University-Austin,"Private, for-profit",4301,Criminal Justice and Corrections.,5,Master's Degree,,39115,37478,33965,41898,37597,42437
+480073.0,South University-Austin,"Private, for-profit",5115,Mental and Social Health Services and Allied Professions.,5,Master's Degree,,38224,36598,39039,41585,43411,47527
+480073.0,South University-Austin,"Private, for-profit",5138,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",5,Master's Degree,,90832,91613,98023,102397,106747,118330
+480073.0,South University-Austin,"Private, for-profit",5202,"Business Administration, Management and Operations.",5,Master's Degree,,46002,42799,48444,59169,55109,60102
+480073.0,South University-Austin,"Private, for-profit",5210,Human Resources Management and Services.,5,Master's Degree,,,,,59417,,
+480657.0,Rasmussen University-Kansas,"Private, for-profit",5138,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",5,Master's Degree,,,,,89809,,
+480781.0,California Miramar University,"Private, for-profit",1101,"Computer and Information Sciences, General.",5,Master's Degree,,,,,,,
+480781.0,California Miramar University,"Private, for-profit",5202,"Business Administration, Management and Operations.",5,Master's Degree,,,,,,,
+480790.0,Rocky Vista University,"Private, for-profit",2601,"Biology, General.",5,Master's Degree,,,,,,,
+480790.0,Rocky Vista University,"Private, for-profit",5109,"Allied Health Diagnostic, Intervention, and Treatment Professions.",5,Master's Degree,,,,,,,
+481094.0,Sotheby's Institute of Art-NY,"Private, for-profit",5007,Fine and Studio Arts.,5,Master's Degree,,41193,48041,55977,50907,57040,55733
+481720.0,South University-High Point,"Private, for-profit",5115,Mental and Social Health Services and Allied Professions.,5,Master's Degree,,38224,36598,39039,41585,43411,47527
+481720.0,South University-High Point,"Private, for-profit",5138,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",5,Master's Degree,,90832,91613,98023,102397,106747,118330
+482413.0,DeVry College of New York,"Private, for-profit",5202,"Business Administration, Management and Operations.",5,Master's Degree,,61144,64686,66091,71067,77117,86831
+482413.0,DeVry College of New York,"Private, for-profit",5203,Accounting and Related Services.,5,Master's Degree,,59102,58714,62826,68141,72954,81554
+482413.0,DeVry College of New York,"Private, for-profit",5210,Human Resources Management and Services.,5,Master's Degree,,52417,51563,53726,58380,59771,69768
+482413.0,DeVry College of New York,"Private, for-profit",5212,Management Information Systems and Services.,5,Master's Degree,,65756,66885,73133,77162,84349,91674
+482422.0,DeVry University-Arizona,"Private, for-profit",1109,Computer Systems Networking and Telecommunications.,5,Master's Degree,,68726,66592,72885,74141,78296,94974
+482422.0,DeVry University-Arizona,"Private, for-profit",5202,"Business Administration, Management and Operations.",5,Master's Degree,,61144,64686,66091,71067,77117,86831
+482422.0,DeVry University-Arizona,"Private, for-profit",5203,Accounting and Related Services.,5,Master's Degree,,59102,58714,62826,68141,72954,81554
+482422.0,DeVry University-Arizona,"Private, for-profit",5210,Human Resources Management and Services.,5,Master's Degree,,52417,51563,53726,58380,59771,69768
+482422.0,DeVry University-Arizona,"Private, for-profit",5212,Management Information Systems and Services.,5,Master's Degree,,65756,66885,73133,77162,84349,91674
+482431.0,DeVry University-California,"Private, for-profit",1109,Computer Systems Networking and Telecommunications.,5,Master's Degree,,68726,66592,72885,74141,78296,94974
+482431.0,DeVry University-California,"Private, for-profit",1304,Educational Administration and Supervision.,5,Master's Degree,,46242,47260,50161,61426,53483,61226
+482431.0,DeVry University-California,"Private, for-profit",5202,"Business Administration, Management and Operations.",5,Master's Degree,,61144,64686,66091,71067,77117,86831
+482431.0,DeVry University-California,"Private, for-profit",5203,Accounting and Related Services.,5,Master's Degree,,59102,58714,62826,68141,72954,81554
+482431.0,DeVry University-California,"Private, for-profit",5210,Human Resources Management and Services.,5,Master's Degree,,52417,51563,53726,58380,59771,69768
+482431.0,DeVry University-California,"Private, for-profit",5212,Management Information Systems and Services.,5,Master's Degree,,65756,66885,73133,77162,84349,91674
+482440.0,DeVry University-Colorado,"Private, for-profit",1109,Computer Systems Networking and Telecommunications.,5,Master's Degree,,68726,66592,72885,74141,78296,94974
+482440.0,DeVry University-Colorado,"Private, for-profit",1304,Educational Administration and Supervision.,5,Master's Degree,,46242,47260,50161,61426,53483,61226
+482440.0,DeVry University-Colorado,"Private, for-profit",5202,"Business Administration, Management and Operations.",5,Master's Degree,,61144,64686,66091,71067,77117,86831
+482440.0,DeVry University-Colorado,"Private, for-profit",5203,Accounting and Related Services.,5,Master's Degree,,59102,58714,62826,68141,72954,81554
+482440.0,DeVry University-Colorado,"Private, for-profit",5210,Human Resources Management and Services.,5,Master's Degree,,52417,51563,53726,58380,59771,69768
+482440.0,DeVry University-Colorado,"Private, for-profit",5212,Management Information Systems and Services.,5,Master's Degree,,65756,66885,73133,77162,84349,91674
+482459.0,DeVry University-Florida,"Private, for-profit",1109,Computer Systems Networking and Telecommunications.,5,Master's Degree,,68726,66592,72885,74141,78296,94974
+482459.0,DeVry University-Florida,"Private, for-profit",1304,Educational Administration and Supervision.,5,Master's Degree,,46242,47260,50161,61426,53483,61226
+482459.0,DeVry University-Florida,"Private, for-profit",5202,"Business Administration, Management and Operations.",5,Master's Degree,,61144,64686,66091,71067,77117,86831
+482459.0,DeVry University-Florida,"Private, for-profit",5203,Accounting and Related Services.,5,Master's Degree,,59102,58714,62826,68141,72954,81554
+482459.0,DeVry University-Florida,"Private, for-profit",5210,Human Resources Management and Services.,5,Master's Degree,,52417,51563,53726,58380,59771,69768
+482459.0,DeVry University-Florida,"Private, for-profit",5212,Management Information Systems and Services.,5,Master's Degree,,65756,66885,73133,77162,84349,91674
+482468.0,DeVry University-Georgia,"Private, for-profit",1109,Computer Systems Networking and Telecommunications.,5,Master's Degree,,68726,66592,72885,74141,78296,94974
+482468.0,DeVry University-Georgia,"Private, for-profit",5202,"Business Administration, Management and Operations.",5,Master's Degree,,61144,64686,66091,71067,77117,86831
+482468.0,DeVry University-Georgia,"Private, for-profit",5203,Accounting and Related Services.,5,Master's Degree,,59102,58714,62826,68141,72954,81554
+482468.0,DeVry University-Georgia,"Private, for-profit",5210,Human Resources Management and Services.,5,Master's Degree,,52417,51563,53726,58380,59771,69768
+482468.0,DeVry University-Georgia,"Private, for-profit",5212,Management Information Systems and Services.,5,Master's Degree,,65756,66885,73133,77162,84349,91674
+482477.0,DeVry University-Illinois,"Private, for-profit",1109,Computer Systems Networking and Telecommunications.,5,Master's Degree,,68726,66592,72885,74141,78296,94974
+482477.0,DeVry University-Illinois,"Private, for-profit",1304,Educational Administration and Supervision.,5,Master's Degree,,46242,47260,50161,61426,53483,61226
+482477.0,DeVry University-Illinois,"Private, for-profit",1305,Educational/Instructional Media Design.,5,Master's Degree,,48027,45696,43485,,49124,62782
+482477.0,DeVry University-Illinois,"Private, for-profit",1410,"Electrical, Electronics and Communications Engineering.",5,Master's Degree,,,,,,,
+482477.0,DeVry University-Illinois,"Private, for-profit",5202,"Business Administration, Management and Operations.",5,Master's Degree,,61144,64686,66091,71067,77117,86831
+482477.0,DeVry University-Illinois,"Private, for-profit",5203,Accounting and Related Services.,5,Master's Degree,,59102,58714,62826,68141,72954,81554
+482477.0,DeVry University-Illinois,"Private, for-profit",5210,Human Resources Management and Services.,5,Master's Degree,,52417,51563,53726,58380,59771,69768
+482477.0,DeVry University-Illinois,"Private, for-profit",5212,Management Information Systems and Services.,5,Master's Degree,,65756,66885,73133,77162,84349,91674
+482486.0,DeVry University-Indiana,"Private, for-profit",1109,Computer Systems Networking and Telecommunications.,5,Master's Degree,,68726,66592,72885,74141,78296,94974
+482486.0,DeVry University-Indiana,"Private, for-profit",5202,"Business Administration, Management and Operations.",5,Master's Degree,,61144,64686,66091,71067,77117,86831
+482486.0,DeVry University-Indiana,"Private, for-profit",5203,Accounting and Related Services.,5,Master's Degree,,59102,58714,62826,68141,72954,81554
+482486.0,DeVry University-Indiana,"Private, for-profit",5210,Human Resources Management and Services.,5,Master's Degree,,52417,51563,53726,58380,59771,69768
+482486.0,DeVry University-Indiana,"Private, for-profit",5212,Management Information Systems and Services.,5,Master's Degree,,65756,66885,73133,77162,84349,91674
+482538.0,DeVry University-Missouri,"Private, for-profit",1109,Computer Systems Networking and Telecommunications.,5,Master's Degree,,68726,66592,72885,74141,78296,94974
+482538.0,DeVry University-Missouri,"Private, for-profit",5202,"Business Administration, Management and Operations.",5,Master's Degree,,61144,64686,66091,71067,77117,86831
+482538.0,DeVry University-Missouri,"Private, for-profit",5203,Accounting and Related Services.,5,Master's Degree,,59102,58714,62826,68141,72954,81554
+482538.0,DeVry University-Missouri,"Private, for-profit",5210,Human Resources Management and Services.,5,Master's Degree,,52417,51563,53726,58380,59771,69768
+482538.0,DeVry University-Missouri,"Private, for-profit",5212,Management Information Systems and Services.,5,Master's Degree,,65756,66885,73133,77162,84349,91674
+482547.0,DeVry University-Nevada,"Private, for-profit",1109,Computer Systems Networking and Telecommunications.,5,Master's Degree,,68726,66592,72885,74141,78296,94974
+482547.0,DeVry University-Nevada,"Private, for-profit",5202,"Business Administration, Management and Operations.",5,Master's Degree,,61144,64686,66091,71067,77117,86831
+482547.0,DeVry University-Nevada,"Private, for-profit",5203,Accounting and Related Services.,5,Master's Degree,,59102,58714,62826,68141,72954,81554
+482547.0,DeVry University-Nevada,"Private, for-profit",5210,Human Resources Management and Services.,5,Master's Degree,,52417,51563,53726,58380,59771,69768
+482547.0,DeVry University-Nevada,"Private, for-profit",5212,Management Information Systems and Services.,5,Master's Degree,,65756,66885,73133,77162,84349,91674
+482556.0,DeVry University-New Jersey,"Private, for-profit",5202,"Business Administration, Management and Operations.",5,Master's Degree,,61144,64686,66091,71067,77117,86831
+482565.0,DeVry University-North Carolina,"Private, for-profit",5202,"Business Administration, Management and Operations.",5,Master's Degree,,61144,64686,66091,71067,77117,86831
+482565.0,DeVry University-North Carolina,"Private, for-profit",5203,Accounting and Related Services.,5,Master's Degree,,59102,58714,62826,68141,72954,81554
+482565.0,DeVry University-North Carolina,"Private, for-profit",5210,Human Resources Management and Services.,5,Master's Degree,,52417,51563,53726,58380,59771,69768
+482565.0,DeVry University-North Carolina,"Private, for-profit",5212,Management Information Systems and Services.,5,Master's Degree,,65756,66885,73133,77162,84349,91674
+482574.0,DeVry University-Ohio,"Private, for-profit",1109,Computer Systems Networking and Telecommunications.,5,Master's Degree,,68726,66592,72885,74141,78296,94974
+482574.0,DeVry University-Ohio,"Private, for-profit",5202,"Business Administration, Management and Operations.",5,Master's Degree,,61144,64686,66091,71067,77117,86831
+482574.0,DeVry University-Ohio,"Private, for-profit",5203,Accounting and Related Services.,5,Master's Degree,,59102,58714,62826,68141,72954,81554
+482574.0,DeVry University-Ohio,"Private, for-profit",5210,Human Resources Management and Services.,5,Master's Degree,,52417,51563,53726,58380,59771,69768
+482574.0,DeVry University-Ohio,"Private, for-profit",5212,Management Information Systems and Services.,5,Master's Degree,,65756,66885,73133,77162,84349,91674
+482608.0,DeVry University-Pennsylvania,"Private, for-profit",1109,Computer Systems Networking and Telecommunications.,5,Master's Degree,,68726,66592,72885,74141,78296,94974
+482608.0,DeVry University-Pennsylvania,"Private, for-profit",5202,"Business Administration, Management and Operations.",5,Master's Degree,,61144,64686,66091,71067,77117,86831
+482608.0,DeVry University-Pennsylvania,"Private, for-profit",5203,Accounting and Related Services.,5,Master's Degree,,59102,58714,62826,68141,72954,81554
+482608.0,DeVry University-Pennsylvania,"Private, for-profit",5210,Human Resources Management and Services.,5,Master's Degree,,52417,51563,53726,58380,59771,69768
+482608.0,DeVry University-Pennsylvania,"Private, for-profit",5212,Management Information Systems and Services.,5,Master's Degree,,65756,66885,73133,77162,84349,91674
+482617.0,DeVry University-Tennessee,"Private, for-profit",5202,"Business Administration, Management and Operations.",5,Master's Degree,,61144,64686,66091,71067,77117,86831
+482617.0,DeVry University-Tennessee,"Private, for-profit",5203,Accounting and Related Services.,5,Master's Degree,,59102,58714,62826,68141,72954,81554
+482617.0,DeVry University-Tennessee,"Private, for-profit",5210,Human Resources Management and Services.,5,Master's Degree,,52417,51563,53726,58380,59771,69768
+482617.0,DeVry University-Tennessee,"Private, for-profit",5212,Management Information Systems and Services.,5,Master's Degree,,65756,66885,73133,77162,84349,91674
+482635.0,DeVry University-Texas,"Private, for-profit",5202,"Business Administration, Management and Operations.",5,Master's Degree,,61144,64686,66091,71067,77117,86831
+482635.0,DeVry University-Texas,"Private, for-profit",5203,Accounting and Related Services.,5,Master's Degree,,59102,58714,62826,68141,72954,81554
+482635.0,DeVry University-Texas,"Private, for-profit",5210,Human Resources Management and Services.,5,Master's Degree,,52417,51563,53726,58380,59771,69768
+482635.0,DeVry University-Texas,"Private, for-profit",5212,Management Information Systems and Services.,5,Master's Degree,,65756,66885,73133,77162,84349,91674
+482653.0,DeVry University-Virginia,"Private, for-profit",1109,Computer Systems Networking and Telecommunications.,5,Master's Degree,,68726,66592,72885,74141,78296,94974
+482653.0,DeVry University-Virginia,"Private, for-profit",5202,"Business Administration, Management and Operations.",5,Master's Degree,,61144,64686,66091,71067,77117,86831
+482653.0,DeVry University-Virginia,"Private, for-profit",5203,Accounting and Related Services.,5,Master's Degree,,59102,58714,62826,68141,72954,81554
+482653.0,DeVry University-Virginia,"Private, for-profit",5210,Human Resources Management and Services.,5,Master's Degree,,52417,51563,53726,58380,59771,69768
+482653.0,DeVry University-Virginia,"Private, for-profit",5212,Management Information Systems and Services.,5,Master's Degree,,65756,66885,73133,77162,84349,91674
+483780.0,IGlobal University,"Private, for-profit",1101,"Computer and Information Sciences, General.",5,Master's Degree,,,,,,,
+483780.0,IGlobal University,"Private, for-profit",5202,"Business Administration, Management and Operations.",5,Master's Degree,,,,,,,
+484613.0,University of Phoenix-Arizona,"Private, for-profit",1101,"Computer and Information Sciences, General.",5,Master's Degree,,52919,57318,57745,56257,62324,69949
+484613.0,University of Phoenix-Arizona,"Private, for-profit",1303,Curriculum and Instruction.,5,Master's Degree,,48651,44865,48425,58481,53118,58925
+484613.0,University of Phoenix-Arizona,"Private, for-profit",1304,Educational Administration and Supervision.,5,Master's Degree,,52016,51517,52218,60279,59318,65620
+484613.0,University of Phoenix-Arizona,"Private, for-profit",1310,Special Education and Teaching.,5,Master's Degree,,45343,43768,46303,53842,51521,56333
+484613.0,University of Phoenix-Arizona,"Private, for-profit",1311,Student Counseling and Personnel Services.,5,Master's Degree,,46777,46380,50383,62143,55208,62387
+484613.0,University of Phoenix-Arizona,"Private, for-profit",1312,"Teacher Education and Professional Development, Specific Levels and Methods.",5,Master's Degree,,42944,43842,46530,51597,51250,56291
+484613.0,University of Phoenix-Arizona,"Private, for-profit",1313,"Teacher Education and Professional Development, Specific Subject Areas.",5,Master's Degree,,50730,48237,45781,63712,51472,57184
+484613.0,University of Phoenix-Arizona,"Private, for-profit",1907,"Human Development, Family Studies, and Related Services.",5,Master's Degree,,39523,39729,37998,50008,47184,51042
+484613.0,University of Phoenix-Arizona,"Private, for-profit",4299,"Psychology, Other.",5,Master's Degree,,38507,36931,35503,46841,42290,47976
+484613.0,University of Phoenix-Arizona,"Private, for-profit",4301,Criminal Justice and Corrections.,5,Master's Degree,,42565,44595,43242,49871,52160,58188
+484613.0,University of Phoenix-Arizona,"Private, for-profit",4404,Public Administration.,5,Master's Degree,,48908,48466,47879,58617,53783,59519
+484613.0,University of Phoenix-Arizona,"Private, for-profit",5107,Health and Medical Administrative Services.,5,Master's Degree,,51961,51872,51522,58197,58294,68344
+484613.0,University of Phoenix-Arizona,"Private, for-profit",5115,Mental and Social Health Services and Allied Professions.,5,Master's Degree,,49344,46996,50325,58837,57478,64992
+484613.0,University of Phoenix-Arizona,"Private, for-profit",5132,Bioethics/Medical Ethics.,5,Master's Degree,,,88596,,106556,98652,110140
+484613.0,University of Phoenix-Arizona,"Private, for-profit",5138,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",5,Master's Degree,,99867,100487,98209,113925,111460,120428
+484613.0,University of Phoenix-Arizona,"Private, for-profit",5202,"Business Administration, Management and Operations.",5,Master's Degree,,57810,56498,57570,67504,66679,74320
+484613.0,University of Phoenix-Arizona,"Private, for-profit",5203,Accounting and Related Services.,5,Master's Degree,,50214,51488,54196,59839,61463,69359
+484613.0,University of Phoenix-Arizona,"Private, for-profit",5208,Finance and Financial Management Services.,5,Master's Degree,,58471,60173,59527,72214,67961,81301
+484613.0,University of Phoenix-Arizona,"Private, for-profit",5210,Human Resources Management and Services.,5,Master's Degree,,46739,45611,47000,55227,53433,59128
+484613.0,University of Phoenix-Arizona,"Private, for-profit",5212,Management Information Systems and Services.,5,Master's Degree,,65781,65544,68025,70536,76228,84692
+484613.0,University of Phoenix-Arizona,"Private, for-profit",5214,Marketing.,5,Master's Degree,,45923,45340,42400,54942,51369,62442
+484631.0,University of Phoenix-California,"Private, for-profit",1312,"Teacher Education and Professional Development, Specific Levels and Methods.",5,Master's Degree,,42944,43842,46530,51597,51250,56291
+484631.0,University of Phoenix-California,"Private, for-profit",4301,Criminal Justice and Corrections.,5,Master's Degree,,42565,44595,43242,49871,52160,58188
+484631.0,University of Phoenix-California,"Private, for-profit",5107,Health and Medical Administrative Services.,5,Master's Degree,,51961,51872,51522,58197,58294,68344
+484631.0,University of Phoenix-California,"Private, for-profit",5115,Mental and Social Health Services and Allied Professions.,5,Master's Degree,,49344,46996,50325,58837,57478,64992
+484631.0,University of Phoenix-California,"Private, for-profit",5138,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",5,Master's Degree,,99867,100487,98209,113925,111460,120428
+484631.0,University of Phoenix-California,"Private, for-profit",5202,"Business Administration, Management and Operations.",5,Master's Degree,,57810,56498,57570,67504,66679,74320
+484631.0,University of Phoenix-California,"Private, for-profit",5203,Accounting and Related Services.,5,Master's Degree,,50214,51488,54196,59839,61463,69359
+484631.0,University of Phoenix-California,"Private, for-profit",5208,Finance and Financial Management Services.,5,Master's Degree,,58471,60173,59527,72214,67961,81301
+484631.0,University of Phoenix-California,"Private, for-profit",5210,Human Resources Management and Services.,5,Master's Degree,,46739,45611,47000,55227,53433,59128
+484631.0,University of Phoenix-California,"Private, for-profit",5212,Management Information Systems and Services.,5,Master's Degree,,65781,65544,68025,70536,76228,84692
+484631.0,University of Phoenix-California,"Private, for-profit",5214,Marketing.,5,Master's Degree,,45923,45340,42400,54942,51369,62442
+484668.0,University of Phoenix-Florida,"Private, for-profit",4301,Criminal Justice and Corrections.,5,Master's Degree,,42565,44595,43242,49871,52160,58188
+484668.0,University of Phoenix-Florida,"Private, for-profit",5202,"Business Administration, Management and Operations.",5,Master's Degree,,57810,56498,57570,67504,66679,74320
+484668.0,University of Phoenix-Florida,"Private, for-profit",5203,Accounting and Related Services.,5,Master's Degree,,50214,51488,54196,59839,61463,69359
+484668.0,University of Phoenix-Florida,"Private, for-profit",5210,Human Resources Management and Services.,5,Master's Degree,,46739,45611,47000,55227,53433,59128
+484677.0,University of Phoenix-Georgia,"Private, for-profit",5202,"Business Administration, Management and Operations.",5,Master's Degree,,57810,56498,57570,67504,66679,74320
+484677.0,University of Phoenix-Georgia,"Private, for-profit",5210,Human Resources Management and Services.,5,Master's Degree,,46739,45611,47000,55227,53433,59128
+484710.0,University of Phoenix-Nevada,"Private, for-profit",4301,Criminal Justice and Corrections.,5,Master's Degree,,42565,44595,43242,49871,52160,58188
+484710.0,University of Phoenix-Nevada,"Private, for-profit",5115,Mental and Social Health Services and Allied Professions.,5,Master's Degree,,49344,46996,50325,58837,57478,64992
+484710.0,University of Phoenix-Nevada,"Private, for-profit",5202,"Business Administration, Management and Operations.",5,Master's Degree,,57810,56498,57570,67504,66679,74320
+484710.0,University of Phoenix-Nevada,"Private, for-profit",5208,Finance and Financial Management Services.,5,Master's Degree,,58471,60173,59527,72214,67961,81301
+484710.0,University of Phoenix-Nevada,"Private, for-profit",5210,Human Resources Management and Services.,5,Master's Degree,,46739,45611,47000,55227,53433,59128
+484710.0,University of Phoenix-Nevada,"Private, for-profit",5214,Marketing.,5,Master's Degree,,45923,45340,42400,54942,51369,62442
+484729.0,University of Phoenix-North Carolina,"Private, for-profit",5202,"Business Administration, Management and Operations.",5,Master's Degree,,57810,56498,57570,67504,66679,74320
+484756.0,University of Phoenix-Texas,"Private, for-profit",5202,"Business Administration, Management and Operations.",5,Master's Degree,,57810,56498,57570,67504,66679,74320
+484756.0,University of Phoenix-Texas,"Private, for-profit",5203,Accounting and Related Services.,5,Master's Degree,,50214,51488,54196,59839,61463,69359
+484756.0,University of Phoenix-Texas,"Private, for-profit",5208,Finance and Financial Management Services.,5,Master's Degree,,58471,60173,59527,72214,67961,81301
+484756.0,University of Phoenix-Texas,"Private, for-profit",5210,Human Resources Management and Services.,5,Master's Degree,,46739,45611,47000,55227,53433,59128
+484756.0,University of Phoenix-Texas,"Private, for-profit",5214,Marketing.,5,Master's Degree,,45923,45340,42400,54942,51369,62442
+484783.0,University of Phoenix-Pennsylvania,"Private, for-profit",5202,"Business Administration, Management and Operations.",5,Master's Degree,,57810,56498,57570,67504,66679,74320
+484862.0,University of West Los Angeles,"Private, for-profit",5202,"Business Administration, Management and Operations.",5,Master's Degree,,,,,,,
+484862.0,University of West Los Angeles,"Private, for-profit",5213,Management Sciences and Quantitative Methods.,5,Master's Degree,,,,,,,
+485546.0,California Intercontinental University,"Private, for-profit",5107,Health and Medical Administrative Services.,5,Master's Degree,,,,,,,
+485546.0,California Intercontinental University,"Private, for-profit",5202,"Business Administration, Management and Operations.",5,Master's Degree,,,,,,,
+485546.0,California Intercontinental University,"Private, for-profit",5208,Finance and Financial Management Services.,5,Master's Degree,,,,,,,
+485546.0,California Intercontinental University,"Private, for-profit",5210,Human Resources Management and Services.,5,Master's Degree,,,,,,,
+485546.0,California Intercontinental University,"Private, for-profit",5212,Management Information Systems and Services.,5,Master's Degree,,,,,,,
+485546.0,California Intercontinental University,"Private, for-profit",5214,Marketing.,5,Master's Degree,,,,,,,
+485768.0,Atlantis University,"Private, for-profit",1101,"Computer and Information Sciences, General.",5,Master's Degree,,,,,,,
+485768.0,Atlantis University,"Private, for-profit",1409,Computer Engineering.,5,Master's Degree,,,,,,,
+485768.0,Atlantis University,"Private, for-profit",5107,Health and Medical Administrative Services.,5,Master's Degree,,,,,,,
+485768.0,Atlantis University,"Private, for-profit",5202,"Business Administration, Management and Operations.",5,Master's Degree,,,,,37973,,
+485768.0,Atlantis University,"Private, for-profit",5209,Hospitality Administration/Management.,5,Master's Degree,,,,,,,
+486239.0,San Ignacio University,"Private, for-profit",1301,"Education, General.",5,Master's Degree,,,,,,,
+486239.0,San Ignacio University,"Private, for-profit",5202,"Business Administration, Management and Operations.",5,Master's Degree,,,,,,,
+486239.0,San Ignacio University,"Private, for-profit",5209,Hospitality Administration/Management.,5,Master's Degree,,,,,,,
+487995.0,Alhambra Medical University,"Private, for-profit",5133,Alternative and Complementary Medicine and Medical Systems.,5,Master's Degree,,,,,,,
+488031.0,Abraham Lincoln University,"Private, for-profit",2299,"Legal Professions and Studies, Other.",5,Master's Degree,,,,,,,
+488031.0,Abraham Lincoln University,"Private, for-profit",4301,Criminal Justice and Corrections.,5,Master's Degree,,,,,,,
+488031.0,Abraham Lincoln University,"Private, for-profit",5202,"Business Administration, Management and Operations.",5,Master's Degree,,,,,,,
+488068.0,Huntington University of Health Sciences,"Private, for-profit",3019,Nutrition Sciences.,5,Master's Degree,,,,,,,
+488448.0,Seattle Film Institute,"Private, for-profit",5006,Film/Video and Photographic Arts.,5,Master's Degree,,,,,13476,,
+488448.0,Seattle Film Institute,"Private, for-profit",5009,Music.,5,Master's Degree,,,,,,,
+488776.0,John Patrick University of Health and Applied Sciences,"Private, for-profit",2602,"Biochemistry, Biophysics and Molecular Biology.",5,Master's Degree,,,,,,,
+488776.0,John Patrick University of Health and Applied Sciences,"Private, for-profit",5109,"Allied Health Diagnostic, Intervention, and Treatment Professions.",5,Master's Degree,,87175,,,112273,,
+488776.0,John Patrick University of Health and Applied Sciences,"Private, for-profit",5122,Public Health.,5,Master's Degree,,,,,,,
+489858.0,West Coast University-Center for Graduate Studies,"Private, for-profit",5123,Rehabilitation and Therapeutic Professions.,5,Master's Degree,,76871,74845,80041,86227,82306,80787
+490063.0,Southern States University,"Private, for-profit",1101,"Computer and Information Sciences, General.",5,Master's Degree,,,,,,,
+490063.0,Southern States University,"Private, for-profit",5202,"Business Administration, Management and Operations.",5,Master's Degree,,,,,,,
+490133.0,Westcliff University,"Private, for-profit",1314,Teaching English or French as a Second or Foreign Language.,5,Master's Degree,,,,,,,
+490133.0,Westcliff University,"Private, for-profit",5202,"Business Administration, Management and Operations.",5,Master's Degree,,,,,,,
+491808.0,Meridian University,"Private, for-profit",1304,Educational Administration and Supervision.,5,Master's Degree,,,,,,,
+491808.0,Meridian University,"Private, for-profit",4228,"Clinical, Counseling and Applied Psychology.",5,Master's Degree,,,,,,,
+491808.0,Meridian University,"Private, for-profit",5202,"Business Administration, Management and Operations.",5,Master's Degree,,,,,,,
+492704.0,Ponce Health Sciences University-Centro Universitario de San Juan,"Private, for-profit",2699,"Biological and Biomedical Sciences, Other.",5,Master's Degree,,,,,,,
+493512.0,San Diego Global Knowledge University,"Private, for-profit",5213,Management Sciences and Quantitative Methods.,5,Master's Degree,,,,,,,
+493673.0,Professional University Dr. Carlos J. Borrero Rios,"Private, for-profit",5138,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",5,Master's Degree,,,,,,,
+493895.0,SANS Technology Institute,"Private, for-profit",1110,Computer/Information Technology Administration and Management.,5,Master's Degree,,,,,,,
+494010.0,Ponce Health Sciences University-St Louis,"Private, for-profit",2601,"Biology, General.",5,Master's Degree,,,,,,,
+494807.0,Ponce Health Sciences University-East,"Private, for-profit",4201,"Psychology, General.",5,Master's Degree,,,,,,,
+494807.0,Ponce Health Sciences University-East,"Private, for-profit",4228,"Clinical, Counseling and Applied Psychology.",5,Master's Degree,,,,,,,
+,Brooks Institute,"Private, for-profit",5006,Film/Video and Photographic Arts.,5,Master's Degree,,,,,,,
+,Globe University,"Private, for-profit",5202,"Business Administration, Management and Operations.",5,Master's Degree,,60747,,55007,,58993,72180
+,Minnesota School of Business,"Private, for-profit",5202,"Business Administration, Management and Operations.",5,Master's Degree,,,63005,69743,,75415,87635
+,Daniel Webster College,"Private, for-profit",5202,"Business Administration, Management and Operations.",5,Master's Degree,,,50270,,,56142,
+,ITT Technical Institute,"Private, for-profit",5202,"Business Administration, Management and Operations.",5,Master's Degree,,,46869,46725,,62167,62618
+,Harrington College of Design,"Private, for-profit",5004,Design and Applied Arts.,5,Master's Degree,,51997,45696,47956,,57846,62368
+,Western International University,"Private, for-profit",1105,Computer Systems Analysis.,5,Master's Degree,,,,,,,
+,Western International University,"Private, for-profit",4404,Public Administration.,5,Master's Degree,,55294,61516,,,,
+,Western International University,"Private, for-profit",5202,"Business Administration, Management and Operations.",5,Master's Degree,,67080,69338,68524,71362,73819,86844
+,Western International University,"Private, for-profit",5203,Accounting and Related Services.,5,Master's Degree,,61795,60161,,62535,57421,78263
+,Western International University,"Private, for-profit",5208,Finance and Financial Management Services.,5,Master's Degree,,,,,,,
+,Western International University,"Private, for-profit",5210,Human Resources Management and Services.,5,Master's Degree,,52607,,,,,
+,Western International University,"Private, for-profit",5211,International Business.,5,Master's Degree,,,,,,,
+,Western International University,"Private, for-profit",5214,Marketing.,5,Master's Degree,,,,,,,
+,Argosy University,"Private, for-profit",1003,Graphic Communications.,5,Master's Degree,,,,,,,
+,Argosy University,"Private, for-profit",1303,Curriculum and Instruction.,5,Master's Degree,,27528,33281,38349,,52904,50081
+,Argosy University,"Private, for-profit",1304,Educational Administration and Supervision.,5,Master's Degree,,56371,55348,57402,60140,67140,73573
+,Argosy University,"Private, for-profit",1311,Student Counseling and Personnel Services.,5,Master's Degree,,,47846,,,,
+,Argosy University,"Private, for-profit",1312,"Teacher Education and Professional Development, Specific Levels and Methods.",5,Master's Degree,,,52107,51843,,,51533
+,Argosy University,"Private, for-profit",2202,Legal Research and Advanced Professional Studies.,5,Master's Degree,,,,,,,
+,Argosy University,"Private, for-profit",3105,Health and Physical Education/Fitness.,5,Master's Degree,,38212,43000,47748,,51698,60044
+,Argosy University,"Private, for-profit",4228,"Clinical, Counseling and Applied Psychology.",5,Master's Degree,,45574,46395,46593,64323,56022,65927
+,Argosy University,"Private, for-profit",4400,"Human Services, General.",5,Master's Degree,,36924,35925,34734,41463,42926,48921
+,Argosy University,"Private, for-profit",4404,Public Administration.,5,Master's Degree,,,39369,39805,,41001,44775
+,Argosy University,"Private, for-profit",4407,Social Work.,5,Master's Degree,,40909,41250,41117,46860,50296,56598
+,Argosy University,"Private, for-profit",5107,Health and Medical Administrative Services.,5,Master's Degree,,,38649,37455,,43106,50566
+,Argosy University,"Private, for-profit",5115,Mental and Social Health Services and Allied Professions.,5,Master's Degree,,42983,42682,43609,49797,50542,56741
+,Argosy University,"Private, for-profit",5122,Public Health.,5,Master's Degree,,40758,44635,49914,51976,51258,62787
+,Argosy University,"Private, for-profit",5202,"Business Administration, Management and Operations.",5,Master's Degree,,50564,50016,51177,54860,58745,66316
+,Argosy University,"Private, for-profit",5210,Human Resources Management and Services.,5,Master's Degree,,45601,46673,49422,54425,54845,61605
+,National Hispanic University (The),"Private, for-profit",1301,"Education, General.",5,Master's Degree,,,57318,65951,,67314,82411
+,Tri-State College of Acupuncture,"Private, for-profit",5133,Alternative and Complementary Medicine and Medical Systems.,5,Master's Degree,,,48041,,,43452,34556
+,University of Southernmost Florida,"Private, for-profit",5138,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",5,Master's Degree,,,,,,,
+,McNally Smith College of Music,"Private, for-profit",5009,Music.,5,Master's Degree,,,43798,,,,
+,Virginia College,"Private, for-profit",1110,Computer/Information Technology Administration and Management.,5,Master's Degree,,,,,,,
+,Virginia College,"Private, for-profit",4301,Criminal Justice and Corrections.,5,Master's Degree,,,,,,,
+,Virginia College,"Private, for-profit",5202,"Business Administration, Management and Operations.",5,Master's Degree,,,29685,35364,,37782,48815
+,Westwood College - Los Angeles,"Private, for-profit",5202,"Business Administration, Management and Operations.",5,Master's Degree,,,41007,37821,,46590,54003
+,Jones International University,"Private, for-profit",1301,"Education, General.",5,Master's Degree,,,44933,47101,,51654,58828
+,Jones International University,"Private, for-profit",5202,"Business Administration, Management and Operations.",5,Master's Degree,,,46478,46778,,49987,59451
+,Jones International University,"Private, for-profit",5205,Business/Corporate Communications.,5,Master's Degree,,,,,,,
+,University of the Rockies,"Private, for-profit",1304,Educational Administration and Supervision.,5,Master's Degree,,,,,,,
+,University of the Rockies,"Private, for-profit",1399,"Education, Other.",5,Master's Degree,,,,,,,
+,University of the Rockies,"Private, for-profit",1907,"Human Development, Family Studies, and Related Services.",5,Master's Degree,,,,,,,
+,University of the Rockies,"Private, for-profit",4201,"Psychology, General.",5,Master's Degree,,35253,41565,38101,,46354,51176
+,University of the Rockies,"Private, for-profit",4228,"Clinical, Counseling and Applied Psychology.",5,Master's Degree,,,,,,,
+,University of the Rockies,"Private, for-profit",4400,"Human Services, General.",5,Master's Degree,,41741,36992,31177,,42394,36827
+,University of the Rockies,"Private, for-profit",4511,Sociology.,5,Master's Degree,,,,,,,
+,University of the Rockies,"Private, for-profit",5202,"Business Administration, Management and Operations.",5,Master's Degree,,51675,59824,43090,,61883,67206
+,University of the Rockies,"Private, for-profit",5210,Human Resources Management and Services.,5,Master's Degree,,35434,37424,33524,,40776,46830
+,Institute of Beauty Occupations and Technology Course,"Private, for-profit",1204,Cosmetology and Related Personal Grooming Services.,5,Master's Degree,,,,,,,
+,Wolford College,"Private, for-profit",5138,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",5,Master's Degree,,190177,176972,177819,,181115,187734
+,New England College of Business and Finance,"Private, for-profit",5107,Health and Medical Administrative Services.,5,Master's Degree,,,68790,,,,
+,New England College of Business and Finance,"Private, for-profit",5202,"Business Administration, Management and Operations.",5,Master's Degree,,62502,69338,69915,91116,84589,91268
+,New England College of Business and Finance,"Private, for-profit",5203,Accounting and Related Services.,5,Master's Degree,,68922,67812,72978,70424,83935,95245
+,New England College of Business and Finance,"Private, for-profit",5210,Human Resources Management and Services.,5,Master's Degree,,52116,,,,,
+,Digital Media Arts College,"Private, for-profit",1003,Graphic Communications.,5,Master's Degree,,,,,,,
+,Digital Media Arts College,"Private, for-profit",1108,Computer Software and Media Applications.,5,Master's Degree,,,,,,,
+,Digital Media Arts College,"Private, for-profit",5004,Design and Applied Arts.,5,Master's Degree,,,,,,,
+,Southern California University SOMA,"Private, for-profit",5133,Alternative and Complementary Medicine and Medical Systems.,5,Master's Degree,,,,,,,
